@@ -1,0 +1,51 @@
+test_id,gaseous_fuel,burner_nozzle_dia_mm,coflow_velocity_cms,electric_field_kV,soot_volume_fraction_ppm,flame_height_mm,peak_flame_temp_K,extinction_limit_type
+ACME_001,Methane,3.0,7.7,1.8,7.87,46.9,1635.1,Convective Blowoff
+ACME_002,Methane,3.0,5.8,3.6,1.62,21.9,1268.6,Convective Blowoff
+ACME_003,Propane,1.5,14.3,1.5,4.87,15.5,1858.1,Radiative
+ACME_004,Hydrogen-Methane Mix,2.0,11.9,2.8,7.79,27.7,1399.2,Radiative
+ACME_005,Hydrogen-Methane Mix,1.5,3.8,2.4,0.39,24.4,1297.1,Stable Flame
+ACME_006,Hydrogen-Methane Mix,3.0,13.3,3.3,5.96,24.8,1866.6,Convective Blowoff
+ACME_007,Hydrogen-Methane Mix,1.5,8.3,4.7,2.6,21.7,1916.7,Radiative
+ACME_008,Propane,3.0,13.6,3.7,7.86,12.1,1846.6,Convective Blowoff
+ACME_009,Propane,3.0,12.4,1.1,8.26,10.9,1807.1,Stable Flame
+ACME_010,Methane,1.5,7.5,0.2,8.03,59.4,1691.4,Radiative
+ACME_011,Methane,3.0,2.3,1.3,4.08,31.4,1613.1,Radiative
+ACME_012,Methane,2.0,5.5,3.0,7.34,29.2,1265.2,Radiative
+ACME_013,Methane,3.0,9.0,0.3,7.19,44.0,1506.3,Stable Flame
+ACME_014,Propane,2.0,10.2,2.5,2.78,20.9,1479.5,Convective Blowoff
+ACME_015,Hydrogen-Methane Mix,2.0,5.4,3.0,7.06,57.5,1394.8,Radiative
+ACME_016,Propane,3.0,3.8,1.7,0.41,49.3,1742.6,Stable Flame
+ACME_017,Methane,1.5,12.9,3.9,5.11,14.5,1571.9,Convective Blowoff
+ACME_018,Propane,2.0,14.8,0.5,2.03,30.9,1260.8,Stable Flame
+ACME_019,Hydrogen-Methane Mix,1.5,8.8,0.4,1.11,54.0,1365.1,Convective Blowoff
+ACME_020,Hydrogen-Methane Mix,2.0,4.2,3.6,0.75,57.2,1712.4,Stable Flame
+ACME_021,Propane,3.0,5.5,2.5,5.95,33.4,1257.1,Convective Blowoff
+ACME_022,Propane,3.0,2.2,3.4,2.95,40.7,1838.4,Radiative
+ACME_023,Propane,2.0,13.9,2.2,6.19,18.4,1571.4,Convective Blowoff
+ACME_024,Methane,3.0,3.5,1.2,0.65,59.6,1560.4,Stable Flame
+ACME_025,Propane,2.0,9.5,4.1,2.75,21.6,1644.3,Stable Flame
+ACME_026,Propane,3.0,5.6,4.0,4.63,57.1,1818.5,Convective Blowoff
+ACME_027,Propane,1.5,9.2,3.5,6.74,42.5,1460.9,Radiative
+ACME_028,Hydrogen-Methane Mix,3.0,10.5,1.4,2.78,40.4,1708.5,Radiative
+ACME_029,Hydrogen-Methane Mix,1.5,12.8,3.0,5.36,35.6,1624.3,Convective Blowoff
+ACME_030,Methane,3.0,4.7,1.8,7.54,21.5,1400.3,Convective Blowoff
+ACME_031,Methane,1.5,2.1,0.5,5.27,18.8,1859.0,Stable Flame
+ACME_032,Hydrogen-Methane Mix,3.0,3.8,4.6,2.06,21.0,1798.1,Radiative
+ACME_033,Hydrogen-Methane Mix,1.5,13.7,0.7,0.3,19.3,1693.8,Convective Blowoff
+ACME_034,Hydrogen-Methane Mix,2.0,13.4,4.8,7.41,49.0,1837.9,Radiative
+ACME_035,Propane,2.0,9.8,2.2,0.28,27.5,1850.5,Convective Blowoff
+ACME_036,Propane,1.5,9.8,0.9,7.45,12.9,1731.3,Convective Blowoff
+ACME_037,Hydrogen-Methane Mix,3.0,10.6,2.7,4.54,58.5,1827.8,Radiative
+ACME_038,Propane,1.5,4.3,4.4,7.99,54.2,1723.1,Convective Blowoff
+ACME_039,Propane,3.0,13.9,3.7,6.81,56.4,1710.1,Convective Blowoff
+ACME_040,Methane,2.0,7.4,4.0,8.48,59.7,1664.0,Stable Flame
+ACME_041,Hydrogen-Methane Mix,3.0,7.0,3.3,3.05,18.7,1764.5,Convective Blowoff
+ACME_042,Hydrogen-Methane Mix,2.0,8.7,3.5,6.54,29.8,1319.0,Convective Blowoff
+ACME_043,Propane,3.0,2.6,4.2,3.48,47.9,1860.7,Convective Blowoff
+ACME_044,Hydrogen-Methane Mix,3.0,4.2,1.2,4.13,44.8,1853.9,Stable Flame
+ACME_045,Methane,3.0,11.6,2.4,5.37,17.7,1221.9,Radiative
+ACME_046,Methane,1.5,3.1,1.1,7.44,50.8,1819.4,Stable Flame
+ACME_047,Methane,1.5,9.8,4.9,8.37,21.2,1296.7,Stable Flame
+ACME_048,Hydrogen-Methane Mix,2.0,5.2,4.7,6.55,21.2,1451.3,Radiative
+ACME_049,Hydrogen-Methane Mix,2.0,7.1,0.2,3.61,36.8,1757.6,Stable Flame
+ACME_050,Hydrogen-Methane Mix,1.5,5.8,3.5,3.64,39.6,1320.6,Radiative

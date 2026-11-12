@@ -1,0 +1,51 @@
+test_id,sample_material,sample_thickness_mm,airflow_velocity_cms,O2_concentration_pct,cabin_pressure_psi,flame_spread_rate_mms,peak_temperature_C,CO_ppm,flammability_status
+BASS2_001,Nomex,1.9,19.7,32.8,13.44,0.265,399.7,15.4,Sustained Burn
+BASS2_002,PMMA,4.9,3.0,25.5,13.06,0.378,642.3,37.0,Sustained Burn
+BASS2_003,Nomex,1.0,11.9,27.7,9.4,0.249,725.3,5.0,Sustained Burn
+BASS2_004,Cotton-Fiber Blend,4.9,7.6,31.2,9.56,1.081,422.5,38.1,Radiative Extinction
+BASS2_005,Nomex,1.2,19.4,26.2,10.61,0.142,376.6,5.7,Sustained Burn
+BASS2_006,Nomex,4.6,16.8,29.1,11.35,0.653,646.4,17.9,Sustained Burn
+BASS2_007,PMMA,3.1,16.8,32.2,12.22,0.522,579.8,35.9,Radiative Extinction
+BASS2_008,PMMA,5.0,9.4,33.3,10.6,1.18,686.7,6.7,Sustained Burn
+BASS2_009,PMMA,1.3,8.3,22.9,11.21,0.179,405.9,10.3,Blowoff
+BASS2_010,Nomex,3.2,5.5,33.0,13.06,0.508,668.1,32.5,Blowoff
+BASS2_011,Cotton-Fiber Blend,4.9,1.1,27.4,8.44,1.165,430.7,32.4,Sustained Burn
+BASS2_012,PMMA,3.1,17.3,24.4,9.84,1.045,415.5,28.9,Radiative Extinction
+BASS2_013,PMMA,3.5,16.3,27.0,12.84,0.99,415.7,31.2,Blowoff
+BASS2_014,Nomex,3.8,20.0,33.7,14.02,0.347,675.8,24.4,Radiative Extinction
+BASS2_015,PMMA,2.8,19.9,27.4,11.53,0.247,616.1,11.3,Radiative Extinction
+BASS2_016,Cotton-Fiber Blend,3.5,11.1,25.3,11.66,0.819,559.2,15.6,Blowoff
+BASS2_017,Cotton-Fiber Blend,3.3,15.4,29.2,8.9,1.119,493.5,8.2,Radiative Extinction
+BASS2_018,PMMA,4.6,18.9,24.1,11.11,0.69,700.9,40.9,Blowoff
+BASS2_019,PMMA,1.2,17.0,22.0,11.66,0.707,507.0,26.3,Radiative Extinction
+BASS2_020,Nomex,2.1,4.9,22.7,9.78,0.372,676.6,18.0,Blowoff
+BASS2_021,Cotton-Fiber Blend,4.8,9.0,22.7,9.95,0.935,525.7,20.8,Sustained Burn
+BASS2_022,Cotton-Fiber Blend,4.6,2.6,23.0,10.65,0.265,500.8,42.6,Blowoff
+BASS2_023,PMMA,2.8,19.1,22.8,8.33,0.422,535.1,6.9,Blowoff
+BASS2_024,Nomex,3.5,12.1,29.3,10.29,0.539,470.6,26.4,Blowoff
+BASS2_025,Cotton-Fiber Blend,2.1,4.6,23.4,9.57,0.634,649.0,22.8,Blowoff
+BASS2_026,Cotton-Fiber Blend,1.8,13.4,25.5,10.33,0.329,551.1,27.5,Radiative Extinction
+BASS2_027,Nomex,2.9,12.4,32.7,8.98,0.182,442.9,0.8,Sustained Burn
+BASS2_028,Nomex,2.4,7.2,27.2,13.99,0.752,709.8,39.2,Blowoff
+BASS2_029,Cotton-Fiber Blend,3.3,2.3,29.7,12.06,0.382,503.6,41.9,Radiative Extinction
+BASS2_030,Cotton-Fiber Blend,1.3,13.4,23.2,12.61,0.718,567.4,25.4,Sustained Burn
+BASS2_031,Nomex,4.9,10.4,23.5,13.33,0.228,712.6,31.3,Sustained Burn
+BASS2_032,Cotton-Fiber Blend,4.9,15.4,21.5,11.44,0.603,599.7,41.5,Sustained Burn
+BASS2_033,PMMA,3.8,10.4,23.2,8.76,0.662,396.8,31.8,Sustained Burn
+BASS2_034,PMMA,3.1,17.0,24.6,11.69,0.11,725.9,6.9,Blowoff
+BASS2_035,Nomex,2.2,11.0,23.3,12.01,0.437,601.1,25.9,Blowoff
+BASS2_036,Nomex,4.3,11.2,22.2,13.05,0.205,484.0,27.3,Radiative Extinction
+BASS2_037,Nomex,3.7,17.5,22.6,11.01,0.123,405.7,19.1,Radiative Extinction
+BASS2_038,PMMA,1.7,8.1,27.0,9.03,1.188,667.6,33.1,Radiative Extinction
+BASS2_039,Cotton-Fiber Blend,4.6,2.7,23.7,10.04,0.421,598.0,42.0,Sustained Burn
+BASS2_040,PMMA,4.3,0.6,25.7,10.56,0.981,563.4,41.7,Sustained Burn
+BASS2_041,Cotton-Fiber Blend,4.8,15.1,27.5,12.4,0.343,707.6,20.3,Blowoff
+BASS2_042,PMMA,3.9,12.4,30.0,11.91,0.834,665.4,5.1,Sustained Burn
+BASS2_043,Cotton-Fiber Blend,3.5,14.1,21.5,10.51,0.924,410.7,44.3,Sustained Burn
+BASS2_044,PMMA,2.7,4.3,31.4,14.61,0.735,474.7,37.8,Sustained Burn
+BASS2_045,Nomex,4.7,2.7,29.2,12.14,0.592,449.4,5.6,Radiative Extinction
+BASS2_046,PMMA,4.5,0.3,22.1,9.74,0.524,647.6,41.4,Radiative Extinction
+BASS2_047,Cotton-Fiber Blend,1.2,7.0,32.4,8.86,0.451,363.4,39.1,Blowoff
+BASS2_048,PMMA,1.1,11.8,33.0,9.19,1.119,578.0,23.3,Sustained Burn
+BASS2_049,PMMA,2.5,7.8,21.8,9.8,1.005,655.0,26.6,Sustained Burn
+BASS2_050,PMMA,4.2,8.7,24.6,9.24,1.16,700.7,18.0,Blowoff

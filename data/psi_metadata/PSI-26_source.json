@@ -1,0 +1,35 @@
+{
+  "Accession": "PSI-26",
+  "Public Release Date": 1372550400.0,
+  "Thumbnail": "/geode-py/ws/investigations/PSI-26/image",
+  "Title": "Burning and Suppression of Solids",
+  "Person": {
+    "Last Name": "Olson Ferkul Takahashi T'ien",
+    "Middle Initials": "",
+    "First Name": "Sandra L. Paul Funiaki James"
+  },
+  "Keywords": "Flame Spread     Fire suppression system     Damkohler number     Boundary layer     Fire safety     Forced Flow Flame     Kinetic regime",
+  "Acronym": "BASS",
+  "Flight Platform": "International Space Station (ISS)",
+  "Research Area": "Combustion Science",
+  "SubResearch Area": "Spacecraft Fire Safety",
+  "Related Investigations": "PSI-107     PSI-25",
+  "Project Type": "Microgravity Investigation",
+  "Proposal Title": "",
+  "Investigation Start Date": "10-01-2009",
+  "Investigation End Date": "06-30-2013",
+  "Sponsoring Agency": "National Aeronautics and Space Administration (NASA)",
+  "Monitoring Center": "Glenn Research Center (GRC)",
+  "Funding Source": "",
+  "Objectives": "The two main objectives for BASS are to:\n    1.) Begin to bridge the gap between the normal gravity NASA-STD-6001 Test#1 method, ground-based microgravity tests, and actual material flammability in microgravity. The relation between these can be investigated by observing flames burning for the longer times available in flight. Practical, realistic (thicker) fuels in typical geometries will be examined, including wake flames which have characteristics of a fire burning behind another object (for example, a fire burning in tight area which may not be easily accessible).\n    2.) Assess the effectiveness of an inert, gaseous extinguishing agent (similar to that used on ISS) in putting out flames over different materials, geometries, preheating, and flow.",
+  "Approach": "The experiment was conducted aboard the International Space Station (ISS) inside the Microgravity Glove Box (MSG). Custom-made fabric samples consisting of 75% cotton and 25% fiberglass (by mass) measuring were used as a fuel source as well as Nomex fabric and Ultem. A Kanthal wire (29-gage)igniter was used to initiate combustion at one end of the fabric. Airflow was controlled using a variable speed fan, with airflow speeds reaching as high as 40 cm/s. The airflow was directed along the fuel surface in either the opposed or concurrent direction.\n\nThis investigation explored two primary air flow configurations; concurrent-flow and opposed-flow. With concurrent-flow air flows in the same direction as the flame spread and in opposed-flow air flows in the opposite direction of flame spread. Flames were observed in the top and edge profiles and data was collected on flame size, shape, color, spread rate, and potential flame quenching. The samples were placed in a small flow duct (76 mm x 76 mm cross section) that allowed for airflow across the fabric. Other sample shapes were utilized as well including spheres and cylinders.",
+  "Hypothesis": "BASS experiments were based on the hypothesis that materials in microgravity, with adequate ventilation, burn as well if not better than the same material in normal gravity with other conditions being identical (pressure, oxygen concentration, temperature, etc.) To test this hypothesis with any but the thinnest materials requires extended microgravity time \u2013 longer than available in drop towers or parabolic aircraft.",
+  "Research Impacts/Earth Benefits": "Current NASA spacecraft materials selection is based on a standard test method (NASA\u2013STD\u20136001 Test 1) that segregates material based on 1-g behavior without consideration of low gravity effects. A critical element of this understanding is the radiative heat emission from the flame. These results are used in first order models and predictions of heat release in spacecraft fires and as a means to extend heat release data from tests like the NASA cone calorimeter test (NASA\u2013STD\u20136001 Test 2) to a performance-based material selection process. Using nitrogen as a flame suppressant in microgravity provides a direct link to current and planned extinguishment techniques.\nBASS results provide essential guidance to ground-based microgravity combustion research efforts. Detailed combustion models are validated using the simpler flow environment afforded by tests in microgravity. Once validated, they can be used to build more complex combustion models needed to capture the important details of flames burning in normal gravity. These models have wide applicability to the general understanding of many terrestrial combustion problems and will guide novel spacecraft design and ensure the safety of future crewed missions.",
+  "Experiment Hardware": {
+    "Name": "Microgravity Science Glovebox",
+    "Link": "https://www1.grc.nasa.gov/space/iss-research/msg/"
+  },
+  "Publication Author List": "Spivey Reggie  Luz Paul     Bhattacharjee Subrata  Laue Matthew  Carmignani Luca  Ferkul Paul  Olson Sandra     Takahashi Shuhei  Ebisawa Tomoya  Bhattacharjee Subrata  Ihara Tadayoshi     S Bhattacharjee  R Nagarkar  Y Nakamura     Bhattacharjee Subrata  Paolini Christopher P.  Miller Fletcher  Nagarkar Rohit     Bhattacharjee Subrata  Cartnignani Luca     JR Villaraza  L Carmignani  S Bhattacharjee     P Ferkul  SL Olson  F Takahashi  M Endo  MC Johnston  JS Tien     S Bhattacharjee  M Bundy  C Paolini  G Patel  W Tran.     GR Bornand  FJ Miller  JM Pepper  SL Olson  IS Wichman",
+  "Publication Title": "The Microgravity Science Glovebox as a Platform for Exploration Research on the International Space Station     Opposed-flow flame spread: A comparison of microgravity and normal gravity experiments to establish the thermal regime     Simplified model for predicting difference between flammability limits of a thin material in normal gravity and microgravity environments     A Correlation for an Effective Flow Velocity for Capturing the Boundary Layer Effect in Opposed-Flow Flame Spread over Thin Fuels     Radiation signature in opposed-flow flame spread     OS24-1 The Effect of Boundary Layer on Blow-Off Extinction in Opposed-Flow Flame Spread: Results of Experiments and Simplified Analysis(invited,Scale modeling on solid combustion,OS24 Scale modeling,FLUID AND THERMODYNAMICS)     Role of Gas Radiation in the Mechanism of Opposed-Flow Flame Spread in a Microgravity Environment     Thickness and Fuel Preheating Effects on Material Flammability in Microgravity from the BASS Experiment     A novel apparatus for flame spread study     Opposed-Flow Flame Spread in a Narrow Channel Apparatus over Thin PMMA Sheets",
+  "Data Source Type": "psi"
+}

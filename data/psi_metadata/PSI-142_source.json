@@ -1,0 +1,35 @@
+{
+  "Accession": "PSI-142",
+  "Public Release Date": 1726617600.0,
+  "Thumbnail": "/geode-py/ws/investigations/PSI-142/image",
+  "Title": "Quantitative Studies of Cool Flame Transitions at Radiation / Stretch Extinction Using Counterflow Flames",
+  "Person": {
+    "Last Name": "Ju Dietrich Reuter",
+    "Middle Initials": "",
+    "First Name": "Yiguang Daniel Christopher"
+  },
+  "Keywords": "Cool Flame Transitions     Ground-based experiments     Flames     Radiation     Low temperature flames     Counterflow flames     Extinction Limit     n-alkane     FLEX     Dibutyl Ether     Modeling     Kinetic experiments     Emissions     Supercritical Reacting Fluids     Low temperature chemistry     PSI Grant",
+  "Acronym": "",
+  "Flight Platform": "Not Applicable",
+  "Research Area": "Combustion Science",
+  "SubResearch Area": "Spacecraft Fire Safety",
+  "Related Investigations": "PSI-69",
+  "Project Type": "Ground Investigation",
+  "Proposal Title": "",
+  "Investigation Start Date": "08-01-2016",
+  "Investigation End Date": "07-31-2021",
+  "Sponsoring Agency": "National Aeronautics and Space Administration (NASA)",
+  "Monitoring Center": "Glenn Research Center (GRC)",
+  "Funding Source": "NNX16AK07G",
+  "Objectives": "By using the Flame Extinguishment (FLEX) experimental data from the Physical Sciences Informatics (PSI) system of combustion science, the purpose of this grant was to conduct new simulations and ground-based experiments using ozone-sensitized counterflow flames to:\n    1) Develop a new diagram of the flammability limits of diffusional cool flames affected by radiation, diffusion, and convection.\n    2) Bridge the knowledge gap between the flammability limits and extinction limits of hot flames and cool flames.\n    3) Verify the phenomena observed on the ISS flame extinguishment experiments.\n    4) Obtain new, quantitative data of extinction limit, flame temperature, and species distribution for the validation of kinetic and radiation models involving cool flames.\n    5) Extend the cool flame experiments from the original ISS droplet experiments to a more general ground-based combustion system involving radiation, diffusion, convection, and low-temperature chemistry while maintaining a one-dimensional geometry.",
+  "Approach": "Using the experimental conditions of FLEX flight, a comparative studies of the oxygen concentration effects on the extinction limits of cool flames was conducted using three different numerical modeling schemes, (a) spark-assisted flame propagation of a n-heptane/air mixture, (b) one dimensional freely-propagating dimethyl ether (DME) flames using an arc-length continuation method and (c) simulated cool flame regimes and burning limits at elevated pressure (up to 20\u202fatm) using DME/air mixtures.\n\nSpecific research details are outlined in the publication, ''Dynamics of cool flames'' [https://doi.org/10.1016/j.pecs.2019.100787]; '' Understanding Cool Flames and Warm Flames'', [https://doi.org/10.1016/j.proci.2020.09.019] and ''Study of the low-temperature reactivity of large n-alkanes through cool diffusion flame extinction'', [https://doi.org/10.1016/j.combustflame.2017.01.028].",
+  "Hypothesis": "This investigation attempts to answer the critical question as to what conditions causes the hot flames transfer to cool flames and how the cool flame flammable region is related to hot flame flammability limit and extinction limit. The investigation hypothesizes that factors such as oxygen concentration, dilution, pressure, diffusion, and convection transport processes affect the cool flame transition.",
+  "Research Impacts/Earth Benefits": "Obtaining a fundamental understanding of the warm diffusion flame is particularly relevant to combustion in highly turbulent flow fields and in microgravity environments, owing to the possibility of long residence times. The results showed that the warm flame has a double reaction zone structure and plays a critical role in the transition between cool flames and hot flames. At elevated pressures, it was found that the flammable region of warm flames and cool flames expands due to the increase in low-temperature and intermediate-temperature reactivity with pressure. Since many real engines operate in the 20-40 atm pressure range, therefore, cool flames and warm flames are relevant and important flame regimes for high-pressure near-limit combustion applications. These calculations from this investigation will serve to advance the understanding of near-limit flame dynamics and provide guidance for experimental observation of different flame regimes.",
+  "Experiment Hardware": {
+    "Name": "Principal Investigator Laboratory Hardware",
+    "Link": "https://doi.org/10.1016/j.combustflame.2016.01.008"
+  },
+  "Publication Author List": "Ju Yiguang  Reuter Christopher B.  Yehia Omar R.  Farouk Tanvir I.  Won Sang Hee     Zhou Mengni  Yehia Omar R.  Xu Wenbin  Reuter Christopher B.  Wang Ziyu  Yan Chao  Jiang Bo  Ju Yiguang     Ju Yiguang     Reuter Christopher B.  Lee Minhyeok  Won Sang Hee  Ju Yiguang     Reuter Christopher B.  Zhang Rui  Yehia Omar R.  Rezgui Yacine  Ju Yiguang     Yehia Omar R.  Reuter Christopher B.  Ju Yiguang     Lin Eric  Reuter Christopher B.  Ju Yiguang     Yehia Omar R.  Reuter Christopher B.  Ju Yiguang     Kurimoto Naoki  Brumfield Brian  Yang Xueliang  Wada Tomoya  Di\u00e9vart Pascal  Wysocki Gerard  Ju Yiguang     Yiguang Ju  Mengni Zhou  Omar R. Yehia  Wenbin Xu  Christopher B. Reuter  Ziyu Wang   Chao Yan     CB. Reuter  E. Lin  Y. Ju     Reuter Christopher B.  Katta Viswanath R.  Yehia Omar R.  Ju Yiguang",
+  "Publication Title": "Dynamics of cool flames     The radical index and the effect of oxygen concentration on non-premixed cool flame extinction of large n-alkanes     On the propagation limits and speeds of premixed cool flames at elevated pressures     Study of the low-temperature reactivity of large n-alkanes through cool diffusion flame extinction     Counterflow flame experiments and chemical kinetic modeling of dimethyl ether/methane mixtures     Low-temperature multistage warm diffusion flames     Dynamics and burning limits of near-limit hot, warm, and cool diffusion flames of dimethyl ether at elevated pressures     On the chemical characteristics and dynamics of n-alkane low-temperature multistage diffusion flames     Quantitative measurements of HO 2 /H 2 O 2 and intermediate species in low and intermediate temperature oxidation of dimethyl ether     SUPPLEMENTARY MATERIAL\nThe radical index and the effect of oxygen concentration on non-premixed cool flame extinction of large n-alkanes     Pressure and Radiation Effects on the Dynamics of Hot and Cool Diffusion Flames     Transient interactions between a premixed double flame and a vortex",
+  "Data Source Type": "psi"
+}
