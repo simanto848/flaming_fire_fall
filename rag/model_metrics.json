@@ -1,0 +1,113 @@
+{
+  "model_architecture": "Physics-Informed Random Forest Classifier",
+  "cross_validation": {
+    "n_splits": 5,
+    "mean_accuracy": 0.409,
+    "std_accuracy": 0.115,
+    "mean_macro_f1": 0.3997,
+    "fold_accuracies": [
+      0.2308,
+      0.3846,
+      0.4615,
+      0.3846,
+      0.5833
+    ]
+  },
+  "holdout_test": {
+    "test_size": 0.2,
+    "accuracy": 0.3846,
+    "macro_f1": 0.2857,
+    "classes": [
+      "Blowoff",
+      "Radiative Extinction",
+      "Sustained Burn"
+    ],
+    "confusion_matrix": [
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        1,
+        1,
+        2
+      ],
+      [
+        0,
+        1,
+        4
+      ]
+    ],
+    "classification_report": {
+      "Blowoff": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 4.0
+      },
+      "Radiative Extinction": {
+        "precision": 0.3333333333333333,
+        "recall": 0.25,
+        "f1-score": 0.2857142857142857,
+        "support": 4.0
+      },
+      "Sustained Burn": {
+        "precision": 0.4444444444444444,
+        "recall": 0.8,
+        "f1-score": 0.5714285714285714,
+        "support": 5.0
+      },
+      "accuracy": 0.38461538461538464,
+      "macro avg": {
+        "precision": 0.25925925925925924,
+        "recall": 0.35000000000000003,
+        "f1-score": 0.2857142857142857,
+        "support": 13.0
+      },
+      "weighted avg": {
+        "precision": 0.2735042735042735,
+        "recall": 0.38461538461538464,
+        "f1-score": 0.30769230769230765,
+        "support": 13.0
+      }
+    }
+  },
+  "feature_importances": {
+    "o2_margin": 0.1529,
+    "O2_concentration_pct": 0.1513,
+    "radiative_loss_index": 0.1361,
+    "damkohler_proxy": 0.1321,
+    "sample_thickness_mm": 0.1199,
+    "airflow_velocity_cms": 0.1029,
+    "pressure_reaction_scale": 0.094,
+    "cabin_pressure_psi": 0.0806,
+    "sample_material_PMMA": 0.0164,
+    "sample_material_Nomex": 0.0138
+  },
+  "training_dataset_summary": {
+    "total_records": 64,
+    "classes_distribution": {
+      "Sustained Burn": 23,
+      "Radiative Extinction": 22,
+      "Blowoff": 19
+    },
+    "materials_distribution": {
+      "PMMA": 27,
+      "Cotton-Fiber Blend": 19,
+      "Nomex": 18
+    },
+    "oxygen_range_pct": [
+      14.5,
+      33.7
+    ],
+    "airflow_range_cms": [
+      0.3,
+      22.5
+    ],
+    "pressure_range_psi": [
+      8.33,
+      14.7
+    ]
+  }
+}

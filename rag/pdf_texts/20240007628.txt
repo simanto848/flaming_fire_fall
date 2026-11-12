@@ -1,0 +1,926 @@
+--- [Page 1] ---
+1
+Extinction of solid diffusion flame in microgravity:
+details of quenching and blowoff processes
+Chengyao Lia, James S. T’iena,*, Paul V. Ferkulb, Sandra L. Olsonc, Michael
+C. Johnstonc
+aDepartment of Mechanical and Aerospace Engineering, Case Western Reserve University, Cleveland, OH, USA
+bUniversities Space Research Association, NASA Glenn Research Center, Cleveland, OH, USA
+c NASA Glenn Research Center, Cleveland, OH, USA
+______________________________________________________________
+Abstract
+Long duration microgravity experiments aboard the International Space Station determine diffusion flame
+extinction limits of PMMA spheres. Upon ignition from an electrically-heated coil, the 4-cm-diameter samples are
+exposed to forced flows ranging from 0.2 to 80 cm/s and an oxygen ranging from 13 to 28% in one atmosphere
+total pressure. Extinction is reached as oxygen concentration gradually decreases by natural depletion. Five
+extinction tests are presented at different flow velocities and oxygen concentrations. Quenching at low velocity is
+observed with the flame tip shrinking upstream and blowoff is observed when a hole forms in the flame at the
+forward flow st agnation point. However, these processes are not quasistatic. The quenching motion involves
+periodic flame tip pulsating toward downstream and shrinking upstream with a continually decreasing flame size
+at the end of each cycle. In blowoff, the flame base pulsates between the flame hole and the downstream location,
+although with far fewer cycles compared to quenching. The pulsations appear to be the result of a premixed flame
+front spreading into a combustible mixture. Two specific cases are discussed. In the first, at very low flow velocity
+(~ 0.4 cm/s) and elevated oxygen, self-sustained flame tip cyclic pulsations are observed for a lengthy period (~15
+minutes). In the second case with a higher flow velocity (50 cm/s), the diffusion flame is stabilized at the shoulder
+of the spherical sample after local stagnation point blowoff. With steady decrease in ambient oxygen due to
+depletion, spinning flamelets are formed. The long-duration microgravity environment makes it possible to observe
+these interesting and detailed extinction processes.
+Keywords: Flame quenching; Flame blowoff; Flame pulsation; Low stretch flame; Microgravity
+______________________________________________________________
+*Corresponding author.
+
+--- [Page 2] ---
+2
+1. Introduction 1
+Extinction of diffusion flames is a classical topic 2
+with practical relevance to many combustion systems. 3
+Aerodynamic blowoff due to flow residence times can 4
+be interpreted using a critical small Damkohl er 5
+number concept [1,2] and is a flame stabilization 6
+problem. Aerodynamic quenching in slow flow (at 7
+long residence times) is the consequence of flame heat 8
+losses [3]. In slow flows, the combustion intensity is 9
+reduced and the ratio of heat loss (by radiat ion, for 10
+example) to heat generation is increased. The 11
+resulting reduced flame temperature leads to 12
+quenched extinction. Although blowoff experiments 13
+are common, aerodynamic quenching studies in an 14
+open-air environment (long residence time) are 15
+uncommon, e specially for solid fuels [4,5]. This is 16
+because the magnitude of the flow required for 17
+quenching is typically lower than that of the always 18
+present buoyancy -induced flow in normal Earth 19
+gravity. On Earth, low buoyant stretch stagnation -20
+point flames can on ly be obtained using very large 21
+diameter solid samples [6] or large radius burners 22
+[7,8]. To test a sample of a given size in low -speed 23
+flow, a microgravity environment is needed.  In 24
+microgravity, the magnitude of the imposed (forced) 25
+flow can be independently controlled. 26
+Microgravity experiments are also important to 27
+spacecraft fire safety. Understanding extinction limits 28
+of solid materials is important to interpret the results 29
+of material screening tests performed on earth [9,10]. 30
+For thick solids with large solid -phase thermal 31
+response times, long -duration microgravity 32
+environments are needed. The present work is a part 33
+of the Growth and Extinction Experiment (GEL), 34
+which is the first of the five original experiments in 35
+the SoFIE ( Solid Fuel Ignition and Extinction) 36
+project. SoFIE is a NASA Biological and Physical 37
+Sciences (BPS) sponsored project on the International 38
+Space Station (ISS) on solid combustion [11]. The 39
+solid sample used in GEL is a 4-cm diameter PMMA 40
+(polymethylmethacrylate) sphere. The experimental 41
+findings of both quenching and blowoff processes are 42
+reported here, emphasizing the differences of their 43
+near-limit behaviors.  44
+45
+2. Experiment setup  46
+47
+The experiment is conducted using the SoFIE 48
+insert (main components shown in  Fig.1) which is 49
+placed inside the Combustion Integrated Rig (CIR) 50
+aboard the ISS. CIR is equipped with a power supply, 51
+filters, lighting, gas cylinder intakes, radiometers, and 52
+oxygen, pressure, velocity and CO, CO 2 sensors. In 53
+this paper, oxygen percenta ge is reported from the 54
+sensor located at the flow duct entrance. The SoFIE 55
+insert has a square flow duct (13.3 cm x 13.3 cm cross-56
+section and 24.6 cm long). Forced flow ranging from 57
+0.2 - 80 cm/s is generated by two fan banks. A flow 58
+sensor at the upstream end of the flow duct provides a 59
+flow velocity reading. The spherical PMMA sample 60
+(4 cm diameter) used in GEL is supported by a long 61
+stainless-steel tube (6.35 mm diameter). Three 62
+samples are mounted 120  apart on an index system 63
+that can be rotated to install one sample at a time with 64
+the flow duct.  65
+Once the astronaut installs the samples and the 66
+oxidizer gas cylinders in the ISS, the rest of the 67
+experiment is controlled remotely from the NASA 68
+Glenn Research Center ISS Payload Operations 69
+Center (GIPOC). During the test, one sample is placed 70
+along the centerline of flow duct and about 1 cm from 71
+the duct exit for ignition. The igniter is an electrically 72
+heated coiled wire placed near the upstream 73
+stagnation point of the sphere. After ignition, the 74
+igniter is retracted. The sample can either stay at this 75
+location for the whole test or be translated into the 76
+duct.  77
+Four fixed cameras are used for flame 78
+visualization. Three Sony FCB-MA130 cameras with 79
+a 1400 x 1200 pixel array (named SoFIE Cam1,Cam2, 80
+and Cam3) are in orthogonal direction of a 1.4 81
+megapixel Allied Vision GC -1380CH ACME color 82
+camera assembly with a 1360 x 1024 pixel array. 83
+SoFIE Cam1 views the sample near the ignition 84
+location. SoFIE Cam2 and ACME are aligned and 85
+view the sample at the location af ter translating into 86
+the duct. SoFIE Cam3 is not activated in the cases 87
+presented in this paper.  88
+All the extinction cases in this paper are obtained 89
+using a natural and gradual oxygen depletion while 90
+the flow speed is held constant. In the sealed CIR 91
+chamber (free volume = 85.7 liter), oxygen is slowly 92
+consumed. This oxygen depletion method is the least 93
+intrusive (i.e., free of external disturbances), which is 94
+important both for determining accurate extinction 95
+limits and for observing spontaneous cyclical 96
+extinction dynamics [12,13,20]. Note that real time 97
+oxygen concentration measurement is made at the 98
+flow duct entrance upstream of the sample.  99
+100
+Fig. 1. Diagram of the SoFIE flow duct with a 101
+thermocouple-instrumented GEL sphere sample.  102
+103
+The PMMA sphere s amples are custom cast with 104
+five embedded thermocouples as illustrated in Fig. 1. 105
+Three thermocouples are placed along the center line 106
+close to the forward stagnation point. They are used 107
+to deduce the subsurface temperature gradient, which 108
+is a measure of  the degree of solid sub -surface 109
+heating. More details on the preparation and 110
+
+--- [Page 3] ---
+3
+fabrication of the samples and the method to compute 1
+the temperature gradient can be found in [14,15].  2
+The 4-cm-diameter sphere was selected since it is 3
+a thick solid representa tive of many non -thin 4
+materials used in spacecraft. The spherical geometry 5
+has a richness of flame physics to study. When placed 6
+in an airflow stream, there are several distinct regions 7
+around the sphere, exhibiting different fluid 8
+mechanics characteristic s. In front of the sphere, 9
+stagnation point flow develops. Flames in this region 10
+are locally one-dimensional when the flame thickness 11
+is much smaller than the sphere radius, and 12
+experimental results can be compared with one -13
+dimensional models. This is also  the flame 14
+stabilization region that controls the extinction 15
+characteristics of the envelope flame. The existence of 16
+the sphere shoulder and wake regions, on the other 17
+hand, can reveal additional multi -dimensional 18
+features of the extinction processes (to b e discussed 19
+later). PMMA spheres have also been employed in 20
+[16-18]. 21
+22
+3. Experimental results 23
+24
+Five tests are presented as listed in Table 1. Cases 25
+1 to 3 are representative of low-flow quenching, high-26
+flow blowoff, and intermediate -flow extinction, 27
+respectively. The differences between quenching and 28
+blowoff are highlighted in sections 3.1-3.3. In section 29
+3.4 and 3.5, a very low flow test (Case 4) and a higher 30
+flow test (Case 5) are shown. These last two tests 31
+reveal novel behavior and delineate the prominent 32
+features of the solid extinction phenomena.   33
+34
+Table 1 35
+List of 5 test cases: extinction mode, sample location and extinction parameters  36
+Case
+#
+GEL
+sample #
+Extinction
+mode
+Sample
+location
+Flow
+(cm/s) Rea Flow strain
+rateb (1/s)
+O2
+(%)
+p
+(atm)
+Conductive heat
+loss (W/cm2)
+1 1409B quenching inside duct 4.83 128.8 3.63 14.21 1.04 0.36
+2 1408A blowoff inside duct 34.28 914.1 25.71 14.99 1.06 0.95
+3 1402C intermediate Inside duct 11.50 306.7 8.63 13.54 1.07 0.37
+4 1409C quenching duct exit 0.44 11.7 0.33 20.77 1.03 0.17
+5 1410C blowoff duct exit 49.68 1324.8 37.26 14.37 1.07 not recorded
+aReynolds numbers are evaluated at ambient temperature based on sphere diameter.  37
+bStagnation-point flow strain rate a = 3/2 U/R, where U is the flow velocity and R is the sphere radius. 38
+39
+3.1 A quenching sequence 40
+41
+Figure 2 shows images of a  representative 42
+quenching sequence from Case #1. During the 43
+extinction process (500 – 757.55 s), the flow velocity 44
+slightly varies between 4.46 – 4.92 cm/s, and oxygen 45
+depletes to extinction. There is a gradually increasing 46
+trend of the flow sensor reading  in this time range. It 47
+is a result of flow resistance change, probably related 48
+to a slight decrease of chamber pressure during 49
+quenching due to the combustion products filtering. 50
+Figure 2(a) shows the flame tip is at around 100  51
+(measured from the front stagnation point). This is the 52
+furthest downstream that flame reaches as seen in the 53
+tracking of tip2 (red color) in Fig. 3. As oxygen slowly 54
+depletes, the flame tip slowly shrinks toward upstream 55
+(Fig 2(b)). As shown in Fig. 3, the flame tip begins to 56
+have small fluctuations later (also illustrated in Fig. 57
+2(c)). The fluctuations have varied amplitudes and 58
+time periods. Large amplitude cyclic flame tip 59
+pulsation and retreating starts much later at about 744 60
+s. With each pulsation cycle, the flame tip retrea ts 61
+more toward upstream and results in a shorter instant 62
+flame length until extinction occurred at 757.55 s.  63
+Figure 3 shows the flame tip tracking. Tracking is 64
+based on images in the orthogonal direction of that in 65
+Fig. 2. Flame tip position is represente d by the angle 66
+around the sphere with zero degrees at the forward 67
+stagnation point. Positive and negative angles are used 68
+to track the left and right tip position. Test telemetries 69
+of oxygen, pressure, and flow velocity are also plotted. 70
+The inset plot sho ws the zoom -in of the flame tip 71
+pulsations near extinction. Solid lines in the inset plot 72
+connect the data points to show pulsations. Black 73
+dotted line in the inset plot shows the decreasing trend 74
+with time of the lowest point in each cycle of tip2. 75
+Extinction occurred when tip2 shrinks past the 76
+stagnation region stabilization zone. The asymmetry 77
+between the two tips may be due to a slightly 78
+unsymmetric ignition or the intrinsic nature of the 79
+near-limit flames.  80
+Comparing the diffusion flame CH* luminosity 81
+near the stagnation point with the flame pulsation 82
+luminosity, the increased intensity of the flame during 83
+pulsating downstream seen in Fig. 2(e) suggests that 84
+this part is a premixed flame. The broaden flame 85
+image toward the back of the sphere suggests a 86
+widened reaction zone [19]. The hypothesis is that 87
+after flame tip retreat, fuel vapor can form a 88
+combustible mixture with varying fuel -air 89
+equivalence ratio distribution. The fuel vapor may 90
+come from two possible sources: leakage from the 91
+opening between the flame tip and the surface and 92
+pyrolysis from the newly exposed hot solid. The fact 93
+that the pulsating flame tip can reach far downstream 94
+to the rear of the sphere beyond the initial diffusion 95
+flame tip (see Fig. 3 inset and Fig 2(e)) supports the 96
+fuel leakage hypothesis. Additional discussion will be 97
+made in Sections 3.4.  98
+
+--- [Page 4] ---
+4
+1
+Fig. 2. A representative quenching time sequence for Case 2
+#1 from ACME camera (see supplementary video S1 for 3
+full video).   4
+5
+Fig. 3. Flame tip tracking for Case #1 using the SoFIE 6
+Cam2. Legend and axes are the same for inset.  7
+8
+There are ten completed flame tip pulsating and 9
+retreating cycles before quenching (i.e., flame reaches 10
+the back of the sphere) as shown in the inset of Fig. 3. 11
+The pulsation to downstream takes more time in the 12
+first two cycles but reaches constant 0.4 s period for 13
+the remaining. Note that when the net downstream 14
+pulsation speed reaches peak, the flame has largest 15
+luminosity (Fig. 2(e)), consistent with a previous 16
+work on blowoff oscillation over PMMA rods [20]. 17
+The downstream pulsation speed is within the  range 18
+of typical laminar premixed burning velocity. After 19
+the flame pulsating downstream and consuming the 20
+combustible mixture, the flame tip shrinks. The 21
+shrinking time period ranges from 1.5 s to 0.8 s and 22
+the shrinking speed is much slower than pulsati ng 23
+downstream. Note that in each cycle, the flame tip 24
+shrinks more toward upstream as shown in Fig. 3. So, 25
+on the average the flame length is shrinking.   26
+27
+3.2 A blowoff sequence 28
+29
+Figure 4 shows a representative blowoff 30
+sequence from Case #2 (34.28 cm/s flow). Figure 4(a) 31
+shows that at 200 s, flame is still away from extinction 32
+at 16.6% O 2. The sample is located inside the flow 33
+duct. The flame tip is slightly directed toward the 34
+centerline because of the flow restriction inside the 35
+duct. The yellowish flame indicates soot formation. 36
+When the ambient oxygen decreases, the flame turns 37
+blue.  38
+39
+Fig. 4. A representative blowoff case (Case #2) from SoFIE 40
+Cam2 (see supplementary video S2 for full video).   41
+42
+Extinction starts with a flame hole at the stagnation 43
+point (Fig. 4(b)). This local flame blowoff occurs 44
+when oxygen is below the limit (14.99%) for this 45
+particular stagnation flow strain rate (25.7 s -1). The 46
+flame base then retreats downstream to the near-wake 47
+region, where the flow velocity is smaller (Fig. 4(c )). 48
+After the flame base retreats, the still hot solid surface 49
+continues generating fuel vapor while mixing with 50
+incoming oxygen. The flame base then pulsates 51
+upstream all the way to the stagnation region (Fig. 52
+4(e)). During the upstream pulsation, the fla me base 53
+shape is irregular, and part of the base is in the wake 54
+region and the other part is in the shoulder region (Fig. 55
+4(d)). In this blowoff case, there are only two flame 56
+base pulsation cycles. Flame base travels averaging 57
+5.4 cm in pulsation. The ups tream pulsation periods 58
+are 0.41 s, and the flame base retreats take 0.21 and 59
+0.31 s. Similar to Case #1, the upstream pulsation 60
+(a)   t = 484.45 s,   O2 = 16.22% (b)         699.49 s,         14.54%
+(c)         734.31 s,         14.33% (d)         744.51 s,         14.27%
+(e)          744.61 s,         14.27% (f)         749.62 s,         14.24%
+tip shrinking
+pulsating
+downstream
+local tip fluctuation
+beginning pulsating downstream
+tip shrinking during pulsation
+t = 200.08 s
+O2 = 16.60%
+257.23s
+14.99%
+257.74s
+14.95%
+257.84s
+14.95%
+257.98s
+14.95%
+262.55s
+14.83%
+opening a “hole”
+(a) (b)
+(c) (d)
+(e) (f)
+base retreat
+pulsating
+upstream azimuthal rotation
+coexisting
+flame bases
+0
+5
+10
+15
+20
+-120
+-60
+0
+60
+120
+400 450 500 550 600 650 700 750
+O2 (%), p (psi), and flow (cm/s)
+flame tip position (degree)
+time (s)
+tip1
+tip2
+O2
+p
+flow-150
+-90
+-30
+30
+90
+150
+735 740 745 750 755 760
+
+--- [Page 5] ---
+5
+speed is within the typical laminar premixed burning 1
+velocity range. After the two pulsation cycles, the 2
+flame shows azimuthal spinning (3D instability) for 3
+3.18 s with flame base anchored at the shoulder region 4
+of the sphere before complete blowoff extinction.  5
+6
+3.3 Extinction at intermediate flow velocities 7
+and flow strain rates  8
+9
+In the previous sections we have shown how 10
+different the extinction processes for low -flow 11
+quenching and high -flow blowoff are. In quenching, 12
+the flame tip shrinks toward the upstream, in blowoff, 13
+the flame base retreats toward the downstream. In 14
+quenching, the flame tip pulsates while in blowoff, the 15
+flame base pulsates. One natural question is how does 16
+the flame go to extinction at intermediate flow 17
+velocities where the quenching and the blowoff 18
+boundaries meet? The meeting point of the two 19
+branches has been referred to as the fundamental limit 20
+where the oxygen limit is the lowest [3].  21
+We have examined several test results in the 22
+intermediate flow range between 9.22 and 11.5 cm/s 23
+(strain rates 6.92 -8.23 s-1). They all exhibit the same 24
+description on the extinction processes as follows. As 25
+oxygen is depleted, flame tip shrinks but without any 26
+pulsation. Near extinction, the flame base color began 27
+to fade (a prelude to local blowoff or hole forming) 28
+but the fl ame goes out normally in one video frame 29
+without any base pulsation either. So, the transition 30
+from quench to blowoff is smooth along the extinction 31
+boundary. Case #3 in Table 1 is a representative 32
+intermediate case (see supplementary video S3).   33
+34
+3.4 Self-sustained cyclic flame pulsation 35
+36
+Case #4 is an ultra -low velocity case at relatively 37
+high oxygen atmosphere. As shown in Fig. 5(a), the 38
+flame tip pulsating downstream starts at 311 s, 39
+immediately after the nominal flow velocity is turned 40
+down to 0.4 cm/s at 309 s, and lasts until quenching at 41
+1237.88 s, for a total period of 927 s. In contrast, the 42
+near-limit pulsation in Case #1 only lasts for 18.84 s. 43
+In addition to flame tip position, test telemetries of 44
+oxygen, pressure, and flow velocity are also plotted in 45
+Fig. 5(a). It shows one side of the flame initiates the 46
+cyclic pulsation and the other side starts much later at 47
+around 1040 s. When the pulsation starts, oxygen 48
+concentration is at 26.25%. It gradually depletes to 49
+20.77% at quenched extinction . During most of the 50
+time, the pulsations are under elevated oxygen 51
+concentration. If the oxygen were not depleted, the 52
+pulsative cycles would have lasted even longer. So, 53
+we will refer this case as a “self -sustained” flame 54
+pulsation (i.e., limit cycle). During pulsations, though 55
+the nominal flow velocity is held constant at 0.2 cm/s 56
+(except the 0.4 cm/s set flow in the beginning 10 s), 57
+the flow sensor reading ranged from 0.16 to 0.5 cm/s. 58
+Similar to Case #1, there is a gradual increase of flow 59
+velocity dur ing the quenching process (Fig. 5(a)). 60
+Starting at around 880 s, there is also flow velocity 61
+oscillations in phase with the flame pulsation. Figure 62
+5(b) shows 10 s of the flame tip tracking and the flow 63
+sensor reading near extinction . The flow velocity 64
+fluctuation is thought to be the result of flame -flow 65
+interaction since the flow is very weak and these 66
+large-scale flame pulsations affect the flow resistance 67
+in the duct.  68
+69
+Fig. 5. Flame tip tracking of (a) the whole cyclic pulsation 70
+period and (b) 10 s near extinction for Case #4 using SoFIE 71
+Cam1.  72
+73
+The 30-fps frame rate gives very good resolution 74
+of the flame tracking in Fig. 5(b) within one cycle. 75
+The shape of the cycle shows that the flame tip spends 76
+much less time at the downstream position than at the 77
+upstream position. The trajectory of the tip is not 78
+sinusoidal or near-sinusoidal like typical oscillations. 79
+This is because the present cycle has two distinct time 80
+scales: the propagation time in a fuel -air mixture and 81
+the preparation time to form a new mixture after the 82
+flame passage. Figure 5(b) shows that the preparation 83
+time is the longer of the two although they are still 84
+within the same order of magnitude, close to the mass 85
+diffusion time, D/δ2, where δ is the flame standoff and 86
+D is the diffusion coefficient. In this low -flow case, 87
+escaping fuel vapor from the flame -tip-sphere 88
+opening might be the dominant source of fuel vapor 89
+to create a combustible mixture for pulsation, between 90
+the two sources discussed previously in Section 3.1. 91
+The pulsation frequency starts at 1.4 Hz, gradually 92
+decreases to 1 Hz, and is statistically constant in a 640 93
+s to 1200 s period. The frequency further drops to 0.8 94
+Hz before quenching at 1238 s. During this quasi -95
+steady period, the pulsation amplitude increases with 96
+0
+5
+10
+15
+20
+25
+30
+-180
+-120
+-60
+0
+60
+120
+180
+300 400 500 600 700 800 900 1000 1100 1200 1300
+O2 (%), p (psi), and flow (mm/s)
+flame tip position (degree)
+time (s)
+tip1 tip2 O2 p flow
+0
+2
+4
+6
+8
+10
+12
+-180
+-120
+-60
+0
+60
+120
+180
+1200 1202 1204 1206 1208 1210
+flow (mm/s)
+flame tip position (degree)
+time (s)
+tip1 tip2 flow
+(a)
+(b)
+
+--- [Page 6] ---
+6
+time (Fig. 5(a)). Figure 6 presents the spread tracking 1
+of the flame tip1 in Fig. 5(a) in several selected time 2
+periods. At the start of a pulsating cycle, the flame tip 3
+position is set to zero. Flame tip position  in the 4
+following frames of this cycle is compared to the 5
+starting frame to determine the distance the flame tip 6
+travels. The speed of the flame tip pulsation is slow in 7
+the beginning, reaches peak in the middle, and slows 8
+down when reaching the spreading limit. The solid 9
+line in Fig. 6 indicates the peak pulsation speed is 10
+around 25 cm/s, within the range of typical laminar 11
+premixed flame burning velocity. The tip shrinking is 12
+fast at the beginning but slows down approaching to 13
+the stagnation region. The t ip stays at the starting 14
+position for a relatively long time  get enough fuel 15
+vapor for the next pulse. There are no significant 16
+differences on the downstream pulsation speed in the 17
+beginning of the cycles. The total time for each cycle 18
+slightly increases during this quasi -steady period 19
+mainly due to the increase in the pulsation amplitude. 20
+Note that there is also variation from cycle to cycle so 21
+the trend on cycle frequency variation mentioned 22
+above is the statistical average.  23
+24
+Fig. 6. Flame tip spread tracking of tip1 in Fig. 5 during 25
+selected pulsation cycles from Case #4. Relative distance 26
+and time compared to the starting frame is plotted.  27
+28
+Figure 7 shows the flame images of a 29
+representative pulsation cycle from Case #4, where 30
+the flame is close to q uenching. In this example, the 31
+left and right tips in the images both pulsate. Figure 32
+7(a) shows the asymmetry of flame tips before they 33
+start pulsating downstream. During downstream 34
+pulsating, the flame tip in Fig. 7(c) shows extended 35
+reaction zones at the near wake region of the spherical 36
+sample. The flame tip image in Fig. 7(c) shows a clear 37
+triple flame structure [19]. These are evidence that the 38
+flame tips are spreading into a premixed region. While 39
+flame tips are still spreading, part of the flame 40
+becomes dim before tip shrinking (Fig. 7(e)). After 41
+one cycle, the flame tip shrinks to a location further 42
+upstream (Fig. 7(h)).  43
+Figure 8 shows the flame standoff distance 44
+tracking at the stagnation point and the conductive 45
+heat loss into the solid interior during the cyclic 46
+quenching period. The average standoff starts at 7 mm 47
+and gradually increases to 10 mm, in response to the 48
+variations in the conductive heat loss. This is a very 49
+large flame standoff distance for a solid fuel (inset 50
+flame image in Fig. 8), which is made possible in very 51
+low flow in microgravity. The oscillations in flame 52
+standoff distance, shown in the inset to Fig. 8 are 53
+attributed to the flow oscillation that is in turn caused 54
+by the large amplitude flame pulsations.   55
+56
+Fig. 7. One flame pulsation cycle in ultra-low-velocity flow 57
+and high oxygen environment (Case #4). Left tip 58
+corresponds to tip2 in Fig. 5.  59
+60
+Fig. 8. Tracking of the stagnation-point flame standoff 61
+distance and conductive heat loss into the solid interior for 62
+Case #4. Legend and axes are the same for inset.  63
+64
+Readers are referred to the supplementary video S4 65
+for a complete view of the cyclic flame pulsation 66
+process. 67
+68
+3.5 Side-stabilized and near -limit spinning 69
+flame 70
+71
+t = 1200.893 s,   O2 = 21.00% 1201.108 s(a) (b)
+1201.199 s(c) 1201.326 s(d)
+1201.331 s(e) 1201.364 s(f)
+1201.397 s(g) 1201.765 s(h)
+pulsating downstream
+triple flame
+tip shrinking
+dim region before
+tip shrinking
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+1.1
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+300 400 500 600 700 800 900 1000 1100 1200 1300
+conductive heat loss (W/cm2)
+flame standoff distance (mm)
+time (s)
+flame standoff distance conductive heat loss
+8
+10
+12
+1200 1205 1210
+t = 1203.40 s
+
+--- [Page 7] ---
+7
+Case #5 has the highest flow velocity among the 1
+five cases (50 cm/s) and the sample is located at the 2
+duct exit so the long flame tip can freely expand 3
+outward without wall constriction. Figure 9 shows its 4
+flame profiles. Before local blowoff at the stagna tion 5
+point, Fig. 9(a) shows an envelope flame with a very 6
+interesting structure. The flame tail spreads outward, 7
+but an inner weaker flame is also formed as indicated 8
+in the figure. This inner flame is connected to the 9
+downstream outer flame but extends ba ckward and 10
+ends close to the solid surface. This inner flame is 11
+attributed to the recirculation zone behind the sphere 12
+(Re ~ 1300) where the oxygen recirculates back to the 13
+rear of the sphere and reacts with the fuel vapors that 14
+may otherwise escape to the ambient. In Case #2, the 15
+sphere is inside the duct for extinction, and the 16
+recirculation zone is reduced due to the squeeze of the 17
+flame by the duct wall. The inner flame in this case is 18
+a weaker diffusion flame judging from its faint color 19
+compared with that at the stagnation point. This is 20
+expected from the lower velocity of the recirculating 21
+flow. This type of enveloping diffusion flame may be 22
+unique only for blunt -shape solids that have a flow 23
+separation region.  24
+25
+Fig. 9. Side-stabilized flame and azimuthal spinning after 26
+local blowoff in a high-flow blowoff case (Case #5).  27
+28
+Similar to Case #2, local blowoff occurs with a hole 29
+in the front stagnation region. The flame then 30
+stabilizes, and the flame base anchors at the shoulder 31
+of the sphere (Fig. 11(b )). The anchor flame base is 32
+indicated by the intense color due to high reactivity. 33
+In this test, the side -stabilized flame lasts for 40 s, 34
+around 35 s during which the flame is spinning. With 35
+continued oxygen depletion, the flame breaks into 36
+flamelets (Fig. 11(c) and (d)). The flamelet spins with 37
+frequencies ranging from 2 to 3.5 Hz. During 38
+spinning, the flamelets cover a shrinking surface area 39
+of the sphere due to oxygen depletion. With more and 40
+more area exposed, the solid surface cools down until 41
+the fu el vapor generated is not enough to sustain 42
+burning. This blowoff and flame spinning sequence is 43
+very dynamic (see supplementary video S5).  44
+45
+4. Summary and discussions 46
+47
+This is the first report on the experimental findings 48
+from a recent microgravity experiment aboard the 49
+International Space Station studying the burning of a 50
+4-cm diameter PMMA sphere. One of the main 51
+objectives of the experiment is to study solid diffusion 52
+flame extinction processes. Using an oxygen 53
+depletion method at specified flow velocities, both the 54
+transient details of the low-flow quenching and high-55
+flow blowoff processes are revealed.  56
+Quenching starts with the flame tip shrinking 57
+toward the stagnation region. Extinction occurs when 58
+the shrinking flame at the forward stagnation point 59
+becomes too small. An early quasi-steady model over 60
+a thin solid with surface radiative heat loss has 61
+predicted this trend [21]. The present experiment, 62
+however, shows t hat this trend of steady shrinking 63
+flame is only true for the average flame. The actual 64
+quenching process is very dynamic involving flame 65
+tip local fluctuation and downstream cyclic pulsations 66
+all the way to the back of the sphere over many cycles. 67
+In puls ations, flame tip spreads into partially 68
+premixed mixture next to the hot solid surface. The 69
+mixture is created by leakage of fuel vapor from the 70
+opening between the flame tip and the solid surface 71
+and solid pyrolysis from the still hot solid after the 72
+flame tip cyclic shrinking. In low stretch flames, this 73
+opening is large, which enhances the importance of 74
+fuel leakage contribution to the cyclic pulsations. In a 75
+higher oxygen atmosphere (>21%) and ultra-low flow 76
+velocity (< 1 cm/s), pulsative motion can last for more 77
+than 15 minutes. These implications for spacecraft 78
+safety need to be explored further.  79
+Blowoff starts with a hole opening at the stagnation 80
+region in front of the envelope diffusion flame. This 81
+is well known experimentally and studied in detai l in 82
+[20]. An early quasistatic numerical model on thin 83
+solid also predicted the local blowoff of the stagnation 84
+flame and the possibility of side stabilized diffusion 85
+flame with increasing flow velocity or decreasing 86
+Damkohler number [22]. Again, experime nts show 87
+that the extinction process is dynamic. Cyclic 88
+upstream pulsation and flame base retreat can proceed 89
+to the stabilization of the flame at the shoulder of the 90
+spherical sample. When the flame is weakened by 91
+reduced oxygen, flamelets form and azimuthally spin 92
+around the sphere. Other possible wake flame 93
+configurations have not been observed in the present 94
+setup possibly owing to the presence of the sample 95
+supporting rod.  96
+Regarding the near -limit flame extinction 97
+dynamics: while cyclic flame movement are observed 98
+both in quenching and in blowoff, there is a profound 99
+difference between the two cases. The pulsating part 100
+is the flame tip in quenching and the flame base in 101
+blowoff. The stagnation region is the flame 102
+stabilization zone whereas tip is not. However, both 103
+t: 393.39 s
+O2: 14.37%
+(a) 401.69 s
+14.16%
+423.30 s
+13.89%
+(b)
+(c) (d)
+azimuthal rotation
+inner flame
+base anchor to sides
+410.39 s
+13.99%
+azimuthal rotation
+
+--- [Page 8] ---
+8
+cases are coupled with the hot solid surface which 1
+supplies the fuel vapor for the flame to pulsate. 2
+We note that blowoff and quench have been 3
+studied using a PMMA cylinder aligned with the 4
+flow[5, 20]. Using a large sphere, we have a better -5
+defined stagnation shoulder, and wake flow zones. 6
+The multiple embedded thermocouples enable us to 7
+characterize the sample preheat levels. The low -8
+velocity control also provides better resolved 9
+quenching limits. 10
+Also, regarding the scale effect of the samp le on 11
+quenching: low stretch flames can be established 12
+using large samples in higher velocity flows [6 -8] or 13
+using smaller sample in lower velocity flow such as in 14
+the present work. Although both can achieve the same 15
+low flame stretch rate, the near -limit behavior can 16
+differ in the details.  In large sample, flame breaks into 17
+flamelets, strips or holes before the quenching of the 18
+complete flame. The flamelets are of the dimension of 19
+diffusion length. In the present work using smaller 20
+sample, there is pulsat ive motion but no flamelet 21
+formation during the quenching process. So, the 22
+detailed quenching and blowoff process can be multi-23
+dimensional in nature. They cannot be prescribed by 24
+the flow strain or flame stretch rate alone. An 25
+additional length scale may be required.  26
+One final remark on the diffusion flame extinction 27
+criterion.  Even in the one-dimensional description of 28
+diffusion flames, one may wonder whether a single 29
+Damkohler number can be sufficient to describe both 30
+blowoff and quenching limits. Both are extinction 31
+processes and the concept of limiting ratio of chemical 32
+vs. flow times seems applicable. However, 33
+quantifying the chemical reaction rate will need 34
+accurate flame temperature information. The actual 35
+flame temperature will be affected by heat loss, so 36
+additional non -dimensional heat loss parameter(s) 37
+will be required. We believe that quenching and 38
+blowoff are distinct flame extinction modes having 39
+different characteristics. Blowoff at high speed is due 40
+to short flow residence time in the flame stabilization 41
+zone. Blowoff can occur even at adiabatic flame 42
+temperature (i.e., no heat loss) as demonstrated in 43
+classical theory. So, although heat loss may modify 44
+the blowoff boundary, its effect is modest (ratio of 45
+heat loss to heat generation is small ) and the flame 46
+temperature drop below the adiabatic value can be 47
+relatively small. On the other hand, at low stretch (low 48
+flow speed) with long flow residence time (or large 49
+flame standoff distance), aerodynamic quenching 50
+occurs when heat loss becomes a s ignificant fraction 51
+of the total heat release of the flame. This causes 52
+substantial flame temperature reduction and leads to 53
+extinction. We have demonstrated in the GEL 54
+experiment not only the existence of the two 55
+extinction branches but also describe thei r different 56
+mechanisms and transient responses. In addition, the 57
+flame behaviors when the two extinction boundaries 58
+merge have been clarified. 59
+60
+Declaration of competing interest 61
+62
+The authors declare that they have no known 63
+competing financial interests or personal relationships 64
+that could have appeared to influence the work 65
+reported in this paper. 66
+67
+Acknowledgements 68
+69
+This research is funded by NASA under grant 70
+#80NSSC23M0035 from the Biological and Physical 71
+Sciences division of the NASA Science Mission 72
+Directorate. We like to thank the advice from Dennis 73
+Stocker, Dan Dietrich, and our International 74
+collaborators from O leg Korobeinichev’s group in 75
+Russian Academy of Sciences, Siberian Branch. The 76
+experiment hardware was built by, and operational 77
+support provided by, ZIN Technologies.   78
+79
+Supplementary material 80
+81
+There are five supplementary videos.  82
+83
+References 84
+85
+[1] F.E. Fendell, Ignition and extinction in combustion of 86
+initially unmixed reactants. J. Fluid Mech. 21 (1965) 281-87
+303. 88
+[2] A. Linan, The asymptotic structure of counterflow 89
+diffusion flames for large activation energies, Acta 90
+Astronaut. 1 (1974) 1007-1039.  91
+[3] J.S. T’ien, Diffusion flame extinction at small stretch 92
+rate: the mechanisms of radiative loss, Combust. Flame 93
+65 (1986) 31-34.  94
+[4] X. Zhao, Y. -T.T. Liao, M.C. Johnston, J.S. T’ien, P.V. 95
+Ferkul, S.L. Olson, Concurrent flame growth, spread and 96
+quenching over composite fabric samples in low speed 97
+purely forced flow in microgravity, Proc. Combust. Inst. 98
+36 (2017) 2971–2978.  99
+[5] S.L. Olson, P.V. Ferkul, Microgravity flammability 100
+boundary for PMMA rods in axial stagnation flow: 101
+experimental results and en ergy balance analyses, 102
+Combust. Flame 180 (2017) 217-229. 103
+[6] S.L. Olson, J.S. T’ien, Buoyant low -stretch diffusion 104
+flames beneath cylindrical PMMA samples, Combust. 105
+Flame 121 (2000) 439-452. 106
+[7] B. Han, A.F. Ibarreta, C.J. Sung, J.S. T’ien, Experimental 107
+low stretch gaseous diffusion flames in buoyancy -108
+induced flow fields, Proc. Combust. Inst. 30 (2005) 527-109
+535. 110
+[8] S. Tao, J. Fang, L. Zhao, J. Wang, R.S. Hassan, L. Yang, 111
+Burning characteristics of PMMA with varied stretch 112
+rates under stagnation -point diffusion flames, Combust. 113
+Flame 220 (2020) 63-72.  114
+[9] O. Fujita, Solid combustion research in microgravity as a 115
+basis of fire safety in space, Proc. Combust. Inst. 35 116
+(2015) 2487-2502.  117
+[10] G.A. Ruff, D.L. Urban, M.D. Pedley, P.T. Johnson, Fire 118
+Safety, Chapt er 27, Safety Design for Space Systems, 119
+(2009) 829-883  120
+
+--- [Page 9] ---
+9
+[11] P.V. Ferkul, available at < 1
+https://ntrs.nasa.gov/api/citations/20190030735/downloa2
+ds/20190030735.pdf> 3
+[12] W.Y. Chan, J.S. T’ien, An experiment on spontaneous 4
+flame oscillation prior to extincti on, Combust Sci. 5
+Technol. 18 (1978) 139.   6
+[13] D.L. Dietrich, H.D. Ross, Y. Shu, P. Chang, J.S. T’ien, 7
+Candle flames in non -buoyant atmospheres, Combust 8
+Sci. Technol. 156 (2000) 1-24. 9
+[14] M.C. Johnston, Growth and Extinction Limits: Ground 10
+Based Testing of Solid Fuel Combustion in Low Stretch 11
+Conditions in Support of Space Flight Experiments, PhD 12
+thesis, Case Western Reserve University, Cleveland, 13
+Ohio, 2017. 14
+[15] C. Li, J.S. T’ien, M.C. Johnston, S.L. Olson, P.V. 15
+Ferkul, Ignition of thermally thick blunt body PMMA 16
+samples using a heated wire, Fire Saf. J., 133 (2022)  17
+[16] M. Endo, J.S. T’ien, P.V. Ferkul, S.L. Olson, M.C. 18
+Johnston, Flame growth around a spherical solid fuel in 19
+low speed forced flow in microgravity, Fire Technol. 56 20
+(2020) 5–32. 21
+[17] C. Wu, P. Sun, X. Wang, X. Huang, S. Wang, Flame 22
+extinction of spherical PMMA in microgravity: effect of 23
+fuel diameter and conduction, Microgravity Sci. Technol. 24
+32 (2020) 1065-1075. 25
+[18] T.A. Bolshova, I.E. Gerasimov, A.G. Shmakov, O.P. 26
+Korobeinichev, Combustion of spherical PMMA 27
+samples in still air simulated using a skeletal chem ical 28
+kinetic mechanism, Fire Saf. J. 138 (2023)  29
+[19] S.H. Chung, Stabilization, propagation and instability of 30
+tribrachial triple flames, Proc. Combust. Inst. 31 (2007) 31
+877-892.  32
+[20] S.L. Olson, P.V. Ferkul, J.W. Marcum. High -speed 33
+video analysis of flam e oscillations along a PMMA rod 34
+after stagnation region blowoff, Proc. Combust. Inst. 37 35
+(2019) 1555-1562.  36
+[21] P.V. Ferkul, J.S. T’ien, A model of low -speed 37
+concurrent flow flame spread over a thin fuel, Combust. 38
+Sci. Tech 99 (1994) 345-370. 39
+[22] C.H. Chen, J.S. T’ien, Diffusion flame stabilization at 40
+the leading edge of a fuel plate, Combust. Sci. Technol. 41
+50 (1986) 283.  42

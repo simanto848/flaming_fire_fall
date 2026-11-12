@@ -1,0 +1,204 @@
+--- [Page 1] ---
+Combustion of Interacting Droplet Arrays in a Microgravity Environment
+D. L. Dietrich, NASA John H. Glenn Research Center
+P. M. Struk, National Center for Microgravity Research
+M. Ikegami, H. Nagaishi, S. Honma, K. Ned,a, Hokkaido National Industrial Research Institute
+INTRODUCTION
+Investigations into droplet interactions date back to Rex et al. [1]. Annamalai and Ryan [2]
+and Annamalai [3] published extensive reviews of droplet array and cloud combustion studies.
+In the majority of the reviewed studies, the authors examined the change in the burning rate
+constant, k, (relative to that of the single droplet) that results from interactions. More recently,
+Niioka and co-workers [4] have examined ignition and flame propagation along arrays of
+interacting droplets with the goal of relating these phenomena in this simplified geometry to the
+more practical spray configuration.
+Our work has focussed on droplet interactions under conditions where flame extinction occurs
+at a finite droplet diameter. In our previous work [5], we reported that in normal gravity,
+reduced pressure conditions, droplet interactions improved flame stability and extended
+flammability limits Coy inference). In our recent work, we examine droplet interactions under
+conditions where the flame extinguishes at a finite droplet diameter in microgravity. The
+microgravity experiments were in the NASA GRC 2.2 and 5.2 second drop towers, and the
+JAMIC (Japan Microgravity Center) 10 second drop tower. We also present progress on a
+numerical model of single droplet combustion that is in the process of being extended to model a
+binary droplet array.
+EXPERIMENTAL HARDWARE AND DATA ANALYSIS
+The experiments utilized the classical fiber-supported droplet combustion technique. A 125
+or 230 Ixrn (depending on the initial droplet size) fiber with a small bead (approximately 1.5-2.0
+times the fiber diameter) supported the droplets. The fuel was n-decane for all of the tests. A
+small coiled hot-wire, withdrawn immediately after ignition, ignited the droplets.
+The data for all of the experiments was from two orthogonally located video cameras. The
+first camera provided a magnified, backlit view of the droplet to obtain the droplet regression
+history. The second was an orthogonal view of the flame. For many of the tests, the flame was
+nearly invisible to the CCD camera. For these tests, we suspended a small 15 oxn fiber across the
+droplet and flame to indicate the presence of the flame. The droplet diameter reported herein is
+an equivalent size obtained by equating the measured volume or the projected area of the droplet
+to that of the equivalent sphere or circle, respectively [6].
+EXPERIMENTAL RESULTS
+While the effects of buoyancy were minimized in the normal gravity testing, they were not
+altogether eliminated. Our first attempts to perform the same testing in microgravity involved
+testing in similar ambient conditions as the n0rmal gravity tests. The initial testing [7] showed
+that the reduced pressure, air ambients that yielda finite extinction droplet diameter in normal
+gravity do not produce a finite extinction droplet diameter in microgravity. In fact, atpressures
+down to near the ignitable limit, the droplets burned to completion (or to a size smaller than the
+support fiber and bead). Thus in order to observe extinction at finite droplet sizes, we performed
+the microgravity experiments in reduced oxygen mole fraction, reduced pressure ambients.
+Initial tests were ina in a 380 mm Hg, 0.17 oxygen mole fraction ambient. Flame extinction
+at a finite droplet diameter did not occur for either the single droplets or the binary droplet
+arrays. Consistent with earlier droplet array studies [8,9] the burning rate of the binary array was
+NASA/CP--2001-210826 193
+
+--- [Page 2] ---
+lowerthanthat of the single droplet. Additionally, the flame size of the array (measured normal
+to a line between the two droplets) is much larger (nearly 50 percent) than the flame of the single
+droplets. Finally, while the droplets in both tests burned to completion, the flame surrounding
+the binary array was much weaker (the intensity of the flame and the SiC fiber on the CCD
+camera) than the flame surrounding the single droplet.
+The best ambient oxygen concentration for realizing extinction in microgravity was a 0.15
+oxygen mole fraction ambient. Depending on the pressure, the flame did extinguish at a finite
+droplet diameter. Figure 1 shows the burning behavior as a function of time for a single droplet
+and a binary droplet array in a 380 mm Hg, 0.15 oxygen mole fraction (nitrogen diluted)
+ambient. Referring first to the single droplet tests, there are several noteworthy features of the
+burning behavior. First, this ambient condition was not flammable in normal gravity. In fact,
+droplets of this size could not sustain a flame in normal gravity regardless of the ambient
+pressure. Second, the burning behavior is non-linearl _e b_g rate is approximately 0.5
+mm2/s immediately after ignition. It then increases throughout the test, reaching a final value
+nearly 40 percent higher than the value immediately atter ignition.
+The single droplet behax;ib-r presented in Figure ]-was--t_j_cal over the range of pressures
+tested. At ambient pressures below 150 mm Hg, the flame extinguished at a finite droplet
+diameter for the single droplet tests. The extinction droplet diameter in_rea§edwith decre_ising
+ambient pressure, and at ambient pressures below 90 mm Hg, the flame extinguished almost
+immediately after ignition. While the extinction diameter was a strong function of pressure, the
+average burning rate constant was nearly independent of ambient pressure, consistent with the
+simplified theory for droplet combustion.
+Finally, Figure 1 also presents the flame size and standoff ratio (normalized by the droplet
+diameter at that instant in time) for this droplet. The flame size initially grew with time. At
+some point in the middle of the bum, the flame size reached a maximum, remained constant for a
+time, then decreased with time until extinction. The flame standoff ratio, however increased
+nearly linearly with time throughout the bum. The flameswere soot-free (visually) _oughout
+the test, except for a brief period immediately after ignition for the higher pressure tests.
+Although not presented here, our testing in the 0.15 oxygen mole fraction ambient also examined
+droplet diameter effects, and ignition energy effects in addition to the pressure effects.
+Figure l, however, shows that the binary droplet array exhibited very different behavior' The
+flame surrounding the array extinguished quickly after igniter withdraw. The droplet diameter at
+flame extinction was approximately 1.1 mm for both droplets. The flame size (measured
+perpendicular to a line between the droplets), similar to the 0.17 oxygen mole fi'action tests, was
+nearly 50 percent larger than the single droplet. In the binary array test, however, the flame size
+increased reached a maximum but then extinguished before decreasing. The flame standoff
+increased continuously and linearly until extinction. The above trends were consistent over a
+range of inter-droplet spacings and ambient pressures. In the 0.15 oxygen mole fraction ambient,
+in all cases tested, the flame surrounding the binary array always extinguished at a larger droplet
+size than the flame surrounding a single droplet.
+The results cited above display an opposite trend to the normal gravity test results. That is,
+interactions diminished flame stability in the microgravity tests, whereas in the normal gravity
+tests, interactions promoted flame stability. This discrepancy may be in part due to the differing
+ambient oxygen mole fraction ambients in the two studies. Specifically, the large, weak flames
+in the microgravity tests were most likely strongly influenced by large radiative (spectral, due to
+z
+NASA/CP--2001-210826 194
+
+--- [Page 3] ---
+the lack of soot)lossesfrom the flamezone. In fact,webelievethat theextinctionprocesswas
+dominatedbyradiativeloss[10].
+Figure 2 showstheresultsof a singledropletandabinarydropletarray,only in this case,the
+ambientwas 0.25oxygenmole fraction, 190mm Hg and the diluentwashelium asopposedto
+nitrogen. Typically, singledropletsburningin helium,havehigh burningratesandlower flame
+temperaturesbecauseof the high gas-phasethermal conductivitythan dropletsburning in a
+nitrogen ambient (the sameambient oxygenmole fraction). The flames also have smaller
+standoffratios. Theresult is flamesthat extinguishat finite-sizeddropletdiameters,in regions
+whereradiativelossesshouldbesmallerthantheflamesin Fig. 1. Figure2 showsthatthe flame
+surroundingthe single droplet extinguishedquickly after ignition. The burning rate constant
+beforeflame extinctionwasquite high, 1.0mm2/s.The flamestandoffratio wasapproximately
+10,andwasmuchsmallerthanin thenitrogendilutedtests(e.g.Fig. 1).
+Figure 2 shows,in contrastto Fig. 1, that the binary dropletarray(L = 4 mm) burnedfor
+muchlonger,andextinguishedat asmallersizethanthe singledroplet. Thetrendis oppositeto
+that displayed in Fig. 1, but in agreementwith our previousnormal gravity testing [5].
+Interestingly,while thebinaryarrayhada smallerextinctiondropletdiameter,it alsohada much
+smallerburning rate. The averageburning rate constantwas 0.75mm2/s,approximately25
+percent smaller than the single droplet. The flame size and standoff ratio, measured
+perpendicularto a line betweenthetwo droplets,for the binaryarraywaslargerthanthe flame
+sizeandstandoffratio for the singledroplet. Also, while notpresentedin Fig. 2, we shouldnote
+thattheflamessurroundingthebinarydropletarrayat inter-dropletspacingsof L = 8 and 12mm
+(mergedflamesexistedfor both spacings)both extinguishedat droplet diameterssmallerthan
+thesingledroplet. The extinctionbehaviorat aninter-dropletspacingof 24 mm, however,was
+nearly identical to that of a singledroplet. The flamessurroundingthe droplets(individual
+flamessurroundedeachdroplet)extinguishednearlyimmediatelyafterignition.
+The helium and nitrogendiluentsclearly exhibit differentextinctionbehaviorfor the binary
+arrays(whencomparedto the singledroplets). Webelievethedifferenceis primarily a function
+of the importanceof radiativelossfrom the flame zone. Specifically,the binary arraysin the
+nitrogenambienthave very large, weak flames,muchlarger thanthe flames surroundingthe
+singledroplet. Theselargeflamesaredominatedby radiativeloss,andtheincreasein flamesize
+from the singledroplet to the binary droplet arrayis enoughto causeextinction of the binary
+dropletarray. For a binarydropletarray,if theinter-dropletspacingwereto approachzero,this
+would createa single droplet whose size was 30 percentlarger than each individual single
+droplet. This single,largerdropletcouldbelargerthantheradiativeextinctiondropletsize.
+A similar argumentcanbe madeto explain thebehaviorof the helium-dilutedtests. In this
+case,extinctionoccurswhenthe residencetime is smallerthantherequiredchemicaltime. For
+thebinary dropletarray,if the inter-dropletspacingwere zero,this would againcreatea larger
+singledroplet.Thissingledropletwouldhavealargerresidencelime,andthuswouldnotextinguish.
+We arealso in theprocessof developinga numericalmodelof the singledropletandbinary
+dropletarrayto quantitativelyexplaintheexperimentallyobservedextinctionresults. Themodel
+is basedon an existing model of the candleflame. The model is transient,assumesconstant
+propertiesandLewis numbers(althougheachspeciescanhavea differentLewis number),and
+most importantly, includes radiative loss (purely loss using a Planck mean absorption
+coefficient). We arecurrentlyusingthe singledropletmodelto predictand explainsomeof our
+singledropletresults,andarein the processof modifyingthe codeto model thebinary droplet
+array.
+NASA/CP--2001-210826 195
+
+--- [Page 4] ---
+REFERENCES
+1. Rex, J.F., Fuhs, A.E. and Penner, S.S. Jet Propulsion 26, 179 (1956).
+2. Annamalai, K. and Ryan, W. Progress in Energy and Combustion Science 18, 221-295
+(1992) ..............
+3. Annamalai, K. Mechanics and Combustion of Droplets and Spray, ed. H.H. Chiu and N.
+Chigier, Begell House Inc., New York, New York, 116-i60 (1995).
+4. Nohara, H., Maruta, K., Hasewage, S., Kobayashi, H., and Niioka, T., Combustion Science
+and Technology l$3, 169-178 (2000).
+5. Struk, P.M., Dietrich, D.L., Sims, C., Picot, B., Kitano, K., Honma, S., Ikeda, K., Ikegami,
+M. "Interacting Droplet Combustionq3"nder Conditions of Extinction," Joint Meeting of the
+United States Sections of the-Combustion Institute (i999). - -
+Struk, P., Ackerman, M., Nayagam, V. and Dietrich, D., Microgravity Science and
+Technology (1999).
+Easton, J.E. "Large Diameter, Radiative Extinction Experiments with Decane Droplets in
+Microgravity," M.S. Thesis, Case Western Reserve University (1998).
+Xiong, T.Y., C.K. Law, C.K. and K. Miyasaka Twentieth Symposium (International) on
+Combustion / The Combustion Institute, 1781-1787 (1984).
+Mikami, M., Kato, H., Kono, M. and Sato, J. Twenty-Fifth Symposium (International) on
+Combustion / The Combustion Institute, 423-428 (i 995).
+Chao, B.H., Law, C.K., and T'ien, J.S., Twenty-Third Symposium (International) on
+Combustion / The Combustion Institute, 523-531 (1990).
+.
+7.
+8.
+9.
+10.
+1.0"
+0.8
+0*
+0.6
+v
+0.4
+0.2
+...''":::I 24= :
+•%_'_++ + +'+ _l20_
+• _e\ .+ ; _ _ome11_ • _e e±_" !
+" ""+ %N". , : laIIe + Cl_ .i- it I
+•+++++++++_.. -_=z14
++ ÷+ _o _ .-12 N+ +÷ %, _. : ,,
+++ _' "<%" 710 _1+ A. "tb¢ o
+o.o tlDo 2 (sl
+1.2 - , ' c-22
+: , ......_ I:I OO0 _ ,,,_
+.4 r, "_ I _oOOO ! 1_" /U
+u'v--_.o I N"
+" " u o Io •
+: : ++++ _%_', E,. i" i++++-
+04 lO+++ I
+,,
+0.0 0.2z 0.4= 0.6
+t/D o ($1mm)
+Figure 1. Droplet and flame histories for a Figure 2. Droplet and flame histories for a
+Single droplet (red) and a binary array (blue). single droplet (red) and a binary array (blue).
+P = 380 mm Hg, Yo2 = 0. I7 (N2 diluted). P = 190 mm Hg, Yo2 = 0.25 (He diluted).
+[for both figures: (0) droplet size; (O) flame size; (+) flame standoff ratio; and the dashed
+vertical line represents extinction.]
+NASAJCP--2001-210826 196

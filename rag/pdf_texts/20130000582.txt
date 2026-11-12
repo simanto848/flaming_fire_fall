@@ -1,0 +1,481 @@
+--- [Page 1] ---
+•
+COMBUSTION, COMPLEX FLUIDS, AND FLUID
+PHYSICS EXPERIMENTS ON THE ISS
+Brian Matil
+David Urban
+NASA Glenn Research Center
+
+--- [Page 2] ---
+Soft Condensed Materials (Colloids)
+•
+The Physics of Colloids in Space (PCS) - 2001
+• The experiment enabled scientists to monitor colloidal suspensions
+using:
+-Dynamic and Static Light Scattering.
+-Bragg and Low Angle Scattering.
+-Imaging over longer time periods.
+• Designed to study the phase behavior, growth dynamics,
+morphology, and mechanical properties of different types of colloidal
+suspensions.
+• Many basic questions about phase diagrams, thermodynamic
+stability, and phase transformation kinetics were answered.
+• Detailed information about the structure and properties of fractal
+aggregates was obtained over a much wider range of measurement
+with more relevant conditions than possible on earth.
+The Binary Colloidal Alloy Tests (BCAT-3/4/5/6) - 2003 to 2012
+• Each is a set of notebook sized investigations - 10 samples each.
+• -3/4 significantly advanced understanding in
+critical point behavior of fluids, binary alloys, and
+surface crystallization.
+• -5 studied phase separation kinetics, phase
+separation competing with crystallization, how
+seed particle size and concentration effect
+crystal growth in microgravity, and seeing
+temperature controlled melting and BCAT-5 Slow Growth
+crystallization. Sample Module
+PCS Samples
+Astronaut Bill McArthur
+photographing BCAT samples
+2
+
+--- [Page 3] ---
+Soft Condensed Materials (Colloids)
+(continued) •
+The Binary Colloidal Alloy Tests (continued)
+• -6 continues with studies on aging of gels and late collapse, wall
+seed initiated crystals in the absence of gravitational jamming, non­
+biological self-assembly with DNA, and 3D crystallization of disks,
+growth and melting.
+The Advanced Colloids Experiments (ACE)- 2012 and on
+• Just launched this year to continue advancing our understanding in
+extending product shelf life, colloidal engineering, self assembly,
+non-biological self-replication, etc.
+• Will make use of confocal microscopy in the Light Microscopy
+Module (LMM) on the ISS.
+• Microscope features lighting from above and below as well as back
+lighting with 1 OOx magnification capability.
+• In 2016 a confocal head and camera will be added to enable 3-D
+imaging.
+In Summary:
+The series of Soft Condensed Materials has already
+led to many scientific breakthroughs and
+discoveries.
+• The ISS provides the unique opportunity to study
+the long duration dynamics of colloidal systems
+free from the effects of gravity - which causes
+sedimentation, etc. BCAT-6 Slow Growth
+Sample Module
+Weitz:
+Colloidal
+engineering
+Chaikin: Order and patterns
+Yodh:
+Melting and
+crystallization
+BCAT experiment using the
+seat track setup in the
+Japanese Experiment Module
+3
+
+--- [Page 4] ---
+Rheology & Morphology of Complex Fluids
+•
+Investigating the Structures of Paramagnetic Aggregates from Colloidal Emulsions-3
+(InSPACE-2/3) - 2002 to 2012
+• The majority of InSPACE hardware launched in 2002 with the goal of determining the true 3-D low-energy
+(equilibrium) structure of an Magneto-rheological (MR) fluid while under DC and pulsed magnetic fields.
+• -2 observed a regime of buckling instability in the 3-D structures under a particular magnetic field strength
+and pulse frequency.
+• -3 is currently installed in the MSG on the ISS and will investigate the effect of non-spherical super­
+paramagnetic particles on the kinetics and formation of these aggregate structures that affect the visco­
+elastic properties of MR fluids. Operations are scheduled to start in Nov. 2012.
+The Shear history Extensional Rheology Experiment (SHERE [II]) - 2007 to 2011
+• The SHERE hardware was designed to study the effects of pre-shearing by rotation on a polymer fluid
+while it is being stretched (elongated). In many industrial polymer processing operations the material
+experiences a complex flow history with both shear and extensional characteristics.
+• SHERE II extended the studies by adding a rigid inert filler to change the fluid properties.
+InSPACE-2 MR fluid
+microstructure chain in a 2 Hz
+pulsed magnetic field
+Astronaut Mike Fincke in front of
+SHERE hardware in MSG
+Assembly containing MR fluid on
+right
+4
+
+--- [Page 5] ---
+W/c
+m2
+Multiphase Flows
+Boiling eXperiment Facility (BXF) - 2011
+• BXF included two separate pool boiling investigations:
+- Microheater Array Boiling Experiment (MABE)
+- Nucleate Pool Boiling Experiment (NPBX).
+• Advanced understanding of local boiling heat transfer mechanisms
+& critical heat flux in microgravity for nucleate and transition pool
+boiling.
+• Detailed measurements of bubble growth, detachment and
+subsequent motion of single and merged (larger) bubbles.
+• Enhanced the development of two-phase thermal management
+systems, which provide isothermal control with reduced radiator
+area and mass.
+• Pool boiling studies are the first critical step to understanding flow boiling in
+O-g.
+• A combined condensation and flow boiling experiment is
+scheduled for 2018.
+IntraVenous fluid GENeration (IVGEN) - 2010
+• IVGEN successfully demonstrated the ability to generate United
+States Pharmacopeia (USP) grade IV fluid from in situ resources
+on the ISS.
+• Incorporated two-phase technologies:
+• membrane-based air-water separators;
+• conductivity probes;
+• porous media bed.
+•
+. ~ •• !~~
+- ~ -- ....
+(Top) Paulo Nespoli installing BXF in MSG.
+(Above left) Coalescence of vapor bubbles
+on NPBX wafer (Above right) Sub cooled
+nucleate boiling in j.Jg. The MABE
+microheater array is colorized with actual
+heat flux data.
+IVGEN Purifier Assembly
+5
+
+--- [Page 6] ---
+Dynamics, Instabilities and Interfacial Phenomena
+•
+1·g
+Constrained Vapor Bubble (CVB) Experiment - 2009 & 2013 200 ~~~= ..
+O·g
+250 r------==
+- ..
+- 00
+• Prototype for a wickless heat pipe in microgravity - based
+on corner flows.
+• Used pure Pentane as operating fluid for first set of experiments.
+200 ~ ::
+.u ~ Increasing ::=: !:
+~ 150 ~ 1 Heater power == ~:
+• Provided fundamental transport data including the overall stability, <al°L...o - '0 - 20 - 30---'
+I,:: ~~~==::=:~~;
+° -<al ° ' 0 20 30 x, mm
+flow characteristics, average heat transfer coefficient in the evaporator,
+and heat conductance as a function of heat flow rate and vapor volume.
+• Interferometry technique obtained direct measurements of fluid curvature
+and thickness.
+• Bank of thermocouples measured the temperature gradients.
+• Visualized film stability and shape of dry out regions with a microscope
+in detail never obtained before in microgravity.
+• CVB-2 (2013) will extend data to a binary mixture rather than a pure fluid
+(Pentane - Isohexane).
+• Results from CVB-1:
+• Microgravity operation is significantly different from ground-based
+operation.
+• There is more internal fluid flow in microgravity.
+• Oryout could not be observed in microgravity.
+• Heat pipes run "hotter" and at higher pressure in microgravity, while the
+surface intended to be cooled, runs cooler.
+• The shorter the pipe, the higher its operating pressure and temperature.
+• Unexpected phenomena were observed and enhanced in microgravity
+including meniscus oscillations and single bubble nucleation
+phenomena.
+x. mm
+Comparison of heating
+power (1-g vs O-g).
+Unexpected Explosive
+Nucleation in O-g.
+6
+
+--- [Page 7] ---
+Dynamics, Instabilities and Interfacial Phenomena
+(continued)
+•
+The Capillary Flow Experiment (CFE 1 &2) -2004 through 2013
+• Series of handheld test vessels with various test geometries to
+investigate the behavior of capillary flow phenomena in
+geometries found in capillary vanes, screens, and wicking
+structures.
+• The working fluid is silicone oil of various viscosities,
+depending on the individual unit geometry.
+• The results of CFE have applications in propellant
+management for fluid storage tanks, thermal control systems,
+and advanced life support systems for spacecraft.
+• Critical wetting vane angles have been determined to within
+0.5 degrees for Vane Gap 1 and 2 experiments.
+• Bulk shift phenomena has
+been characterized that has
+implications for tank designs.
+Astronaut Joe Acaba adjusting the vane angle
+during a recent CFE-2 Vane Gap 2 (VG2)
+experiment run on ISS (August 10, 2012)
+45
+0
+vane angle in
+microgravity.
+45
+0
+vane angle
+in earth gravity.
+Interior Comer Flow Modules (ICF4 and ICF9).
+7
+
+--- [Page 8] ---
+Dynamics, Instabilities and Interfacial Phenomena
+(continued)
+•
+The Capillary Channel Flow (CCF) Experiment - 2011
+• Led by the German Space Agency (OLR) with a US/NASA Co­
+Investigator.
+• Study of open channel capillary flow.
+- The cross section of the flow path is partly confined by
+free surfaces.
+• Experiment has led to high fidelity models that accurately
+predict maximum flow rates for an open capillary channel
+• Research is critical to on-orbit fuel transfers and in space
+propulsion systems that utilize capillary vanes.
+- Current design of spacecraft fuel tanks rely on additional
+reservoirs (higher mass) to prevent the ingestion of gas
+into the engines during firing.
+2.'
+1.5
+0.'
+. A11
+.........
+4 Putiall OO% ph3s~
+0.5 1.() 1.5 2.0
+Gas-Liquid Phase Separation
+Flow Regime Map
+Astronaut Scott Kelly installing
+CCF in MSG in Dec 2010.
+IlIle!'
+S',,-'I\lly nnw NOIl-sk'l!.(ly flow
+E Xfil ll p il' u r I. ntpi ll:tr,\" dll-mu d
+Gru; inJ:jl.,,;liou nt t h ~ MOe(S)
+Lil Hid wilhtlrf\\\"u at Ill ... ulIlIl'I. Ii, uid IfO\"idf'd III t ile iull'l
+Capillary Channel Flow Test
+Unit (flat plate and groove
+geometries)
+8
+
+--- [Page 9] ---
+Droplet Combustion
+Flame Extinction Experiment (FLEX) - 2009 through 2012
+FLEX-2, FLEX-2J, FLEX-ICE-GA - 2012 through 2015
+• FLEX is the initial CI R payload and began operations in 2009
+• Textbook problem in combustion
+• Spherically-symmetric geometry only achievable in
+microgravity.
+• Enables the study of chemical kinetic and transport
+phenomena in a simplified one-dimensional geometry.
+• Over 400 droplets burned to date.
+• Heptane and methanol pure fuels
+• The primary focus of the FLEX investigations is the study to flame
+extinction as a function of droplet diameters, ambient
+environment and fuel chemistry.
+• FLEX-2 extends the studies to consider issues relevant to energy
+and fuel efficiency by including complexities:
+• Multicomponent fuels,
+• Binary droplet arrays
+• Convective airflow
+• FLEX-2J is a collaboration with JAXA, Nihon University and
+Yamaguchi University
+• Ignition of linear droplet arrays
+• FLEX-ICE-GA is a collaboration with ASI and Istituto Motori of
+National Research Center (CNR, Naples, Italy)
+• Surrogate fuels (idealized bio-fuels)
+•
+(Left) FLEX Chamber Insert Assembly
+Apparatus. (Right) Mike Fincke
+operating the CIR.
+(Left) FLEX Chamber Insert Assembly
+Apparatus. (Right) Mike Fincke
+operating the CIR.
+9
+
+--- [Page 10] ---
+Droplet Combustion
+(continued)
+FLEX - Major Research Accomplishments
+Methanol
+• Stable droplet burning in 0.125/0.875 02/N2, 1.0 atm, much lower than in 1-g
+• Validation of detailed numerical models of methanol combustion (building block for real fuel
+models)
+• Flammability boundary at 0.15/0.35/0.50 02/N2/C02, 0.7 atm
+•
+• NFPA standard for portable C02 extinguishers not conservative enough for enriched 02 (e.g., EVA
+pre-breathe), microgravity environment.
+• Observed unique pre-extinction flame oscillations
+Heptane
+• Flammability boundary at approximately
+0.15/0.85 02/N2, much lower than in 1-g
+• Unique observation of pre-extinction flame
+osci Ilations
+• Only for radiative extinction, more
+prevalent than for methanol
+• Unique observation of low temperature
+chemical reaction after visible flame
+extinction
+• New observation; shows previous beliefs
+about cool flames are wrong.
+• Low temperature chemistry important in
+internal combustion engines (i.e. engine
+knock)
+0.0 0.5
+35
+:30
+10
+5
+LO 1.5 2.0 2.5
+1 2
+f l D n (sl l1ll11 )
+10
+
+--- [Page 11] ---
+30 mm
+Gaseous Diffusion Flames (MSG)
+•
+Smoke Point in Co-flow Experiment (SPICE) - 2010
+Soot control remains one of the major unsolved
+issues in combustion. Soot:
+• Is the dominant source of radiant heat
+• Is a major pollutant and health risk
+• Is desired in some combustors and not in
+others.
+Soot emission in flames is the result of
+the interplay of soot formation and
+soot oxidation kinetics. The smoke
+point is a long standing measure of the
+sooting propensity of fuels used in fuel
+selection and flame radiation
+modeling.
+Initially deemed not possible in reduced
+gravity, the smoke point has been
+found to be substantially different in
+reduced gravity.
+SPICE has extended this observation to
+consider the impact of the coflowing
+air stream on the smoke point
+SPICE Experiment
+Assembly
+Still images showing the onset of the smoke
+point
+11
+
+--- [Page 12] ---
+Gaseous Diffusion Flames (MSG)
+•
+The Structure & Liftoff In Combustion Experiment (SLICE) - 2012
+• Study of flame structure and stability limits conducted using the SPICE hardware.
+• Results will enable (1) a refinement of the ACME Coflow Laminar Diffusion Flame (CLD Flame)
+experiment, increasing its scientific return, and (2) improved design capability for terrestrial
+combustion devices through the validation of combustion models over a wider parameter range.
+• Preliminary structure data reveals lower flame temperatures and dramatically increased soot
+concentrations in the microgravity (Og) flames as compared to normal gravity (1 g); see below.
+• Preliminary stability data indicates that the Og/1 g difference in forced air flow at liftoff is comparable
+to the buoyant velocity in the 1 g flames, i.e., where Og flames destabilize at higher forced air flows.
+X 10-7 X 10-6
+10 10 10 10 2.5
+9 1900 9 9 9
+8 8 8 8 2
+7 1800 7 1800 7 7
+I 6 I 6 E 6 I 6 ~ 1.5 E 1700 E 1700 E E
+.~ 5 .~ 5 .~ 5 .~ 5
+J: J: ::c ::c 4 4 4 1.5 4 1 1600
+3 3 3 3
+2 1500 2 2 2 0.5
+0 1400 0 0 0 0 -1 0 1 -1 0 1 -1 0 1 -1 0 1 Width (em) Width (em) Width (em) Width (em)
+19 Og 19 Og 19 Og
+100% CH4 flame Temperature Soot Volume Fraction
+12
+
+--- [Page 13] ---
+Solid Fuel Combustion-Material Flammability
+The Burning and Suppression of Solids Experiment (BASS) - 2012
+in process now
+Recent Results:
+With BASS we can measure material flammability in
+microgravity to compare with normal gravity flammability
+NASA-STO-6001 Test # 1. Results to date indicate that
+Test 1 is not conservative, and materials can burn at lower
+oxygen levels in microgravity than on Earth.
+BASS also assesses the effectiveness of N2 inert
+extinguishing agent in putting out flames over different
+materials, geometries, and flow. Results to date indicate
+that local application of suppressant is not adequate to
+fully extinguish the flames. The local jet entrains air and
+sustains the flame even when the ambient air flow is
+tJJrned off. Relevance/Impact:
+Spacecraft fires are a significant risk factor for human exploration.
+Understanding material flammability and suppression in actual spacecraft
+environments relative to 1 g materials screening is needed to mitigate this risk.
+The PMMA material burned in BASS is being considered for MPCV windows.
+JSC was surprised that this thick sample ignited easily and burned well in air.
+Spherical PMMA sample
+in BASS. N2 Jet does not
+extinguish flame, only blows
+out stagnation region. Wake
+region continues to burn.
+Ground-based drop tower testing provides some data, but long-duration microgravip¥­
+data is needed to study flammability limits for all but the thinnest films.
+Image analysis 13
+
+--- [Page 14] ---
+Spacecraft Fire Safety
+The Smoke Aerosol Measurement Experiment (SAME)
+2007 & 2010
+• Spacecraft fire is a recognized risk however there has
+been limited study of fires in O-gravity.
+• Current fire detection and suppression systems are
+consequently based on 1-g experience e not O-g fires
+•
+•
+•
+The reduced airflow seen in low-gravity enhances the
+smoke residence time near the source, enabling
+enhanced particle growth.
+SAME pyrolyzed 5 materials commonly found in
+spacecraft and made measurements of the particle siz ..
+distribution '.
+Smoke particles produced in low gravity are typically
+twice the size on those produced in normal gravity
+however the overall morphologies are similar.
+• • These measurements will enable rational design of
+spacecraft smoke detectors. ." ,
+•
+SAME in MSG
+• .I ' • ••
+•
+•
+•
+TEM photos of smoke particles from different
+materials (clockwise from the top: Pyrell, Teflon and
+Cotton) Horizontal dimension of images - 2 microns
+14
+
+--- [Page 15] ---
+Conclusions
+• The past 12 years have produced significant
+results in microgravity research in Fluid Physics,
+Combustion Science and Complex Fluids
+• These results have applications to terrestrial
+human health, pollution, energy, and commercial
+products in addition to NASA's exploration
+mission
+• Future years can be expected to produce even
+more advances in diverse areas such as
+- Two phase flow
+- Packed bed reactors
+- Gaseous diffusion flames
+- Solid fuel flames
+- Long-term propellant storage tank pressurization and
+control
+- Suspended liquid crystals
+- Fire detection
+- Rheology of foams
+•
+Fluids Integrated Rack (left) and Combustion
+Integrated Rack
+15

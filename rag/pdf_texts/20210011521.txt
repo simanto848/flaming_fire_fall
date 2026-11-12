@@ -1,0 +1,537 @@
+--- [Page 1] ---
+50th International Conference on Environmental Systems ICES-2021-266
+12-15 July 2021
+Fire Safety Implications of Preliminary Results from Saffire
+IV and V Experiments on Large Scale Spacecraft Fires
+David L. Urban1, Gary A. Ruff2, Paul Ferkul3, John Easton4, Jay Owens5, Sandra Olson6, Marit Meyer7, Claire
+Fortenberry8, John Brooker9
+NASA Glenn Research Center, Cleveland, OH, USA
+John Graf10, Michael Casteel11          Balazs Toth12
+NASA Johnson Space Center, Houston, TX, USA      ESTEC, Noordwijk, Netherlands
+Florian Meyer13, Christian Eigenbrod14        James S. T’ien15, Ya-Ting T. Liao16
+University of Bremen (ZARM), Bremen, Germany     Case Western Reserve University, Cleveland, OH, USA
+A. Carlos Fernandez-Pello17           Guillaume Legros18
+UC Berkeley, Berkeley, CA, USA       CNRS-ICARE, Univ. Orléans, Orléans, France
+Augustin Guibaud19             Nickolay Smirnov20
+University College, London, UK      Moscow State University, Russian Federation
+Osamu Fujita21    and       Grunde Jomaas22
+Hokkaido University, Sapporo, Japan      University of Edinburgh, Edinburgh, UK
+The spread and growth of flames over large solid fuel samples and their effect on the
+pressurized spacecraft were studied inside the Cygnus spacecraft while in orbit after
+departing the International Space Station. These experiments were developed by NASA’s
+Advanced Exploration Systems Division in the Human Exploration and Operations Mission
+Directorate. The ignited materials consisted of poly -methyl methacrylate (PMMA), cotton
+fabric and a cotton/fiberglass fabric blend. The samples were all 40 cm wide and with various
+lengths ranging from 18 cm for the PMMA samples to 50 cm for the fabrics. The overall results
+1Branch Chief, Low gravity Exploration Technology (LTX), MS 77-5, 21000 Brookpark Rd, Cleveland, OH, USA.
+2 Saffire Project Manager, Exploration Systems Office,21000 Brookpark Road, Cleveland, OH, USA.
+3 Staff Scientist, Universities Space Research Assoc. (USRA), 21000 Brookpark Road, Cleveland, OH, USA.
+4 Staff Scientist, Case Western Reserve University (CWRU) MS 110-3, 21000 Brookpark Road, Cleveland, OH, USA.
+5 Engineer, USRA, MS 77-5, 21000 Brookpark Road, Cleveland, OH, USA.
+6 Aerospace Engineer, LTX, MS 77-5, 21000 Brookpark Road, Cleveland, OH, USA.
+7 Aerospace Engineer, LTX, MS 77-5, 21000 Brookpark Road, Cleveland, OH, USA.
+8 Staff Scientist, USRA, MS 77-5, 21000 Brookpark Road, Cleveland, OH, USA.
+9 Aerospace Engineer, LTX, MS 77-5, 21000 Brookpark Road, Cleveland, OH, USA.
+10 Aerospace Engineer, Life Support Systems Branch, MS-EC3, 2101 E NASA Pkwy, Houston, TX, USA.
+11 Jacobs Engineering, Project Engineer, ECLSS, JE4EA, 2224 Bay Area Boulevard, Houston, TX 77058.
+12 ESA/ESTEC, Keplerlaan, 2201 Noordwijk, The Netherlands.
+13 Graduate Student, Combustion Eng. Working Group, ZARM Uof Bremen, Am Fallturm, 28359 Bremen, Germany.
+14 Head of Combustion Engineering Working Group, ZARM Uof Bremen, Am Fallturm, 28359 Bremen, Germany.
+15 Professor Emeritus, Dept. Mech. and Aero. Engineering, CWRU, Cleveland, OH, USA.
+16 Assistant Professor, Dept. Mech. and Aero. Engineering, CWRU, Cleveland, OH, USA.
+17 Professor, Dept. Mech. Engineering, Univ. of California at Berkeley, Berkeley, CA, USA.
+18 Professor, Université Orléans, 45071 Orléans, Cedex 2 France.
+19 Post. Doc. Environmental and Geomatic Engineering, University College, London, UK.
+20 Professor, Mechanics and Mathematics, Moscow M.V. Lomonosov State University, Moscow 119899, Russia
+21 Professor, Hokkaido University, Sapporo, Japan
+22 Professor, School of Engineering, University of Edinburgh, EH9 3FB, UK
+
+--- [Page 2] ---
+International Conference on Environmental Systems
+2
+from these tests and their impact on the spacecraft are presented with emphasis on the fire
+safety implications of the results. The experiments included, a post-fire cleanup system, vehicle
+internal volume measurements, and transport of acid gases (HCl and HF). Measurements
+included video images, flame spread rate, flame temperatures and radiant heat output; energy
+release through oxygen calorimetry; distributed measurements of CO 2 concentration and
+temperature at six locations in the spacecraft; CO 2, CO, O 2, HF and HCl concentrations;
+vehicle pressurized volume; and aerosol concentrations. Details of the flame growth and
+spread are discussed in other papers as are details of the post -fire cleanup system
+performance. The fire events had a measurable impact on the vehicle pressure, temperature,
+and carbon dioxide concentration.  However, despite having heat release rates up to 10 kW,
+the average vehicle conditions did not rise to unacceptable levels. The combined results of the
+experiments provide significant new understanding of  the impact of sample and flow duct
+height on flame spread and growth in addition to an improved perspective of the impact of a
+fire event on a spacecraft.
+Nomenclature
+FFD = Far Field Diagnostics
+NG = Northrup Grumman
+MMA = methyl methacrylate
+PMMA  = polymethyl methacrylate
+SFU = Saffire Flow Unit
+SIBAL =  Solid Inflammation Boundary at Low Speed
+I. Introduction
+ssessing the risk due to spacecraft fires and developing measures to prevent and respond to fire events requires a
+thorough understanding of the rate of growth of potential fires and their impact on the space craft environment.
+The current level of understanding is  insufficient to reliably  predict the growth and ultimate size of spacecraft  fires
+and to predict the impact of the fires on the spacecraft. Addressing these issues has been the purpose of a series of five
+spacecraft experiments referred to as Saffire I – V. The objectives of these flights were to: (1) observe the growth and
+spread of realistic fires in low gr avity over thin and thi ck solid fuel samples at a range of atmospheric condi tions
+including the current and anti cipated environments for exploration missions; (2) to assess the impact of the fire  on
+spacecraft and the transport of the heat and smoke; and (3) to provide a technology demonstration test of combustion
+product measurement and post-fire cleanup systems. The first three flights have been discussed previously.
+1,2 the most
+recent experim ents were conducted in May of  2020 and January of 2021 on the NG -13 and NG-14 flights of the
+Northrup Grumman Cygnus vehicle . As described in Refs. 1,2 the prior flights had a signif icant impact on our
+understanding of flame spread and growth in long duration and large-scale experiments. These tests demonstrated that
+spacecraft fires could grow to significant size and persist long enough to be of concern to the crew and the spacecraft.
+To examine the impact of the fires on the spacecraft and to further expand the size of the fires being studied, the Saffire
+concept was expanded to e nable release of more of the heat from the fire into the sp acecraft and to include remote
+diagnostics and fire response hardware elsewhere in the spacecraft. These tests were to be conducted over three flights
+as Saffire IV -VI. The first t wo flights (IV an d V) ar e discussed in this paper  with emphasis on the fire safety
+implications of the fire growth and spread results. Further analysis of the burning of the structured PMMA sample on
+Saffire V are presented in Ref. 3, and details of the smoke and product transport are presented in Ref 4.
+II. Experiment Description
+The Saffire Flow Unit (SFU) for flights IV and V was very similar to that used for Saffire I-III
+1,2 with the addition of
+side view cameras, and gas sensors in the inlet and outlet to measure the oxygen consumption and production of carbon
+oxides. To accommodate the second set of cameras, the duct height was reduced from 25 cm to 15 cm (perpendicular
+to the sample surface) preserving the 45 cm width. The relative location of the Saffire units are shown in Figure 1 with
+the Saffire Flow Unit near the end cone  of the Cygnus vehicle and the Far Field Diagnostics  (FFD) containing the
+smoke cleanup system and smoke sensors was installed in a mid-deck locker accommodation location adjacent to the
+A
+
+--- [Page 3] ---
+International Conference on Environmental Systems
+3
+hatch. Six remote sensors  containing a thermocouple and a carbon dioxide sensor were located in each of the four
+standoffs at the mid plane of the vehicle, in the end cone and in th e hatch area. After the spacecraft left the space
+station and  arrived at the planned orbit for the testing, the system was powered up and stepped through the test
+sequence. Each test was separately triggered by ground command,  but the detailed steps for the tests were
+predetermined by a command file.
+The sample cards contained three or four samples and were configured for four ignitions. As will be discussed below,
+two samples on Saffire IV and one sample on Saffire V were not ignited.  The conditions for the five successful tests
+are presented in Table 1 and the sample card layout is shown in Figure 2. The tests were conduc ted in a rectangular
+flow tunnel that was 30 cm high by 45 cm wide by 109 cm long.  The ends of the ducts were equipped with flow
+straighteners that connected to plenums . The inlet and outlet ducts  connected to these plenums and were parallel  to
+the flow duct producing a folded geometry. These ducts enabled flow mixing  and temperature and measurement  of
+the concentrations of oxygen, carbon dioxide and carbon monoxide on the inlet and outlet . The flow was induced by
+a fan in the inlet duct and measured by a vane anemometer at the entrance of the inlet duct. The samples were affixed
+to a metal frame in the middle of the duct as depicted in fi gure 2. The sample materials were: “SIBAL” fabric (75%
+Figure 1. Rendering of the position of the Saffire Flow Unit (A) and the Far Field Diagnostics (B) in the
+empty Cygnus module(left) and as fully packed for Saffire IV (right). The remote sensors in the standoffs are
+indicated with red dots and the ones in the end cone and hatch area with green dots. The four open wedge-shaped
+areas in the right image are referred to as the standoffs in the Cygnus vehicle.  The top surface of both images is
+the port side of the vehicle with the bottom side being the starboard.  The right-hand side of the cylinder is the
+forward side and the left is the aft. The SFU intake is in the aft-port standoff and the outlet is in the forward- port
+standoff. The standoffs provided a communication path for the air from the  hatch area (zenith) (front surface in
+the images) to the end cone (nadir).
+A
+B
+Hatch/Zenith
+Nadir/End Cone
+Table 1: Saffire IV-V Sample Test Conditions
+Flight/Sample IV-1 IV-2 V-2 V-3 V-4
+Material/configuration SIBAL
+Cloth
+2-sided
+PMMA
+Cotton
+Jersey
+1 sided
+PMMA
+Structured
+PMMA
+Length (cm) 50  18 50 18 20
+Air Flow Rate (cm/s) 20 20 20 20 20
+Flow Direction Concurrent Concurrent Concurrent Concurrent Opposed
+Ambient Pressure (kPa) 100.0 100.0 70.7 71.3 72.6
+Oxygen Concentration (mol
+%)
+22.0 22.0 26.2 25.4 25.7
+Pressurized Volume (m3) 18.7 19.2
+Free volume (m3) 17.9 19.0
+
+--- [Page 4] ---
+International Conference on Environmental Systems
+4
+cotton and 25% fiberglass) 1  with a total area density of 18.05
+mg/cm2; cotton jersey material  with an area density of 18.1
+mg/cm2; or cast polymethyl methacrylate (PMMA) (either onesided 5 mm thick or two- sided (10 mm thick) . Two of the
+PMMA samples had flat surfaces and one was a “structured”
+sample that had  a series of grooves and ridges of increasing
+dimension or separation. More details of the PMMA tests are in
+Refs 2 and 3. The exhaust gases exited the SFU and entered the
+forward port standoff of the spacecraft.  The overall flow in the
+spacecraft carried the gases to the FFD in the hatch area.  The
+FFD contained aer osol and species diagnostics and  a smoke
+cleanup system . More details of  the smoke transport  and
+preliminary FFD results are in Ref. 4.
+III Results and Their Fire Safety Implications
+A. Flame Extinction
+One of the salient concerns  in any fire response strategy is
+assuring fire extinguishment.  Many thicker materials  will self
+extinguish in quiescent  conditions, but under some
+circumstances, thin materials  and bubbling materials  will
+continue to burn. This delayed extinguishment was seen for a
+thin material in Saffire V sample 2 (cotton fabric). Figure 3
+presents the surface temperature  of the sample  and the fan
+speed. The sample burned steadily for the initial 300 seconds  while the fan was on.  At approximately 280 seconds,
+the fan was turned off and remained off for 70 seconds. Despite this long interval, the flame grew back when the flow
+was turned on again and continued to burn for another 150 seconds  until the  material was consumed . This result
+demonstrates that, for thinner materials, it is possible for flames to persist for an extended period without forced air
+flow. As seen in the image in Figure 3, there were both surviving flamelets and glowing char embers at the moment
+imaging stopped (~ 10 s after the flow was turned off). Since both flamelets and embers were present when the imaging
+stopped, it is not possible to determine if the flame survived the next 60 seconds  due to the small flamelets, the char
+Figure 2 Sample c ard layouts for Saffire IV
+(left) and Saffire V (right) Red dots indicate
+the location of the igniter wires.
+SIBAL Fabric
+Test 2
+Air and Normoxic O2
+with forced flow
+Test 1
+Test 4
+2-sided PMMA (1 cm thick.)
+1-sided PMMA (0.5 cm thick.)
+Nomex Fabric
+Test 3
+Cotton Fabric
+Test 3
+Normoxic O2 with
+forced flow
+Test 2
+Test 1
+1-sided PMMA (0.5 cm thick.)
+Structured PMMA (1 cm thick.)
+Test 4
+Figure 3 Surface temperature and flow speed for Saffire V-2 (cotton jersey; left) and last recorded top-view
+image of the flame taken 10 seconds after the fan was turned off (right). The image covers the last 20 cm of the
+sample after the flow is turned off. Visible in the image are both glowing char embers and small blue flamelets .
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+-2
+3
+8
+13
+18
+23
+28
+0 100 200 300 400 500 600
+Sample Temperature (deg C)
+Flow Speed (cm/s)
+Relative Time (s)
+Flow Speed (cm/s) Sample Thermocouple #8
+
+--- [Page 5] ---
+International Conference on Environmental Systems
+5
+embers, or both. However, since the embers are typically isolated in a larger area of charred material and the flamelets
+are typically at the edge of unburned fuel, it is likely that survival of a flamelet led to the reignition.
+Delayed extinguishment was also seen on Saffire IV, sample 2 (Figure 4). In this case the sample was a non-charring
+thick material (PMMA) burning on both sides. While the flow was on, the flame grew and was marked by continuous
+small disturbances (3-5 mm in diameter) in the flame due to fuel vapor b ursting out of the melted polymer. The long
+burning interval allowed the sample to accumulate heat such that when the flow was turned off, the sample continued
+to bubble actively. These jets of fuel emerging  from the surface provided sufficient mixing to keep the flame alive
+over the 15 second interval of no flow. The flame continued to grow extensively until it produced enough soot that it
+damaged the outlet screens and reduced the air  flow. Similar behavior with bubbling jets of fuel va por was seen by
+Kimzey in a flammability test with nylon on Skylab. 5 On Saffire V , an approach was tested to promote more rapid
+extinguishment. Instead of abruptly turning off the flow after a 65 s interval of reduced air flow as in Saffire IV-2, the
+air flow for Saffire V samples 3 and 4 was reduced from the starting condition of 20 cm/s to 5 cm/s and held at 5 cm/s
+for 300 seconds . This extended time at reduced flow allowed the sample to cool more effectively than in the
+quiescent conditions seen in Saffire IV  while preventing the accumulation of fuel vapor  near the sample surface.
+Consequently, when the fan was turned off in Saffire V -3 and V-4, the sample extinguished immediately (Figures 5
+and 6). These results indicate that extinction of the fire cannot be assumed to occur quickly under quiescent conditions.
+Thin materials, higher oxygen concent rations and heating  of the solid fuel can all support extended bur ning.
+Furthermore, using reduced air flow rather than going to zero  air flow can lead to more rapid extinction  due to the
+convective co oling. However, as an extinguishment strategy, this would carry other risk s given the uncertainty of
+configurations and flow rates in a spacecraft.
+B.  Ignition
+Two Saffire samples (IV-2 and V-4) exhibited intense ignition processes of deflagration because of a stratified mixture
+as recorded in both the video and the radiometer data. Unlike in normal gravity where  buoyancy tends to move hot
+vapors away from  the source, in low gravity  hot fuel vapors can more easily accumulate. Figure 7 shows the edge
+view of Saffire IV -2 after the flow was reduced to 5 cm/s.  The flame persisted on the upper surface w ith a series of
+pulsations induced by bursting bubbles of molten PMMA, which ejected MMA vapor from the sample  surface. On
+the lower surface, the flame has extinguished but continued em itting vapor. In the image t he flame has penetrated
+through a gap at the leading edge of the sample to the lower area. Immediately afterwards, a strong deflagration spread
+below the sample and the induced flow  generated a strong flame  above the sample  as well.
+Figure 4: Air flow speed, fan speed, and radiant flux for Saffire IV -2 (2 sided PMMA in air). Although the
+flame shrank during the reduced flow starting at 1150 seconds, the flame recovered and grew substantially when
+the air flow was restarted at about 1300 seconds.  After 1400 seconds the air flow reduced due to apparent
+blockage of the outlet screen.
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+-5
+0
+5
+10
+15
+20
+25
+30
+600 800 1000 1200 1400 1600
+Incidnet Flux (mW/cm^2)
+Air Speed (cm/s)
+Fan Speed (RPM/1000)
+Time (s)
+Inlet Duct Anemometer Fan Speed Radiometer 4
+
+--- [Page 7] ---
+International Conference on Environmental Systems
+7
+Saffire V sample 4 also exhibited a deflagration when it was first igniting (Figure 8). In this case, the ambient gas flow
+was 20 cm/s and ignition first occurred on the underside of the sample. Within 100 ms, the flame had expanded to fill
+the field of view. Development of the stratified mixture in this case was not expected given the gas velocity however
+the curled ash from sample 2 may have provided enough recirculation to enable the stratification. The relative ease by
+which these stratified mixtures could develop poses risk for fire response strategies and suggests that reduced air flow
+and complex flow obstructions can allow the accumulation of fuel vapor, thereby creating a re adily-ignited mixture
+that can produce a strong deflagration.
+C. Flow / Configuration Effects on Thin Fuel Flame Spread
+In the first Saffire flights (I -III), the duct size and boundary layer development were shown to affect the flame
+spread and flame size.1,6 As described in detail in a prior paper, 1 one of the objectives of the Saffire experiments was
+to determine if steady concurrent  flame spread would be observed for thin fuels. In all of thes e tests on Saffire I-V,
+the Cotton and SIBAL fuel samples established a steady opposed spread rate and flame si ze as identified in Figure 9
+and Table 2. Although upward flame spread is usually acceleratory  in 1-g, as discussed in Ref. 1, steady spread was
+seen in ground tests with SIBAL cloth if the flame size was constrained  by heat loss or lower pressure. As expected,
+this spread rate was affected by oxygen concentration and flow rate,  but it was also shown to be affected by duct
+height which was discussed in detail by Li et al.7,8 Using a numerical model, these studies showed that, for concurrent
+flame spread and beyond a critical separation distance, increasing the duct height reduced the air velocity  above the
+flame owing to the reduced impact of the flow restriction caused by the flame. Since the concurrent flame spread rate
+increases with air velocity, increasing the duct height slowed the flame spread. Saffire IV continued this investigation
+by including another SIBAL sample and using the reduced duct height in Saffire IV-V. The additional data point is
+Figure 8: Saffire V-4 deflagration during initial ignition of sample  Images are edge view, the red lines
+denote the approximate middle of the sample edge. Air flow is from left to right at 20 cm/s.  Ignition occurred
+after a planned 10 minutes of preheating (top image) within 100 ms (bottom image) the flame has bloomed to
+fill the field of view. Images correspond to the sharp peak at 645 s in figure 6.
+Figure 9: Pyrolysis lengths and positions of the flame bases and tips for Saffire I -V. Sample dimensions and
+conditions are in Table 2.
+
+--- [Page 8] ---
+International Conference on Environmental Systems
+8
+plotted with the results from Saffire I-III1 in figure 10. As expected, the spread rate increased (about 100%)  with the
+reduced height  flow duct compared to Saffire I and III.  Saffire I and III also produced  the novel observation of a
+(~30%) flame size overshoot owing to the boundary layer development  on the sample surface.1 This overshoot was
+not seen for the SIBAL samples on Saffire II , which were positioned on the sample card such that there was a long
+entrance length. At the beginning of the duct, the undeveloped boundary layer is thinner with higher velocities  near
+the sample surface. These higher ve locities induce faster spread as expected.  The st eady state flame lengths  are
+summarized in Table 2. Compared to Saffire I-III, thin-sample flame sizes increased owing to the reduced duct height
+on Saffire IV and with the Saffire V cotton sample, which was a thinner material and was in a higher ambient oxygen
+concentration. From a fire safety perspective, these results are significant because they demonstrate that under a variety
+of conditions, concurrent flames spreading over thin fuels  will achieve a limiting  size. This behavior  contrasts with
+normal gravity upward spread where flames tend to grow continuously.
+D. Flow / Configuration Effects on Thick Fuel Flame Spread and Growth
+The Saffire IV and V flights included three successful tests burning PMMA slabs as described in Table 1 and in
+more detail in Refs. 2 and 3. These tests produced several  results relevant to spacecraft fire safety. Both concurrent
+samples (IV-2 and V -3) did not  spread appreciably and instead remained fixed at the leading edge of the sample ,
+advancing through surface regression only. This phenomenon is typical for  thick fuels in low gravity but  is different
+from what is seen in normal gravity. These concurrent flames initially grew but then assumed a steady flame size for
+the remainder of the burn duration. For Saffire II, the two PMMA 5 cm wide, two-sided samples grew to flame lengths
+of 8.0 cm for the grooved sample and 9.5 for the flat sample. 2 For Saffire IV-2, the two-sided PMMA sample flame
+Table 2 Test Conditions and flame size for thin samples
+Flight-Sample I-1 II-5 II-6 III-1 IV-1 V-2
+Air flow (cm/s) 20 20 25 25 20 20
+Oxygen concentration (%)  21 21 21 21 22 26.2
+Pressure (kPa) 100 100 100 100 100 70.7
+Material SIBAL SIBAL SIBAL SIBAL SIBAL Cotton jersey
+Steady state size (cm) 4 4 5 5 8.5 10.0
+Maximum size (cm) 6.2 4 5 8.2 11.0 14.0
+Duct Height (cm) 46 46 46 46 30 30
+Sample Width (cm) 41 5 5 41 41 41
+Sample length (cm) 94 30 30 94 50 50
+Figure 10: Steady spread rate summary for the cotton -fiberglass fabric burning in microgravity. 1
+Concurrent flames are shown on the left of the origin and opposed to the right . Saffire I-III were in a 46 cm duct
+and Saffire IV was in a 30 cm duct.
+BASS concurrent 2 cm wide
+BASS concurrent 1 cm wide
+BASS opposed 2 cm wide
+Saffire I& III: 40 cm wide
+Saffire II: 5 cm wide
+Saffire IV: 40 cm wide
+
+--- [Page 9] ---
+International Conference on Environmental Systems
+9
+burning in air grew to 9.5 cm after 400 seconds. In Saffire V-3, the one-sided PMMA sample flame (in 25.4% oxygen)
+grew to 11 cm after 450 seconds. This result is similar to the limiting flame size seen for the thin samples. In all these
+cases the flame length  reached an upper limit  contrary to similar  1-g tests that did not reach a steady length .9,10,11
+Reaching a limiting length, especially for a thick solid, may seem a surprise since for a sample of this siz e an upward
+flame will continue its growth in normal gravity . It has been suggested that the reason why the flame tip stops
+advancing has to do with the surface energy balance at the pyrolysis front (flame tip) region.12,13 Assuming convection
+is the primary heat transfer mode, the magnitude of gas phase heat flux to the pyrolysis front decreases with
+downstream distance. When its magnitude becomes comparable to the surface radiative heat loss, the net heat feedback
+and hence the local solid burning rate become vanishing small, local flame tip quenching occurs and the flame become
+stationary for a thick solid . Increasing the ambient oxygen concentration can be expected to reduce the standoff
+distance. Consequently, the final length of the Saffire V-3 flame is greater than the other samples due to the enhanced
+oxygen concentration. This oxygen limitation was also seen in Saffire V -4 where the opposed flame spread was also
+affected by limited oxygen availability as seen in Figure 11. Visible in the left-hand image is a downstream flame that
+developed on the adjacent sample, V-3, which established quickly on the warm sample but then was extinguished
+when the upstream flames grew to sufficient size to consume the available oxygen. The downstream V-3 sample was
+4.5 cm from the upstream sample and was ignited by the upstream flame that was driven to a larger size because the
+igniter was adding substantial heat to the system even after the flame was ignited. Unlike in normal gravity, the PMMA
+extinguishes behind the spreading flames potentially due to the oxygen shadow 14 combined with the surface energy
+balance issue described above 12,13 resulting in nearly constant sizes for the flames in Figure 11.
+Also evident in Figure 11  is the difference in spread rate as function of the rib width. The ribs of the structured
+PMMA were 3 mm high which was sufficient to support an individual flame at the top of the rib, making the effective
+sample size the rib width. The top rib is 1mm wide, the second rib is 2 mm wide and so forth until the tenth rib which
+is 10 mm wide. The distance between adjoining rib faces is a constant 2 cm so that the flow in the “channel” between
+ribs is expected to be similar . The flame spread more rapidly on the thin ribs at the top of the image with decreasing
+spread rate as the ribs become wider . This change in spread rate is non-monotonic as seen with rib 7 lagging behind
+the thicker rib 8. This is attributed to a partial flow obstruction caused by the curled char and ash from cotton sample
+V-2. This curled char occurred late in the burn for sample V-2 and is clearly evident on the post-test images, (Figure
+12). The curled char is most prominent in the middle of the sample, well aligned with the locations of the delayed
+flame spread on the middle r ibs on sample V -4. The post-test flow visualization  (smoke traces) validated the flow
+Figure 11: Opposed flame spread on ribbed PMMA . Images are top view. Flow is form left to right at 20
+cm/s. Sample rib centerlines (red lines) are indicated. Ribs are 3 mm high with widths increasing from 1 mm to
+10 mm by 1 mm increments from the top to the bottom red line. There is 2 cm between adjoining rib faces. Flow
+is from the left to the right. Images are 100 seconds apart. On the wider ribs, the flames at the corners spread
+ahead of the center. In the right -hand image, two flames are visible on some ribs (front and back sides of the
+sample). In the first image (left) a flame can be seen near the right side of the frame. This is a flame that developed
+on the adjacent downstream sampl e (V -3). This flame developed briefly at the start of the test and then
+extinguished, presumably due to oxygen deprivation.
+10 cm
+
+--- [Page 10] ---
+International Conference on Environmental Systems
+10
+disturbance over the middle of the structured sample . The combined interpretation of these results demonstrates the
+strong influence of the flow characteristics on flame spread and growth in low gravity. Unlike in normal gravity where
+flames can induce substantial flow through buoyancy, in low gravity , the flame growth is controlled by the flow
+environment. This dependency on flow makes assessment of the fire growth or spread in low gravity more difficult ,
+as one cannot assume simple growth predictions (e.g. t2) as is typically done for normal gravity fires.
+Furthermore, the best fire prevention strategies may be different from  the best extinguishment strategies . As seen
+above, quiescent conditions reduce the air flow, but bubbling fuels or charring materials may extinguish more rapidly
+if there is some convective cooling and mass transport. For ignition, however, quiescent conditions will likely make
+the sample less ignitable than with convection present. The most ignitable condi tion is likely to be at low flow rates
+since as the flow velocity increases , ignition becomes delayed or deterred due to heat losses from the surface of the
+fuel the adjacent flow.15
+One of the more subtle observations from  these tests is that the test configuration to assess the flammability of
+materials for use in spacecraft, NASA STD 6001 Test 116 does not correspond to overall fire behavior in low gravity.
+Various aspects of this test and how it relates to low -gravity conditions discrepancy have been discussed in the past ,
+but the Saffire experiments  have shown phenomena of relevance. NASA Test 1 is based on an upward flammability
+test where a 30 cm long  material sample is ignited a t the bottom and if the flame grows or spreads past 15  cm, the
+sample is deemed to fail the test at that condition . As discussed above, flames on thick fuels will not grow or spread
+concurrently in low gravity and instead depend on surface regression to move  the flame forward ; instead, spread is
+more likely to be seen in opposed (downward) spread.  This result does not indicate that the normal gravity test is not
+useful. The test is quite successful at identifying highly flammable materials; however, the test cannot be assumed to
+indicate that a material will not burn under those c onditions in low gravity. Another significant result was the
+demonstration of the importance of surface structure on the flammability. Although the Saffire V -4 sample was 10
+mm thick, the relevant dimension for flame spread was the width of the ribs. NASA STD 6001 requires testing with
+the worst case (usually the thinnest) sample. These results indicate that relatively thin surface structures must be
+considered.
+Figure 12:  Edge view of the flow  visualization after all tests are completed . Sample V-4 is in the middle of
+the image and V-3 is to the right. The crumpled char from sample V -2 is evident on the left as are the distorted
+smoke traces from heated rosin on a wire at the duct inlet.  Air flow is from left to right at 20 cm/s the red line
+denotes the approximate middle of the sample edge.
+10 cm
+
+--- [Page 11] ---
+International Conference on Environmental Systems
+11
+IV Summary of Results
+To date, the Saffire Experiments have produced a notable set of results that are relevant to spacecraft fire safety design
+and assessment. These results include:
+Extinguishment
+• Extinguishment of thin charring fuels  at increased oxygen cannot be assumed  to occur rapidly in quiescent
+conditions.
+• Extinguishment of bubbling polymers cannot be assumed to occur rapidly in quiescent conditions
+• In some circumstances, reducing air flow to a small value rather than quiescent conditions may be useful to
+disperse fuel vapor and help cool the material to enable extinction
+Ignition
+• Overheated materials in quiescent conditions or in low -flow zones in low gravity can produce stratified fuel
+mixtures that can result in dramatic deflagrations during ignition.
+Flow/configuration
+• The dimensions of the flow environment relative to the size of the flame can have a significant effect on the
+spread rate over thin materials.
+• Near the entrance of a flow  environment, the undeveloped boundary layer  can lead to flame sizes that are
+initially 30% larger than occur with developed flow until the flame spreads into a region with developed
+flow.
+• In opposed spread over  thick materials, the size of ridges or other surface shape structures  can have a
+significant effect on flame spread.
+Spread and Growth
+• Flames were seen to deve lop to nearly steady lengths in all configurations. This includes concurrent and
+opposed spread on thin fuels  and on thick fuels . The steady  state size was affected by the oxygen
+concentration and the flow  velocity. This contrasts w ith upward spread in normal gr avity which usually
+shows continued growth.
+• Flames on thick fuels in concurrent flow did not spread and were instead pinned to  the leading edge of the
+sample and propagated as the fuel was consumed. In opposed flow the flames spread toward the leading edge
+where they became pinned. As it spread, the flame  did not grow, instead the downstream tail extinguished
+behind it as it spread.
+• Once a flame achieved its limiting size, downstream flames were inhibited or extinguish ed by the oxygen
+“shadow” of the upstream flame.
+• Thick fuel flame growth was found to be dissimilar from that seen in NASA STD 6001 Test 1. This does not
+invalidate the test but does affect the interpretation of the test results
+• In one case, a flame was seen to jump a 4.5 cm gap to ignite a previously warmed PMMA surface.
+Collectively, these results provide new understanding of the behavior of fires in low gravity in practical configurations.
+These observations and the accompanying analyses described in the refe rences will be incorporated into spacecraft
+fire safety requirements and guidelines for exploration spacecraft and habitats. Saffire- VI is in storage and, when
+flown, will undoubtedly provide additional data and observations to strengthen or clarify the conclusions of this paper.
+The continued analysis of the data from Saffire-I-VI will extend the application of these results to quantify the impact
+of a fire to exploration spacecraft.
+.
+Acknowledgments
+The authors acknowledge the support of the NASA Advanced Exploration Systems Division for the sponsorship of
+the Spacecraft Fire Safety Demonstration Project and the Saffire experiments.  In addition, the authors acknowledge
+the support of the various space and research agencies that have supported this work including but not limited to
+JAXA, ESA, RSA, CNES, DLR, the Russian Academy of Sciences and NASA. The excellent support by the
+engineering team (NASA and Zin Technologies ), Northrup Grumman and the on -orbit crew are gratefully
+acknowledged.
+
+--- [Page 12] ---
+International Conference on Environmental Systems
+12
+References
+1 Urban, D. L., Ferkul, P., Olson, S., Ruff, G. A., Easton, J., T'ien, J. S., Liao, Y. T., Li, C., Fernandez-Pello, C., Torero, J. L.,
+Legros, G., Eigenbrod, C., Smirnov, N., Fujita, O., Rouvreau, S., Toth, B., and Jomaas, G., “Flame spread: Effects of Microgravity
+and Scale,” Combustion and Flame, Volume 199, 2019, pp. 168-182
+2Olson, S., Urban, D. L., Ruff, G. A., Ferkul, P., Toth, B., Eigenbrod, C., Meyer, F., and Jomaas, G., ”Concurrent Flame Spread
+Over Two-Sided Thick PMMA Slabs in Microgravity,” Fire Technol 56, 49–69 (2020).
+3Eigenbrod, C., Meyer, F., Jomaas, G., Urban, D. L., Ruff, G. A., Olson, S., Ferkul, P., and Toth, B., “Opposed flame spreading
+along a structured PMMA sample in exploration atmosphere under microgravity,” 50th International Conference on Environmental
+Systems, 12-15 July 2021, ICES-2021-218.
+4Fortenberry, C., Casteel, M., Graf, J., Easton, J., Niehaus, J., Meyer, M., Urban, D., Ruff, G., “Evaluation of Combustion
+Products from Large-Scale Spacecraft Fires during the Saffire-IV and Saffire -V Experiments,” 50th International Conference on
+Environmental Systems, 12-15 July 2021, ICES-2021-244.
+5Kimzey, J.H. , “Skylab Experiment M479 Zero Gravity Flammability” in Skylab Results,  Proc. Third Space P rocessing
+Symposium, NASA Marshall Space Flight Center M-74-5, Vol. 1, June 1974, pp. 115-130.
+6Li, C., Liao, Y. T., T’ien, J. S., Urban, D. L. , Ferkul, P., Olson, S., Ruff, G. A., Easton, J., “Transient flame growth and spread
+processes over a large solid fabric in concurrent low -speed flows in microgravity –Model versus experiment,” Proceedings of the
+Combustion Institute 37 (2019) 4163–4171.
+7Li, Y., Liao, Y. T., and Ferkul, P. (August 14, 2020). "Numerical Study of the Effects of Confinement on Concurrent -Flow
+Flame Spread in Microgravity." ASME. J. Heat Transfer. November 2020; 142(11): 111301
+8Li, Y., Liao, Y. T., Ferkul, P., Johnston, M. C. and Bunnell, C., “Experimental study of concurrent -flow flame spread over
+thin solids in confined space in microgravity” Combustion and Flame 227 (2021) 39–51
+9Eigenbrod, C., Hauschildt, J., Meyer, F., Urban, D.L., Ruff, G.A., Olson, S.L., Ferkul, P., Jomaas, G. and Toth, B.,
+Experimental results on the effect of surface structures on the flame propagation velo city of PMMA in microgravity. 47th
+International Conference on Environmental Systems. ICES 2017-67, Charleston, SC, July 2017.
+10Würzburg, N., “Experiments on the vertical flame propagation along surface-structured PMMA-samples; Influence of sample
+thickness”, Universität Bremen, B.Sc., Universität Bremen, 2015, pp. 1-60.
+11Thomsen, M., Fernandez-Pello, C., Ruff, G. A., and Urban, D. L., "Buoyancy effects on concurrent flame spread over thick
+PMMA." Combustion and Flame 199, 2019, pp. 279-291.
+12Honda, L.K. and Ronney, P.D., Mechanisms of concurrent -flow flame spread over solid fuel beds, Proc. Combust Inst. 28,
+2793-2801 (2000).
+13Tseng, Y.-T. and T’ien, J. S.: Limiting length, steady spread and non-growing flames in concurrent flow over solids, Journal
+of Heat Transfer, Vol. 132, September, 091201 (2010).
+14Prasad, K., Nakamura, Y., Olson, S. L., Fujita, O., Nishizawa, K., Ito, K., Kashiwagi, T., “Effect of wind velocity on flame
+spread in microgravity,” Proceedings of the Combustion Institute, Volume 29, Issue 2, 2002, Pages 2553-2560.
+15Roslon, M., Olenick, S., Zhou, Y.Y., Walther, D., Fernandez-Pello, A.C., Torero, J.L.,  and Ross, H. D., “Microgravity
+Ignition Delay of Solid Fuels in Low Velocity Flows” AIAA Journal, 39, No.12, 2336-2342, 2001
+16NASA-STD-6001B w/Change 2, Flammability, Offgassing, and Compatibility Requirements and Test Procedures, National
+Aeronautics and Space Administration, 2016-04-21

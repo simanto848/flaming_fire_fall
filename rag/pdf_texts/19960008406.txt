@@ -1,0 +1,230 @@
+--- [Page 1] ---
+i .¸
+N96- 15572
+EFFECT OF PRESSURE ON A BURNING SOLID IN LOW-GRAVITY
+Jeffrey S. Goldmeer 1, David Urban 2, and James T'ien 1
+1. Case Western Reserve University
+2. NASA Lewis Research Center
+Introduction
+Venting, or depressurization, has been discussed as a possible technique for extinguishingfires on aircraft [1]
+and spacecraft [2,3]. Fire suppression plans for the InternationalSpace Station Alpha (ISSA) discuss the use
+of depressurization as a method for extinguishingfires [4]. In the case of an uncontrollablefire, the affected
+compartment would be vented from an initialpressure of 1.0 atm (14.7 psia) to a final pressure 0.33 atm (4.8
+psia) within 10 minutes [4]. However, the lack of low pressureflammability data for solid materials in a lowgravity environmentpresents an uncertaintyfor the use ofthe ventingtechnique. There are alsotransienteffects
+that need to be considered. It is possible that the flows induced by the venting could intensifythe fire. This
+occurred during flammability tests conductedon board Skylab [5]. In addition, the extinctionpressurecould be
+a function of the depressurization rate. Studies conductedwith solid propellantshave shown that if the pressure
+is reduced quickly enough, the pressure at extinctionwill be greater than the steady-state extinction limit [6].
+This project,which was started in 1992, is examiningboththe quasi steady-state andtransienteffectsof pressure
+reduction on a burning solid in low-gravity. This research will provide Iow-g extinguishment data upon which
+policies and practices can be formulated for fire safety in orbitingspacecraft.
+Hsrdware & Procedures
+Cast polymethyl methacrylate (PMMA) cylinders 1.9 cm in diameter and 2.5 cm in length were burned in these
+experiments. The cylindrical geometry was selected as a model system because two distinct flow regions exist
+when cylinders are placed in a flow: a forward stagnation point and a wake (re-circulating) region. The
+difference between flame stabilization and extinction characteristics in low and high speed flows can be important
+in venting extinction [7- 11]. The tests were conducted in a 25 cm diameter combustion chamber (50 cm in
+height) in which a forced flow of air, with velocities ranging from 5 to 20 cm/sec, was generated. (The axis of
+the cylinders was perpendicular to the flow.) Steel disks (1.9 cm dia) were placed at the ends of the cylinders
+to prevent end flames. Images were recorded on video tape using two color video cameras. A computer
+controlled the experiment and sampled pressure, temperature, volumetric flow rates, and acceleration data.
+Combustion was initiated using a hot wire ignitor.
+A thermocouple was inserted along the cylinder axis with the junction at the center of the cylinder. This
+temperature was used as an indication of the change in the bulk solid temperature. The temperature of a thick
+solid can influence the flammability limits. In a quasi-steady gas-phase theoretical model [9], which was
+developed for this problem, a non-dimensional parameter ((t))was defined to be the ratio of the heat conducted
+into the solid to that from the gas phase:
+This term has been demonstrated to be an importantparameter determining the flammability of a PMMA cylinder
+135
+
+--- [Page 2] ---
+in zero-gravity witha forced flow of air [9,10]. This model shows that as the solid center temperature increases,
+the value of (Z)decreases. The relationshipbetween the solid center temperature and (_ for a PMMA cylinder
+(1.9 cm dia) is shown in Figure 1. The solid-phase temperaturewas computed usinga transient heat conduction
+model for a cylindricalgeometry with a step change in the surfacetemperature: t < 0, T(r) = 300 K; t > 0, T(r=R)
+= 700 K. The gas-phase temperature gradient was calculated using an interface energy balance that included
+surface radiative loss, latent heat of vaporization, and heat conducted intothe solid interior. In the limit of a solid
+heated to near the vaporization temperature, (Dwould be approximately zero.
+Inthese experiments, the sample was ignited, and depressurizationwas initiatedat a pre-determined solidcenter
+temperature. (In most cases, this was 320 K.) The rate of depressurization was controlled using a PID controller
+that monitored the chamber pressure and controlled the outlet valve. The pressure was reduced until the flame
+was extinguished.
+A series of tests was conducted to examine the velocity increase within the combustion chamber during
+depressurization. In the tests the forced flow velocity ranged from 10 to 18 cm/sec, the depressurization rate
+was 1.0 atmosphere per minute, the initial pressure was 1.0 atmosphere, and the final pressure was 0.5
+atmospheres. The velocity was measured with a hot wire anemometer probe that was inserted into the center
+of the combustion chamber. During depressurization, the measured velocity increased by less than 2 cm/sec.
+Low gravity data at low pressures was obtained on board the NASA Lewis Research Center's Lear Jet. In flight,
+the aircraft followed a Keplerian trajectory that produced approximately 20 seconds of Iow-g [12]. Accelerations
+on the order of + 0.02 g's were measured during the Iow-g portion of the trajectory. The periods of Iow-g were
+preceded and followed by periods of high-g: + 2 to 3 g's. Because the time needed to establish combustion is
+longer than the entire Iow-g period, the samples were ignited in lg, prior to the Iow-g trajectory. Reduced
+pressure on board the aircraft was obtained via an overboard vent line: atmospheric pressure at altitude ( ~
+30,000 ft.) provided the low pressure source.
+Normal Gravity_Results
+The parameters for these experimentsincluded: forced flow velocity, depressurization rate, and initial pressure.
+The forced flow was set at 10 or 20 cm/sec and the depressurization rate varied from 0.2 to 1.5 atmospheres
+per minute. The initial pressures ranged from 1.0 atm down to 0.4 atm.
+Figure 2 is a plot of the solidcenter temperature at extinction and the computed value of (t) (at extinction) versus
+the extinction pressure. For high initial pressures and low depressurization rates (0.2 atm/min), the resulting
+temperature at extinction was high (> 500 K; (t) < 0.23). The resulting longer period of burning raised the solid
+temperature increasing its flammability, as indicated by the decreasing value of ¢). Since the material was more
+flammable, a reduced pressure (0.07 atm) was required to cause extinction. For tests with a lower initial
+pressure or a high depressurization rate (> 0.5 atm/min), the solid had less time to absorb heat from the flame,
+so the center temperature was less than 450 K (_ > 0.27) at extinction. (Extinction pressures varied from 0.1
+to 0.3 atm.) Thus, these results provide a flammability boundary dependent on the solid (center) temperature
+and pressure.
+There were distinct changes inthe flame shape during the experiments. (Figure 3) Initially, the flame had a teardrop shape (envelope flame) and a whitish-yellow color. (Figure 3A) As the pressure was reduced, the flame
+tip length was reduced, and the flame developed an elliptical shape. In addition, the flame color changed to a
+dim blue. (Figure 3B) As the pressure was reduced further, the flame blew-off at the forward stagnation point.
+This was followed by a period of oscillations, as the flame tried to re-attach itself. Eventually, the flame receded,
+forming a wake flame. (Figure 3C) As the pressure was reduced slightly, the flame extinguished.
+In this test, the depressurization rate was 0.3 atmospheres/minute. In tests with depressurization rates on the
+order of 1.5 atmospheres/minute awake flame did not form after the flame was blown-off the forward stagnation
+point. In these cases, the short burning times may not have permitted the upper surface temperature profile to
+increase to the point at which it could sustain combustion.
+136
+
+--- [Page 3] ---
+Low-gravityResults
+Two types of experiments were conducted: constant and variable pressure. In both types of experiment, the
+samples were ignited at pressures ranging from 0.7 to 1.0 atmospheres. In the constant pressure experiments
+the pressure was reduced to the test condition after ignition, but prior to the beginning of the low-g-interval; the
+pressure was kept constant during the period of Iow-g. In the variable pressure tests, the pressure was kept
+constant until the Iow-g interval, at which point the combustion chamber was depressurized. The pressure range
+examined was 1.0 to 0.4 atm, with the lower pressure limit a result of the vent line capacity.
+Twenty-six constant pressure extinctiontests were conductedwith a forced flowof 10 cm/sec in air. DuringIow-g
+the solid- phase center temperature did not vary significantly, indicating little change in the solid-phase
+temperature profile. Since the solid-phase thermal diffusion time was on the order of 350 seconds, and the gasphase time scales (conduction and convection) were on the order of 1 second, these experiments were
+considered to be quasi-steady. As noted in a previous paper [10], there were distinct changes in the flame's
+shape from lg to Iow-g (Figure 4); at the same pressure (0.8 atm) and with the same forced flow (10 cm/sec),
+the Iow-g flame did not have the characteristic lg plume, and the flame's color changed to a dim blue.
+Inthese experiments, the quasi-steady nature of the flame was disturbed by perturbations aboutthe mean g-level
+(g-jitter). These perturbations are associated with vibrationsin the aircraft due to engine noise, air turbulence,
+and trajectory control. The perturbationswere typically on the order of 10 to 40 milli-g's (10.2 to 4xl02g's).
+Since the mean g-level duringthe Iow-g portionof the trajectorywas typically onthe order of 1to 10 milli-g's (10z
+to 10.2g's), the perturbations created periods of positive and negative-g. The effect of g-jitterwas noticeable in
+the visible flame thickness at the forward stagnation point. In figure 5, this thickness is plotted with the g-level
+as a function of time. As the g-level decreased, the flame thickness increased, most likely because changes in
+the net velocity affected the heat and mass transfer balances within the flame. The flame extinguished after 1.5
+seconds of sustained negative-g, as shown in the right edge of the figure. The rapid decrease in the flame
+thickness denotes extinction.
+The pressure and solid center temperature data for these experiments is plotted in Figure 6. Note that there
+were numerous experiments in which the flame extinguished. In all of these cases, the flame was disturbed by
+a sustained period of negative-g on the order of 30 milli-g's (3x10 .2g's). At this g-level the induced buoyant
+velocity was on the order of 10 cm/sec. Since the induced velocity opposed the forced flow during a period of
+negative-g, the local velocity would have approached zero in tests with a forced flow of 10 cm/sec. Previous
+experiments [13] have indicated that this material is not flammable in air in a quiescent Iow-g environment. Thus,
+during negative-g the near zero air velocity weakened the flame. The weakened flame was not able to recover
+when the g-level began to increase and extinguished as shown in Figure 5.
+A method for minimizing the effect of g-jitter wouldbe to increase the forced flow velocity. The induced buoyant
+velocity would then be a smaller percentage of the forced flow. During a period of negative-g, the induced flow
+would still oppose the forced flow, however, the local velocity would not approach zero. Work in progress
+suggests that this method is effective in reducingthe effects of g-jitter on the flame.
+For cases in which g-jitter did not significantly affect the flames, extinction did not occur. This indicates that the
+pressures and solid center temperatures tested were above the Iow-g flammability limit. A recent numerical
+study agrees with this result [9]. This study examined the burning of PMMA cylinders in Iow-g with a forced flow
+and determined that the flammability limit was a function of the solid sub-surface temperature gradient. As the
+solid center temperature increased, the percentage of energy conducted into the solid interior from the flame ((Z))
+decreased. Since the solid was at a higher temperature, it required less energy from the flame to create the fuel
+vapor. Thus, in cases with reduced pressure and increased solid temperatures, the solid was able to produce
+fuel vapor, even though the reaction rate of the flame was reduced. Because of this, a cylinder at higher bulk
+temperatures sustained combustion at lower pressures. The limiting case was when the entire solid was near
+the vaporization temperature: (1)near zero. The low pressure limit with a 10 cm/sec forced flow of air, as
+reported in the numerical study, was approximately 0.12 atm (1.7 psia) [9].
+In the transient experiments, the chamber pressure was reduced during Iow-g. Six cases were run, with
+depressurization rates ranging from 0.5 to 1.2 atm/min. The final pressures ranged from 0.67 to 0.42 atm. The
+137
+
+--- [Page 4] ---
+flames were not extinguished during these tests.
+diminishment of the flames.
+Additionally, there was no visible intensification or
+Conclusions
+The lg experimental results presented in this paper comprise a pressure - temperature flammability boundary
+for constant % oxygen, forced flow velocity, and g-level. As the bulk solid temperature increased, the low
+pressure limit decreased. (Figure 2.) When the solid temperature was sufficiently high, as measured by the solid
+center temperature and (I), the low-pressure limit was quite low (< 0.1 atm).
+The Iow-g experimental results to date did not produce a flammability boundary, but they illustrate the effects that
+g-jitter can have on a flame. In these experiments, g-jitter extinguished flames in conditions that have been
+observed to be flammable without jitter and which were predicted to be flammable [9]. Future experiments will
+continue to examine methods for limiting the effects of g-jitter.
+The inability to determine the low pressure flammability limit in Iow-g was caused by limitations in the hardware;
+the lower pressure limit was a result of the vent line capacity. Further Iow-g experiments at pressures below 0.4
+atm (5.9 psia) are planned. The current estimate for the Iow-g flammability limit with flow is below the final
+venting pressure for space station (4.8 psia). However, current plans for the ISSA are to turn off forced air
+circulation, vent to 4.8 psia, and then close the vent valve providing a quiescent Iow-g environment in which the
+flame should extinguish. However, during the time required to attain the quiescent condition, the fire may
+continue to burn.
+During the Iow-g transient experiments, there was no visible intensification of the flames. This was due to the
+small increase in the velocity due to the venting. An intensification of the flames in the Skylab experiments [5]
+was due to a large change in velocity during depressurization; the Skylab experiments were conducted in a
+quiescent chamber with a pressure of 5.2 psia (0.35 atm) and an oxygen concentration of 65% [5]. Thus, during
+venting of the space station, there may or may not be an intensification of the fire, depending on the flame
+location and it's position relative to the vent port(s).
+A(;:knowledgements
+J. Goldmeer would like to acknowledge the funding provided by the NASA Graduate Student Research Program.
+References
+1. Starrett, P., "Factors Influencing Flame Spread Rates in Solid Materials", Journal of Fire and Flammability, Vol. 8,
+January 1977, pp. 5-25.
+2. Diamant, B., Humphries, W., "Past and Present Environmental Control and Life Support Systems on Manned
+Spacecraft", Twentieth Intersociety Conference on Environmental Systems, Paper # 901210, July 1990.
+3. Friedman, R., Sacksteder, K., "Fire Behavior and Risk Analysis in Spacecraft", NASA TM 100944, 1988.
+4. Space Station Program System Specification, SSP-41000, February 1994.
+5. Kimzey, J., "Skylab Experiment M-479: Zero Gravity Flammability", Johnson Space Center Report, JSC 22293,
+1986.
+6. Ciepluch, C.C., "Effects of Rapid Pressure Decay on Solid Propellant Combustion", ARS Journal, Vo131., 1961, p.
+1584.
+7. Spalding, D., 'q'he Combustion of Liquid Fuels", Fourth Symposium (Intemational_ on Combustion, p. 847.
+8. Udelson, D., "Geometric Considerations in the Burning of Fuel Droplets", Combustion & Flame. 1962, Vol. 6, p. 93.
+9. Yang, C.T, "Numerical Simulation of the Combustion of a Solid Cylinder in Low Speed Flows", M.S. Thesis, Case
+Western Reserve University, 1994.
+10. Yang, C.T., Goldmeer, J.S., Urban, D.L., and T'ien, J.S., "Combustion of a Solid Cylinder in Low Speed Flows", Fall
+Technical Meeting of the Eastern States Section of the Combustion Institute, 1994, pp. 47-50.
+11. Ferkul, P. and T'ien, J.S, "A Model of Low-Speed Concurrent Flow Flame Spread Over a Thin Fuel", Combustion
+Scier_ce and Technology. 1994, Vol. 99, pp. 345-370.
+12. Lekan, J., N eumann, E., and Sotos, R., "Capabilities and Constraints of NASA's Ground-Based Reduced Gravity
+Facilities", Se00nd International Microoravity Combustion Workshop, NASA CP 10113, 1992, pp 45-60.
+13. Goldmeer, J.S., Urban, D.L., and T'ien, J.S., "An Experimental Study of Solid Diffusion Flame Extinction and
+Transition to Microgravity", Fall Technical Meeting of the Eastern States Section of the Combustion Institute, 1993,
+pp. 441-444.
+138
+
+--- [Page 5] ---
+TIME (SEC)
+Figure 1 - Computed Solid Center
+Temperature and Computed CD
+vs. Time
+(Surface Temperature = 700K)
+-.
+PRESSURE AT EXllNCTKlN (Am)
+Figure 2 - Solid Center Temperature
+and Computed @ vs. Pressure at
+Extinction in normal gravity
+(forced flow of 10 cm/sec in air)
+(A) P = 0.98 ATllll (B) P = 0.11 ATM
+T=307K Tr510K T=526K
+t=93sec t = 301 sec t=322-
+(C) P = 0.07 ATM
+Figure 3 - Visible Flame in normal gravity with a
+forced flow of 10 cm/sec in air
+(ignition occurred at t = 34 seconds)
+139
+
+--- [Page 6] ---
+1
+(B) LOW-g
+T=303K
+Figure 4 - Comparison of 1g and Low-g Visible Flames
+Constant Chamber Pressure (0.8 atm) with aforced flow of 10 cm/sec in air
+(Initial Solid Center Temperature = 295 K)
+0123456789
+TIYE (SEC)
+Figure 5 Figure 6
+Flame Thickness & Elevel vs. TSme
+Pressure = 0.79 atm
+Solid Center Temperature = 303 K
+Solid Center Temperahrte vs. Pressure
+Forced Flow of 10 crnlsec in air
+(subject to g-jitter)
+in Low-g (Lear Jet) with a

@@ -1,0 +1,201 @@
+--- [Page 1] ---
+UNSTEADY SPHERICAL DIFFUSION FLAMES IN MICROGRAVITY
+Arvind Atreya, S. Berhan, M. Chernovsky
+Department of Mechanical Engineering & Applied Mechanics
+University of Michigan; Ann Arbor, t14148109
+and
+Kurt R. Sacksteder
+NASA Glen Research Center; Cleveland, OH 44135
+INTRODUCT/ON
+The absence of buoyancy-induced flows in microgravity (/Lg) and the resulting increase in the
+reactant residence time significantly alters the fundamentals of many combustion processes.
+Substantial differences between normal gravity (ng) and /zg flames have been reported in
+experiments on candle flames [1, 2], flame spread over solids [3, 4], droplet combustion [5,6], and
+others. These differences are more basic than just in the visible flame shape. Longer residence times
+and higher concentration of combustion products in the flame zone create a thermochemical
+environment that changes the flame chemistry and the heat and mass transfer processes. Processes
+such as flame radiation, that are often ignored in ng, become very important and sometimes even
+controlling. Furthermore, microgravity conditions considerably enhance flame radiation by: (i) the
+build-up of combustion products in the high-temperature reaction zone which increases the gas
+radiation, and (ii) longer residence times make conditions appropriate for substantial amounts of
+soot to form which is also responsible for radiative heat loss. Thus, it is anticipated that radiative
+heat loss may eventually extinguish the "weak" (low burning rate per unit flame area)/_g diffusion
+flame. Yet, space shuttle experiments on candle flames show that in an infinite ambient atmosphere,
+the hemispherical candle flame in/Lg will burn indefinitely [1]. This may be because of the
+coupling between the fuel production rate and the flame via the heat-feedback mechanism for candle
+flames, flames over solids and fuel droplet flames. Thus, to focus only on the gas-phase phenomena
+leading to radiative extinction, aerodynamically stabilized gaseous diffusion flames are examined.
+This enables independent control of the fuel flow rate to help identify conditions under which
+radiative extinction occurs. Also, spherical geometry is chosen for the/zg experiments and modeling
+because: (i) It reduces the complexity by making the problem one-dimensional. (ii) The spherical
+diffusion flame completely encloses the soot which is formed on the fuel rich side of the reaction
+zone. This increases the importance of flame radiation because now both soot and gaseous
+combustion products co-exist inside the high temperature spherical diffusion flame. (iii) For small
+fuel injection velocities, as is usually the case for a pyrolyzing solid, the diffusion flame in/zg
+around the solid naturally develops spherical symmetry. Thus, spherical diffusion flames are of
+interest to fires in/.zg and identifying conditions that lead to radiation-induced extinction is important
+for spacecraft fire safety.
+EXPERIMENTS
+The experiments were conducted in the 2.2 sec drop tower at the NASA Lewis Research Center.
+The drop-rig used is described in detail elsewhere [8]. Briefly, it consists of a cylindrical test chamber
+(0.38m dia.; 0.43m deep) that houses the spherical burner, the hot-wire igniter and the photodiodes
+and thermocouples used for making radiation and temperature measurements. The spherical burner
+(19mm dia.) was constructed from a low heat capacity porous ceramic material (93 % porosity). Two
+NASA/CP--2001-210826 113
+
+--- [Page 2] ---
+gas cylinders (150 cc & 500 cc) were charged with various gases up to 45 psig and were used to
+supply the fuel to the porous spherical burner. Fuel flow rates to the burner were controlled by a
+calibrated needle valve and a gas solenoid valve was used to open and close the gas line to the burner
+upon computer command. The test chamber also had a 125mm diameter Lexan window which
+enabled the camera to photograph the flame.
+Several,ug experiments under ambient pressure and oxygen concentration conditions, were conducted
+with methane (less sooty), ethylene (sooty), and acetylene (very sooty) fuels for flow rates ranging
+from 3 to 45 cm3/s. Some experiments with ethylene were repeated with various amounts of CO 2
+added to the fuel to increase the radiative heat loss. The following measurements were made and data
+was collected by an onboard computer during these experiments: (i) Flame radius - me___edfrom
+photographs taken by a color CCD camera. (ii) Flame radiation- measured by photodi-odes: with
+different spectral characteristics ranging from UV to IR. (iii) Flame temperature - measured by five
+S-type thermocouples and the sphere surface temperature was measured by a K-type thermocouple.
+RESULTS ......
+Flame Radius: For all fuels (methane, ethylene and acetylene), initially the flame was blue (nonsooty) but becomes very bright yellow (sooty) under/_g conditions. Later, as the flame grew in size
+it became orange and less luminous and eventually the soot luminosity disappeared. CO2 diluted
+flames, however, were mostly blue due to the fuel dilution effect. Both simple analytical and
+numerical models with one-step cli&nistry have been developed-t0 explain ahd_dersfdna the
+expansion rate of these flames. Detailed chemistry models are also being developed. By defining a
+stream function ' _' to satisfy the mass conservation equation as follows:
+....vat
+The equation for the 0 '"" ....... _...... T _'_ _ :c nserved scalar Z canbe analytically solved with the constant pressure ideal
+gas assumption and by requiring that ¢=-constant at the flame front. The solution for the flame radius
+'r/at time "t' is given by the following equation:
+• I
+3V(poh.+ Q porF.zo)
+4n(Poh J + _t)
+1/3
+xt
+Where, 'R' is the sphere radius; V is the volumetric fuel flow rate; Po,hS, Yr- and Q are the
+ambient density, enthalpy, fuel mass fraction and heat released per unit mass of fuel respectively. The
+flame exists at the conserved scalar value Z=Z o where 'Z' is given by the expression:
+Here, r/ is the average heat loss rate by radiation per unit volume and M(t) is the fuel mass injected
+until time "_'. Note that the effect 6fheat release, mass flow rate, radiation h_t loss rate and
+diffusion are contained in the factor multiplying 't' in the expression for 'r/. WNle these equations
+E
+E
+z_
+NASMCP--2001-210826 114
+
+--- [Page 3] ---
+are unlikely to provide comparison with experiments because infinite reaction rates and constant
+properties are assumed. However, the expression for 'r/may be used to correlate the experimental
+and numerical results obtained with one-step kinetics. Such a correlation is shown in Figure 1 for
+several experiments
+conducted on methane.
+Similar results were
+also obtained for other _.5
+fuels. This correlation 2_
+shows that the flame 2.1
+radius growth rate is i 1._
+slightly less than tv 3 _ 1.r• 1.5
+13
+Flame Temperature: 1.1
+Figure 2 shows the 0.9
+measured evolution of 0.r
+radial temperature 0.5
+profiles for methane
+ethylene, acetylene and
+CO2 diluted flames. In
+all cases the fuel flow
+Correlation of data for methane based on a simple theoretical model
+X d91-R(om) [] dg4-Fl(crn) II clg0-_cm) • d87-R(cm) [] clg8-R(crn)
+• dSg-R(Cm) D d156-R(crn) • d85-R(cm) • dg3-R(cm) • OMH-R(cm)
+• OMM-R(cra) R201(cm)-26oc/s _ R206(cm)-18cd$ ....... R207(om)-11Qc/s _R213(cm)-26¢ch;
+R219(cm)-11(_,/s K 91meth20.new • drop97-meth45 A drop10O-meth35 • 101me_3O
+: =
+0.0 0.2 0.4 0.9 0.8 1.0 1.2 1.4 1.6 1.8 2.0
+Time (=.¢)
+Figure 1: Correlation of data and numerical calculations.
+2.2
+Evolution of Rmllal Temperature pmfllu. C=Ht (drop 10e - 20 mY-)
+20o0
+/
+e le u 3e 4o 4, 56
+I_dlml dl_la_e from me Sldtem _ (ram)
+20o0
+1800
+f600
+g 14oo
+Evolutionof radialimnparatumluraff_- C=H,(Drop118- 20m_)
+18 24 _ 40 48 56
+Fiadlal dlstmce from the spi_m _ntw (mm)
+2(700.
+18(70 •
+_. 11400 •
+t fO00
+I_ 800.
+2O(
+8
+Evoiutllon of I_dial "temperature Reid - _ (Drop 91 - 20 milts)
+.................................................................................................................... _ ...................... 1 1800
+!'(/ "."it - " -_ _ v_
+8004OO
+18 24 _ 40 48 56 _ 200
+Radial cllslanoe from the ¢emer of the sphere (mm)
+Evolutloq of radial lampemture profiles - CO: ( Drop 174 - 41_¢, CtHt)
+1'8 24 32 40 _B $8
+RadMI dlstimee flow, _ oentBr (ram)
+(14
+Figure 2: Evolution of radial temperature profiles for four representative cases.
+NASA/CP--200]-210826 115
+
+--- [Page 4] ---
+5.0E-05
+4.5E-05
+"_ 4.0E-OS35E-05 ._
+_ 2.0E..06
+j 1._.05
+1.0E..06
+5.0E.._
+O,OE+O0 ,.
+ao a_ 1.o 1.5 zo
+"rim (s)
+rate was 20 ml/s except for the CO2 diluted case where the C2H4 flow rate was 16 ml/s and the total
+flow rate was 40 rnl/s. Clearly, the temperature fell as time progressed. Also, Tc2 m > TcEn4 > Tcn4
+at all times in the entire domain for the same fuel flow rate. The temperature for TcoE+c2n4 was the
+lowest. The sooting propensity of these fuels is also in the same order, i.e. C2H 2 > C2H 4 > CH 4.
+Thus, we expect that C2H2 flames will be the most radiative. It tunas out that C2H4 + CO2 flames
+are the least radiative due to fuel dilution that reduces the temperature. This is shown in Figure 3
+below. Only radiation in the CO2 wavelength for CH 4 & C2H4 i s-sliown due to space limitations.
+i5Me_ane Rames Is - Ethylene
+-- 20mlh_ - D_p 9_ ..... 725_,mVs _ C,_9 85 --_0 mils - Dlop 101
+.... ;_5 _.&- D_ i00 -- 40 mi"s - Droo 90 -- 45 6"_. Dm£ _q 8. OE-05 ....... 20 rn_.:_ - O_'_ (_ ........;._5 _'s - Dtoi_ 75 --_ mVs - Din9 88
+-- 35 mt/a _ Dro_ 7, -- 4_ mt/s - Drop I_ --45 r_s - Drop 79
+- 7.0E-05 _
+! ;CLt 'j i
+ao 0.5 I.o 1.5 2.0
+"nine (_)
+Figure 3: Radiation from CH4 & C2H 4 flames in the CO2 wavelength band.
+Figure 3 shows that the flame radiation was reduced roughly by a factor of two for all flames. This
+is true for all wavelengths as well. Likewise, the radiation from C2H 2 is higher than C2H4 and
+radiation from CO2 diluted flames is lower than CH4 flames for all wavelengths and all flames, This
+indicates that the effect of temperature is dominanL Interestingly, tl_ totaJ_radiation from the pure
+ethylene flame becomes constant (a trend that is true regardless oT_ f-uelT3_ andthe flow rate;_
+fact for CH 4 it begins to fall) but the total radiation from CO 2 diluted flames continues to increase.
+REFERENCES
+[1] Dietrich, D. L, Ross, H. D. and T'ien, J. S. "Candle Flames in Microgravity," Third
+Microgravity Combustion Workshop, Cleveland, Ohio, April, 1995.
+[2] Ross, H. D., Sotos, R. G. and T'ien, J. S., Combustion Science and Technology, Vol. 75, pp.
+155-160, 1991.
+[3] T'ien, J. S., Sacksteder, K. R., Ferkul, P. V. and Grayson, G. D. "Combustion of Solid Fuels
+in very Low Speed Oxygen Streams," Second International Micr0gravity Combustion
+Workshop," NASA Conference Publication, i 992.
+[4] Ferkul, P., V., "A Model of Concurrent Flow Flame Spread Over a Thin Solid Fuel," NASA
+Contractor Report 19 ! 11 !, 1993.
+[5] Jackson, G., S., Avedisian, C., T. and Yang, J., C., Int. J. Heat Mass Transfer., Vol.35, No.
+8, pp. 2017-2033, 1992.
+[6] Tsue, M., Segawa, D., Kadota, T. and Yamasaki, H. Twenty-Sixth (International) Symposium
+on Combustion, The Combustion Institute, 1996, pp. !251-1258.
+"El .... " _ ....[7] Atreya, A, andAgrawal, S., fect of Radlatzve Heat Loss on Diffusion Flames in Quiescent
+Microgravity Atmosphere," Combustion & Flame, (accepted for publication), 1997.
+[8] Atreya, A, Agrawal, S., Sacksteder, K., and Baum, H., "Observations of Methane and Ethylene
+Diffusion Flames Stabilized around a Blowing Porous Sphere in Ilg Conditions," AIAA # 94-0572.
+NASA/CP--2001-210826 116

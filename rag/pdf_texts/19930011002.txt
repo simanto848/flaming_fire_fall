@@ -1,0 +1,264 @@
+--- [Page 1] ---
+AN EXPERIMENTAL AND THEORETICAL STUDY OF RADIATIVE
+EXTINCTION OF DIFFUSION FLAMES
+Arvind Atreya, Indrek Wichman, Mark Guenther,
+Anjan Ray, and Sanjay Agrawal
+Department of Mechanical Engineering
+Michigan State University
+East Lansing, Michigan 48824
+N93"20191
+INTRODUCTION
+In a recent paper on "Observations of candle flames under various atmospheres in microgravity"
+by Ross et al. (ref. 1), it was found that for the same atmosphere, the burning rate per unit wick
+surface area and the flame temperature were considerably reduced in microgravity as compared
+with normal gravity. Also, the flame (spherical in microgravity) was much thicker and further
+removed from the wick. It thus appears that the flame becomes "weaker" in microgravity due
+to the absence of buoyancy generated flow which serves to transport the oxidizer to the
+combustion zone and remove the hot combustion products from it. The buoyant flow, which
+may be characterized by the strain rate, assists the diffusion process to execute these essential
+functions for the survival of the flame. Thus, the diffusion flame is "weak" at very low strain
+rates and as the strain rate increases the flame is initially "strengthened" and eventually it may
+be "blown out". The computed flammability boundaries of T'ien (ref. 2) show that such a
+reversal in material flammability occurs at strain rates around 5 sec I.
+At very low or zero strain rates, flame radiation is expected to considerably affect this "weak"
+diffusion flame because: (i) the concentration of combustion products which participate in gas
+radiation is high in the flame zone, and (ii) low strain rates provide sufficient residence time for
+substantial amounts of soot to form which is usually responsible for a major portion of the
+radiative heat loss. We anticipate that flame radiation will eventually extinguish this flame.
+Thus, the objective of this project is to perform an experimental and theoretical investigation of
+radiation-induced extinction of diffusion flames under microgravity conditions. This is important
+for spacecraft fire safety.
+PROJECT DESCRIPTION:
+For the experimental and theoretical investigation of radiation-induced extinction two simple
+geometries are chosen: [Note: this project started in April 1991]
+PRECEDING PAGE BLANK NOT FILMED
+115
+
+--- [Page 2] ---
+(i) A spherical diffusionflame supported by a low heat capacity porous gas burner: This is
+considered suitable for the #g experiments and modeling because all the soot formed is
+trapped between the burner and the high temperature reaction zone. Here, flame
+radiation will be enhanced by soot oxidation which will occur as soot crosses the high
+temperature reaction zone. To examine the radiative extinction limit, the following
+parameters will bevaried: (i) Fuel type (chemical structure) and concentration; (ii)
+Ambient oxygen concentration; (iii) Fuel injection velocity; (iv) Ambient pressure.
+Temperatiare -and radiation measurements made under these conditions will then enable
+us to understand the radiative extinction phenomenon. These experiments will soon
+begin in the NASA Lewis 2.2 sec #g drop tower. A schematic of the test apparatus for
+these experiments is shown in Figure la and lb.
+(ii) An a.ris-symmetric low strain rate counterflow diffusion flame: This geometry is adopted
+for the ground-based experiments and modeling because it provides a constant strain rate
+flow field which is one-dimensional in temperature and species concentrations. The
+strain rate is directly related to the imposed flow velocity and the one-dimensionality of
+this flame simplifies experimental measurements and an_Ysi s. Also, there aye no solid
+boundaries which may quench the flame prior to extinction caused by low or high strain
+rates. Experiments on counterflow diffusion flames-are currently being performed to
+determine the soot particle formation and oxidation rates. Two types of flames are being
+investigated: (a) A low strain rate diffusion flame which lies on the oxidizer side of the
+stagnation plane: Here, as shown in Figures 2a and 2t3, all the soot pr0duq_ is
+convected away from the flame toward the stagnation plane. (b) A low strain rate
+diffusion flame which lies on the fuel side of the stagnation plane. Here, as shown in
+Figures 3a and 3b, all the soot produced is convected into the diffusion flame. This
+enhances flame radiation as the soot is oxidized. This geometry is especially relevant to
+the _tg experiments described above. The results of the ground-based experiments are
+being used in a transient model to predict the radiative extinction limit and the conditions
+under which it occurs.
+PRO(3RESS TO DATE
+Although this project started in April 1991, we have made considerable progress on the
+following items:
+#g experiments: The test apparatus has been designed to produce a spheric_ d_iffu_s!on flame
+using a low heat capacity spherical burner constructed from porous alumina. A schematic of
+this apparatus is shown in Figure la. It consists of a drop frame that contains the test chamber,
+ignition system, batteries, electrical control system, and high-speed motion-picture camera. The
+diffusion flame is supported by the burner inside a cylindrical test chamber. This test chamber
+can be evacuated and filled with any desired gas mixture from below atmospheric pressure to
+5 atm. A 5" clear lexan window enables the camera to photograph the spherical diffusion flame.
+The fuel flow system, shown in Figure lb, consists of a fuel supply line from the gas cylinder
+that is controlled by a metering valve and turned on and off with a solenoid valve. The porous,
+spherical burner and other drop rig apparatus components have been successfully tested in
+normal gravity conditions. Microgravity testing will begin early in September and will continue
+through December of 1994.
+116
+
+--- [Page 3] ---
+1-gexperiments:The supportingground-basedexperimentshavealreadystarted. Figures2(a,b)
+and 3(a,b)show thetwo typesof flamesbeinginvestigated. Sincetheflame onthe fuel sideof
+the stagnationplane is directly related to the spherical microgravity flame, it is being
+investigated first. Figure 4 shows the measured soot volume fraction and the temperature
+distribution inside this flame. The fuel and oxidizer concentrations and the strain rate for this
+flame are 22.9%, 32.6% and 8 sec _ respectively. Figure 5 shows the measured concentrations
+of stable gases inside this flame. It is extremely interesting to note that only CO and H2 exist
+after the luminous flame zone. These are later burned in the blue flame above the luminous
+flame. Also, the CO concentration is greater than 2% and is substantially larger than the
+corresponding flame on the oxidizer side of the stagnation plane. This may be an important
+source of CO in building fires.
+Theoretical investigation: To investigate the extinction limits of diffusion flames, the work of
+Linan (ref. 3 & 4) was reviewed and the simple case of a one-dimensional, diffusion flame with
+flame radiation is being examined. This model corresponds to the ground-based experiments
+described above. As a first step we have assumed zero gravity, no convection, constant
+properties, one-step irreversible reaction and unity Lewis number. These equations are being
+numerically integrated to examine the conditions under which radiation-induced extinction
+occurs. The soot tormation and oxidation rates will be obtained from the counterflow diffusion
+flame experiments.
+FUTURE PLANS
+In the near future we plan to focus our attention on the following items:
+1. Perform microgravity experiments on spherical diffusion flames for different fuels
+and under various atmospheres.
+. Continue our work on supporting ground-based experiments at low strain rates to
+quantify soot formation and oxidation rates and flame radiation for the same fuels and
+atmospheres used in the t_g experiments.
+. Complete our theoretical model for zero strain rate (no flow) flames in microgravity
+and identify conditions under which radiation-induced extinction occurs.
+, To analyze the experimental results and develop an appropriate theoretical model for
+spherical diffusion flames with flame radiation.
+REFERENCES
+°
+2.
+3.
+4.
+Ross, H. D., Sotos, R. G. and T'ien, J. S., Combustion Science and Technology, Vol.
+75, pp. 155-160, 1991.
+T'ien, J. S., Combustion and Flame, Vol. 80, pp. 355-357, 1990.
+Linan, A., Ac_ As tronau_ica, Vol. 1, pp. 1007-1039, 1974.
+Linan, A., Crespo, A., Combustion Science and Technology, Vol. 14, pp. 95-117.
+117
+
+--- [Page 4] ---
+i2"--x
+•----- Solenoid Valve
+D-DACS
+(k-----
+m.v
+i
+Video Camera
+t
+it
+t
+@Por_ Burner trod tgnrmr
+Test Chamber
+t r I
+: ElectricalSystem i
+Fig. l a. Drop Rig Apparatus
+RuptureDisk
+i'ml
+24 V Solenoid
+Valve
+._--P_I HighPrecision
+_ NeedleValve
+Fig. lb. Gas Supply System
+Reduoar
+114"to 1116"
+iI
+I
+()
+SphericalDiffusionRame
+150ccG_ cyinder Test Chamberand Bumer"/
+Fig_ -la, _cI lb. Microgravity spherical diffusion flame apparatus
+for 2.2 second drop tower.
+118
+
+--- [Page 5] ---
+<)
+°_
+o
+E _
+o
+o
+o o_-_ °_
+_j
+.- 0
+119
+See Color Plate C3
+
+--- [Page 6] ---
+20001800-
+0
+1600-0
+C 14000.__
+0
+'G 12000
+_ 1000
+_ 800
+!?
+7',, V
+V
+V
+V
+V
+_7
+V
+V
+V
+V
+V
+?
+,I
+600 ' t i
+-20 -]0 0 10 :
+Z(mm), stagnation plane at 0
+........ _ ='::=::::SOXI flame
+Fire 4. Soot Particle Volume Fraction and Te_ Profile
+r.,-)
+E
+L) t'--
+O0
+CO0
+I I 0 _=-t::::-: =
+7
+W
+0
+20
+. : - iL- : =7
+=
+I0
+Z
+0
+b-
+<
+02
+bZ
+Ld
+0
+Z
+0
+0
+8 a
+o
+o
+6
+4 []
+OO
+O
+2
+T V
+V
+0
+O
+A A DO
+A O A y
+O
+A
+[3
+V
+O V
+O
+V
+<> Y
+T
+<>V
+o
+O
+X
+O O
+O
+<>
+2 -10 -8 -6 -4
+_ =
+cO2
+0 CH 4
+[] 4xCO
+-2 0
+Z(mm) stagnation plane at 0 : ,::_:_-- il : _ ......
+SOX1 flame ::_::_ :: :: .......... -::::_
+Hg. 3: Cbncenn'-anon _s Of StabI_ase_ ....................... : _ :
+120

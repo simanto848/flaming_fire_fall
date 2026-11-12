@@ -1,0 +1,189 @@
+--- [Page 1] ---
+SOLID INFLAMMABILITY BOUNDARY AT LOW SPEED (SIBAL)
+James S. T'ien _, Paul Ferkul 2, Kurt R. Sacksteder 3, Hsin-Yi Shih L, Hasan Bedir _,
+Paul S. Greenberg 3, Richard D. Pettegrew 2, Nancy Piltch 3, and David Frate 3
+_Case Western Reserve University, Cleveland, OH 44106
+2National Center for Microgravity Research, Cleveland, OH 44135
+3NASA Glenn Research Center, Cleveland, OH 44135
+This research program is concerned with the effect of low-speed, concurrent flow on the
+spreading and extinction processes of flames over solid fuels. The primary objective is to verify
+the theoretically predicted extinction boundary, using oxygen percentage and flow velocity as
+coordinates. In particular, we are interested in the low-speed quenching limits and the existence
+of the critical oxygen flammability limit. Detailed flame spread characteristics, including flame
+spread rate, flame size, and flame structure are sought. Since the predicted flame behavior
+depends on the inclusion of flame and surface radiation, the measured results will also be used to
+assess the importance of radiative heat transfer by direct comparison to a comprehensive
+numerical model.
+This project passed the Science Concept Review (SCR) in 1996. As a result, the experiment
+continues on the flight definition path, and is currently scheduled to be performed in the Space
+Station Combustion Integrated Rack (CIR). We present an overview of recent and ongoing
+work, including selected experimental and theoretical topics.
+GLOVEBOX EXPERIMENTS
+The SIBAL project took advantage of an opportunity to perform a Microgravity Glovebox
+space experiment in order to determine some long-duration burning behavior. The Forced Flow
+Flame Spread Test (FFFT) consisted of a test module, which was a miniature, low-speed wind
+tunnel; a hand-held control box; and individual fuel sample assemblies. The test module was a
+metallic duct with an inlet section, where air velocity measurements were made, and an outlet
+section where the fan that moves the air was located [1 ].
+Flat sheets of paper fuel of different thicknesses were burned. Due to limitations in the size
+of this experiment, none of the flames reached steady state. General observations of flame
+spread rate, temperatures, and appearance were obtained, however. The flames were wide, dim,
+and mostly blue (see fig. 1 for an example). The wide flames were due to small airflow speed,
+and the dim blue flame color was due to slow oxygen transport. Flame spread rates increased as
+the flow speed increased, and were inversely proportional to sample thickness.
+FLAME SPREAD MODEL
+The model has been described in detail elsewhere [2] so only the broad features are presented
+here. The steady, Navier-Stokes equations are solved together with conservation of energy and
+reacting species. A one-step, second-order chemical reaction is assumed. Gas and solid phase
+radiation are included, and the gas properties are evaluated as a function of temperature.
+The model was solved in two dimensions. A comparison is made with experiment in fig. 1.
+The fuel consumption rate contours are plotted next to the flame. These contours are the best
+indicator of the blue visible flame in models with one-step kinetics. In order to achieve the best
+agreement with experimental data, Grayson et al. [3] used wF = 0.1 mg/s cm 3 to represent the
+15
+
+--- [Page 2] ---
+SIBAL: J. S. T'ien et al.
+edge of the blue flame (minimum visible reaction rate) in related solid-fuel flame-spread
+modeling, and the same value is used here. The curvature of the visible flame is in good
+agreement with that of the computed reaction rate contour, even though the computed flame is
+steady while the observed flame did not yet reach steady state.
+In concunent-flow flame spread, however, it is well-known that in order to have a system for
+which the two-dimensional approximation is valid requires an excessively wide sample.
+Specifically, such a formulation applies for cases where the fuel is substantially wider than the
+flame length. This is a difficult condition to meet even for relatively small, concurrent-flow
+flames. Rather than attempt to build an experiment for which the two-dimensional
+approximation is valid, we instead developed a three-dimensional model. It is only in the initial
+stages, and additional work is forthcoming. While being more computationally intensive, this
+model can now cxamine the effect of varying fuel width on flame characteristics. The most
+obvious advantage for using a three-dimensional formulation is that the exact geometry of the
+experiment can be modeled.
+FLAME RADIATION STUDIES
+Because of the reduction of convection, radiation becomes an important heat transfer
+mechanism in microgravity flames. The accuracy and the affordability of computation models
+for radiation that can be coupled to the flame analyses are of general interest.
+We have applied a variety of radiation models to a one-dimensional low-stretch diffusion
+tlamc with carbon dioxide and water vapor as the radiation participating media [4]. These
+include gray-gas, optical-thin, wide-band, narrow-band and spectral line weighted sum of gray
+gases (SLWSGG) models. Both the accuracy (in term of the radiative source, i.e., the divergence
+of radiative heat flux) and the relative computational tin-ms are compared. Computed results of
+the radiative source distribution for wide-band, narrow-band and SLWSGG show reasonable
+agreement with each other. Results from the optical-thin and gray-gas models with Planck mean
+absorption coefficient are shown to underestimate the self-absorption and overestimate the
+emission substantially for the low stretch flame. On the other hand, the relative computational
+times can be different by several orders of magnitude, the most time consuming being the
+narrow-band model.
+Since the narrow-band model yields the more accurate spectral information among these
+models and is now affordable for one-dimensional flames, several computations have been
+carried out recently to study low-stretch flames. The narrow-band model was incorporated into a
+solid-fuel diffusion flame (PMMA) to investigate the flammability boundary as a function of
+ambient oxygen percentage and stretch rate and to study the effect of gas versus solid surface
+radiation [5]. In [6], a detailed account of the radiation absorption (self and across species) and
+emission are given including the contribution of MMA fuel vapor.
+More recently, the narrow-band model has been combined with detailed chemical kinetics in
+the study of the flammability limit of hydrogen/oxygen gaseous diffusion flames at low pressure
+[7]. We have chosen an ambient pressure of 1.013 kPa with carbon dioxide as the diluent. The
+conditions studied are particularly relevant to Mars exploration. Fig. 2 shows the computed
+maximum flame temperature as a function of stretch rate with and without flame radiation. It is
+obvious from this figure that radiation is very important at low stretch rates. There are large
+drops of flame temperature at low stretch rates due to radiative losses and the flame temperature
+curve exhibits a peak at an intermediate stretch rate. Although this trend has been shown
+16
+
+--- [Page 3] ---
+SIBAL: J. S. T'icn ct al.
+previously with simplified models (either simplified kinetics or simplified radiation treatment or
+both), the present results with the narrow-band model and detailed kinetics are expected to be
+more accurate quantitatively.
+Fig. 3 gives the flammability map using carbon dioxide diluent and stretch rate as
+coordinates. First, without radiation, the extinction boundary is monotonic with respect to stretch
+rate. From the trend of the computed boundary, there is no apparent low-stretch limit: when
+carbon dioxide dilution level is increased, the flame can still be made flammable at lower stretch
+rates. Furthermore, it is seen that the adiabatic system would cease to be flammable only when
+the carbon dioxide dilution is beyond 90% (obtained by extrapolating stretch rate to zero). With
+radiation, low-stretch quench limits exist and the trend of the extinction boundary is altered.
+This behavior helps to define an absolute carbon dioxide dilution level above which a flame can
+not exist at any stretch rate. The existence and the determination of this dilution level can be
+important from the point of view of fire safety. For the present diffusion flame at 1.013 kPa and
+an upstream temperature of 300 K, this dilution level is 81%, equal from both the fuel and the
+oxygen sides.
+LOW-PRESSURE TUNNEL
+We are constructing a combustion tunnel for use in normal gravity both to provide data for
+comparison to the model as well as to give guidance in the design of the ultimate space
+experiment. This vertical wind tunnel, measuring 11 cm x 11 cm, can be operated at reduced
+pressure to better simulate a flame burning in microgravity. The fuel, automatically supplied
+from a roll, will be fed in at the exact rate so that the flame will be fixed in space. Infrared and
+ultraviolet flame emissions will be imaged using video cameras and corresponding filters.
+A central issue in this experiment is the choice of fuel. Mechanically, the fuel must be
+rollable both before and after combustion. Scientifically, the fuel must be well-characterized
+and burn in a uniform manner. These concerns are addressed by using a custom-woven fabric
+fuel, consisting mostly of pure cotton threads, but with some fiberglass threads woven in to
+provide support after combustion. The detailed specifications of the fuel are still being
+determined. In fact, the low-pressure tunnel will be used to refine the fuel properties to yield the
+optimal mechanical and scientific properties desired.
+REFERENCES
+Sacksteder, K.R.: Forced Flow Flame Spreading Test: Preliminary Findings from the USMP-3
+Shuttle Mission, Third United States Microgravity Payload: One Year Report, NASA CP-1998207891 (1998).
+2 Shih, H.-Y. and T'ien, J. S.: Modeling Wall Influence on Solid-Fuel Flame Spread in a Flow
+Tunnel, presented at the AIAA 35th Aerospace Sciences Meeting, AIAA-97-0236 (1997).
+3 Grayson, G., Sacksteder, K.R., Ferkul, P. V., and T'ien, J.S.: Flame Spreading Over a Thin
+Solid in Low Speed Concurrent Flow: Drop Tower Experimental Results and Comparison with
+Theory, Microgravity Science and Technology, VII 2:187 (1994).
+4 Bedir, H., T'ien, J. S., and Lee, H. S.: Comparison of Different Radiation Treatments for a Onedimensional Diffusion Flame, Combustion Theory and Modeling, vl, pp. 393-404 (1997).
+5 Rhatigan, J. K., Bedir, H. and T'ien, J. S.: Gas Phase Radiative Effects on the Burning and
+Extinction of a Solid Fuel, Combustion and Flame, v ll 2, pp. 231-241 (1998).
+6 Bedir, H and T'ien, J. S.: A Computed Study of Flame Radiation in PMMA Diffusion Flame
+17
+
+--- [Page 4] ---
+SIBAL: J. S. T'ien et al.
+Including Fuel Vapor Participation, The 27 th Symposium (International) on Combustion, The
+Combustion Institute, to appear (1998).
+7 Shih, H.-Y., Bedir, H., T'ien, J. S., and Sung, C.-J.: Computed Flammability Limits of
+Opposed-Jet H2/02/C02 Diffusion Flames at Low Pressures, J. of Propulsion and Power, to
+appear.
+I cm
+w F ( mg/s cm 3 )
+__ 0.001
+Figure 1. Concurrent-flow combustion of a paper sheet (half-thickness area density = 1.0
+mg/cm2): comparison of visible flame to numerically predicted fuel consumption rate contours.
+Flow is from left to right at 2 cm/s. Note that the flame is still shrinking in size, while the model
+results are steady.
+\
+- - NO radiation J
+2000
+1900 _
+1800 _ _\
+1700
+1600 !:
+lSOO 1400 F
+v E _"
+1300 i "
+1100 L
+I ooo i _
+9ooiI i Blow off i
+800
+700: i _1.:,2 _ . L_.. L±: , . _ k . 12_j
+10' 100 10 _
+Stretch rate, a (l/s)
+o_
+95
+90! - --- _ _ Nonflammable
+85:- _ ..
+I ""
+75'.
+70 i
+as _
+) :::'a" \,Flammable x x6O
+ss _............... U7
+50 _Y L Radiation _,_L -- -- T_.- N°_radia!ion]
+45 _ i _:i_I . 1 : _ l__L= _- ..... :_2
+10 _ 100 10'
+Stretch rate, a (l/s)
+Figure 2. (Left) The maximum flame temperature of H2/O2 diffusion flames as a function of
+stretch rate (fuel side) at a total pressure of 1.013 kPa and 50% CO2 dilution (same on the fuel
+and the oxygen sides), with and without the consideration of flame radiation.
+Figure 3. (Right) Flammability boundary of H2/O2/CO2 opposed-jet diffusion flame with and
+without the consideration of flame radiation. Total pressure: 1.013 kPa; upstream temperature:
+300K.
+18

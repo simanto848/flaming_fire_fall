@@ -1,0 +1,3 @@
+Title: The Effects of Pressure and Optical Thickness on Radiative Losses in Spherical Diffusion Flames in Microgravity
+Abstract: In microgravity combustion, heat loss due to radiation plays a large role. Combustion products are able to accumulate in the flame region and radiate heat, while the heat release from the flame remains relatively constant. This causes the flame temperature to decrease until combustion can no longer be sustained, a phenomenon known as radiative extinction.
+[PDF fetch failed: HTTP Error 503: Service Temporarily Unavailable]

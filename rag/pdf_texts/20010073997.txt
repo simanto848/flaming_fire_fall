@@ -1,0 +1,176 @@
+--- [Page 1] ---
+TRANSPORT AND CHEMICAL EFFECTS ON CONCURRENT AND
+OPPOSED-FLOW FLAME SPREAD AT MICROGRAVITY
+(NASA GRANT NO. NCC3-671)
+Y. Son, L. K. Honda and P. D. Ronney
+Department of Aerospace and Mechanical Engineering
+University of Southern California, Los Angeles, CA 90089-1453
+INTRODUCTION
+Flame spread over flat solid fuel beds is a useful means of understanding more complex
+two-phase non-premixed spreading flames, such as those that may occur due to accidents in
+inhabited buildings and orbiting spacecraft. The role of buoyant convection on flame spread is
+substantial, especially for thermally-thick fuels. With suitable assumptions, deRis [1] showed
+that the spread rate (Sf) over thick fuels is given by:
+I]'gpgCp,g ( Tf - Tv ) 2sf=uz, (i>,
+where U is the buoyant or forced convection velocity, 3, p, Cp and T are the conductivity,
+density, specific heat and temperature, and the subscripts s, g, v and refer to the solid fuel, gasphase, vaporization condition and ambient condition, respectively. Equation (I) indicates that
+that for thick fuels St ~ U, and thus suggests that Sf is indeterminate at g (since _ = U) unless a
+forced flow is applied. (In contrast, for thermally thin fuels, the ideal Sf is independent of U [1].)
+The conventional view [2], as supported by computations and space experiments, is that for
+quiescent g conditions, Sf must be unsteady and decreasing until extinction occurs due to
+radiative losses. However, this view does not consider that radiative transfer to the fuel surface
+can enhance flame spread. While Eq. (I) presumes no radiation, deRis [I] also showed that when
+radiation from a prescribed radiative flux per unit area (q) dominates heat transfer to the fuel bed,
+q2_
+_=.
+sf (2),
+inditcaring that conductive transfer from the flame to fuel bed is not required for steady spread.
+In this work we suggest that radiative transfer from the flame itself, not just from an
+external source, can lead to steady flame spread at g over thick fuel beds. As a first estimate, we
+assume the flame to be an isothermal volume of optically-thin radiating gas at temperature Tf
+with dimension 8 in both the directions parallel to and perpendicular to the fuel bed, where 8 is
+presumed to be the convective-diffusive zone thickness 8 - o_s/U = 0tg/Sf and o_g = EttPsCp, g is
+the thermal diffusivity. The heat flux per unit area to the fuel surface due to radiation is
+estimated as ASs, where A = 4Oap(T 4 - Tv4) is the radiant heat emission rate per unit volume, 0 is
+the Stefan-Boltzman constant and ae is the Planck mean absorption coefficient. The combined
+effects of gas-phase radiation and thermal conduction is then given by q = A8 + _,g(Tf°-*Tv)/8.
+Substituting this into Eq. (2) leads to (assuming unit fuel bed emissivity):
+s, = - x,(t - r)
+NASA/CP--2001-210826 13
+
+--- [Page 2] ---
+Equation (3) predicts that without gas-phase radiation, no steady spread is possible (Sf = 0) and
+with gas-phase radiation, steady spread with Sf - A 1t2 is possible. Hence, the goal of this study
+is to determine if flame-generated radiation can in fact lead to steady spread over thick fuels at g.
+EXPERIMENTAL APPARATUS
+Experiments were conducted in a 20 liter combustion chamber as shown in Fig. 1. O2-N 2
+and O2-CO2 atmosphere were employed since they have very different radiative properties - CO2
+radiates strongly whereas N2 does not radiate, and thus for 02-N2 atmospheres only the
+combustion products, not the ambient atmosphere, radiate. Equations 1 and 3 indicate that Sf in
+a given atmosphere Se can be much higher for fuels with low psCl,.s_. This led us to use
+polyphenolic foam (used in floral arranging) having low p and _, to study flame spread in shortduration drop tower tests. The samples were ignited by an electrically-heated Kanthal wire
+imbedded in a nitrocellulose sheet attached to the fuel surface. The flames were imaged via CCD
+cameras whose signals are connected via fiber-optic cables to ground-based S-VHS video
+recorders. A shearing interferometer was used for the side view since the flames were sometimes
+too dim for direct vide0. Thermopfle'type nidiometers wereused to determine flame radiation; a
+"front" radiometer viewed a hole in the flame side of the fuel_-surface, and a "back" radiometer
+viewed the non-burning side of the hole. By viewing a hole, interference from surface radiation
+was eliminated._: - _-_:_ _ .... :: _, _:_ ?: .... _ .... :-! _i_ _ _: _, _.:
+Figure 2 shows examples of the progress of flame spread (flame position vs. time) at lg
+and g. The slope of these plots gives the spread rate; a straight line indicates a constant spread
+rate and thus steady spread. From these tests; it can be S_n that that in 02-c02 atmospheres,
+steady flame spread is possible Over t_ck _els at qiiiescent_g conditions when gas'phase
+radiation effects are significant, as suggested by our model (F,q. 3). i?
+Mitre
+Side Vlew
+Figure 1. Schematic of drop frame and camera
+8
+.-,7 Eo.-.6
+cO 5o_
+.w
+4o
+cx
+3
+E2t_
+U. 1
+.... j , . . , . . .I--.-e..-lglr-,--_
+..o,_....e,.._>.o...e'-'e -.-e-.-- IJ g .-_
+11.,.11,,,1"''41+
+.Oo..b..-_ ''_''"
+.._.-4" Polyphenolic foam
+.°0..4."
+0.0267 g/cm 3
+40%0-60% CO
+4 arm total pressure
+0 • . , I , • = I = . = I . • • I I I I
+0 0.2 0.4 0.6 0.8
+Time (sec)
+Figure 2. Position of spreading flames as a
+apparatus. The fuel bed is mounted inside the function of time in a 40%% 02 ': 60% co_
+chamber parallel to the plane of the page. mixture at 4 atm at earth gravity and g.
+Figure 3 shows example images of spreading flames at lg and g. From these images the
+effect of buoyancy can be seen at lg. Figure 4 shows example side-view images obtained using
+the interferometer. As expected, the flame is thicker at g than lg, indicating that g flames have
+more volume and thus more radiation to fuel bed.
+NASAJCP--200I-210826 14
+
+--- [Page 3] ---
+Figure 3. Images of flame spread over a thick solid fuel bed in a 40% Oz - 60% C02 mixture at 4
+attn. Flame spreads from top to bottom. Width of samples is 10 cm. Left: microgravity (bright
+band in the lower part of image is the flame front.) Right." earth gravity.
+Figure 4. Side-view interferometer images of flame, same conditions as Fig. 3. Width of images is
+5 cm. The upper black region is the combustion products. Left." microgravity. Right." earth gravity.
+Figure 5 shows that, as was also seen in prior tests using thermally-thin fuels [3], for
+thick fuels the quiescent g S_can be higher than its lg (downward) counterpart for CO2-diluted
+atmospheres but not N2-diluted atmospheres. Figure 6 shows that a transition from Sf increasing
+rapidly with pressure (P) to Sf nearly independent of P at P - 5 atm. While the cause of this
+transition is uncertain, it may be due to a transition from radiation dominated by optically-thin
+behavior to optically-thick behavior. Figure 7 shows that Sf becomes less dependent on fuel bed
+thickness as thickness increases, indicating the approach to the thermally-thick limit. The
+transition thickness is about 2 mm for the case shown. Figure 8 the radiative emission from a O2
+- CO2 atmosphere test at g, which are the only cases tested where the back radiometer showed
+significant flux. This is because only in this case is there substantial emission, absorption and reemission, which is the only means to obtain substantial radiative flux to the back radiometer. O2
+- N2 atmospheres (not shown) do not exhibit this behavior at all [4], and even for 02 - CO2
+atmospheres this was seen only at g where8 is larger and thus the total radiative flux is greater.
+CONCLUSIONS
+Our results indicate that, in contrast conventional understanding, steady spread can occur
+over thick fuels in quiescent microgravity environments, especially when a radiatively active
+diluent gas such as CO2 is employed. We propose that this is due to radiative transfer from the
+NASAJCPm2001-210826 15
+
+--- [Page 4] ---
+flame to the fuel surface. Additionally, the transition from thermally thick to thermally thin
+behavior with decreasing bed thickness is demonstrated. It was found that foam fuels enabled
+steady spread to be obtained over thermally thick fuels at g even in short-duration drop tower
+experiments. These results axe being used to define a space flight experiment called Radiative
+Enhancement Effects on Flame Spread (REEFS) planned for the International Space Station in the
+Combustion Integrated Rack facility.
+10
+E
+o
+•-;.o_ge'_o,io',_A""' .... '" '._'" "_ ....: _ J ...... :R
+.00267 g/cm_ ___,_f---_ll",.,,
+4 atm total pressure_....--'_r_.,-o""___
+# leB i_ •
+- pg, CO 2
+1 _L/ .r --._.--lg,co2
+e'"" _lg, N 2
+,= ,, i,,.. I, .,.I,., ,I =,.,1 ,...1_ _1
+20 25 30 35 40 45 50 55
+Mole percent 0 2
+Figure 5. Effect of 02 concentration on Se over
+thick solid fuel beds at g and earth gravity.
+I--0--,_. 1-.,d_d _, _-_,d_ I 0.12 _-_- _, .... _........,_
+_ _pg, 2-sided _'lg, 2-sided I 0.1 "4 atm total pm_um ......... Back.... ! ....... !
+0.04
+o -""1 I_ \/ oo_6__cm_ -:! _ ,' '"-'-, 0.8
+¢_ 0"6 f V 4=40°_:_=:o_6_l*'ip_eOs_sure t tv" 0 '" i
+0.4 .... = , 0.5 1 1.5 2
+1 10 Time (sec)Thickness (mm)
+Figure 7. Effect of fuel bed thickness on S_ over
+thick solid fuel beds at g and earth gravity.
+fue! beds at g and earth gravity__ _=___-_
+REFERENCES
+7 tPolyphenolic'foar _ ' ' ' :I_':_
+_0.0_6_g_c__ ,," :I
+f i---ooli 06 ,e _____
+0"4i , • , .... I , , , , , ,I
+0.2 0.4 0.60.81 3 5 7
+Pressure (atm) ....
+Figure 6. Effect of pressure on Se over thick solid
+I
+!
+!
+2.5
+Figure 8. Radiative flux characteristics of a
+flame spreading over a thick solid fuel bed at g
+in a 40%% O_ - 60% coz mixture at 4 atm.
+[1] deRis, J. N., Twelfth Symposium (International) on Combustion, Combustion Institute,
+Pittsburgh, 1969, p.241.
+[2] Bhattacharjee, S., West, J., Altenkirch, R.A. Twenty-Sixth Symposium (International) on
+Combustion, Combustion Institute, Pittsburgh, 1996, p. 1477; Altenkirch,:R.A., Tang, L.,
+Sacksteder, K., Bhattacharjee, S., Delichatsios, M. A., Twenty-Seventh Symposium
+(International) on Combustion, Combustion Institute, Pittsburgh, 1998, p. 2515.
+[3] Honda, L., Ronney, P. D., Combust. Sci. Technol. 133, 267 (1998).
+[4] Honda, L, Son, Y., Ronney, P. D., AIAA Paper No. 2001-0467 (200i).
+NASA/CP--2001-210826 16

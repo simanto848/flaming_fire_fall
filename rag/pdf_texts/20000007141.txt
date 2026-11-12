@@ -1,0 +1,209 @@
+--- [Page 1] ---
+Large Diameter, Radiative Extinction Experiments with Decane Droplets in Microgravity
+John Easto n_ and James T'ien, Case Western Reserve University, Cleveland, OH
+and
+Daniel Dietrich, NASA Lewis Research Center, Cleveland, OH
+introduction
+The ex-tinction of a diffusion flame is of fundamental interest in combustion science. Linan [1], Law [21,
+and Chung and Law [3] analytically and experimentally determined an extinction boundary in terms of droplet
+diameter and pressure for a single droplet due to Damkohler, or blowoff, extinction. More recently, other
+researchers [4, 5] demonstrated extinction due to finite rate kinetics in reduced gravity for free droplets of
+heptane. Chao, et. al [6] modeled the effect of radiative heat loss on a quasi-steady spherically symmetric single
+droplet burning in the absence of buoyancy. They determined that for increasing droplet diameter, a second limit
+can be reached such that combustion is no longer possible. This second, larger droplet diameter limit arises due to
+radiative heat loss, which increases with increasing droplet and flame diameter. This increase in radiative heat
+loss arises due to an increase in the surface area of the flame. Recently, Marchese et. al. [7] modeled fuel droplets
+with detailed chemistry and radiative effects, and compared the results to other work. The modeling of [7] also
+showed the importance of radiative loss and radiative extinction
+Experiments by Struk et. al____=[8] examined the behavior of a large droplet of decane burning in reduced
+gravity onboard the NASA Lewis DC-9 aircraft, but did not show a radiative extinction boundary due to g - jitter
+(variations in gravitational level and direction) effects. Dietrich et. al.. [9] conducted experiments in the reduced
+gravity environment of the Space Shuttle. This work showed that the extinction diameter of methanol droplets
+increased when the initial diameter of the droplets was large (in this case, approximately 5 mm). Theoretical
+results agreed with these experimental results only when the theory included radiative effects . Radiative
+extinction was experimentally verified by Nayagam et. al. [10] in a later Shuttle mission.
+The following work focuses on the combustion and extinction of a single fuel droplet. The goal is to
+experimentally determine a large droplet diameter limit that arises due to radiative heat loss from the flame to the
+surroundings.
+Hardware and Data Analysis
+The hardware and equipment supported experiments in a 50 kPa total pressure, reduced 02 mole fi-action
+(13.5% to 16%), microgravity environment. Partial pressure mixing of air and nitrogen provided the test ambient.
+MI tests were performed in the 5.18 second Zero Gravity Facility at the NASA Lewis Research Center [I 1]. Two
+black and white CCD cameras connected to 8ram VCR's recorded the data during the experiment. One camera,
+backlight by a LED, provided a magnified view of the droplet, and another camera orthogonal to the first recorded
+the flame view during the test.
+An insert to the pressure chamber contained apparatus to deploy, support, and ignite a single n - deeane
+droplet. The insert centered around a 100 mm long, 220 IJan diameter quartz droplet support fiber which has a
+bead on the end. This bead consisted of either melted quartz 400 p.m in diameter, or a soda lime glass bead 1 mm
+or 2 mm in diameter, for droplets ranging from 1.7 to 2 ram, 2.3 to 3.1 mm, and 2.7 to 3.5 mm respectively. A 15
+_rn silicon carbide (SIC) fiber passed through the fuel droplet, perpendicular to the support fiber. This SiC fiber
+provided forflame visualization, incandeseing where the flame impinged upon the fiber.
+A black and white video card transferred images from videotape onto a microcomputer. The computer
+analyzed a grayseale, eight bit image of the backlight droplet measuring the projected area of the droplet in pixels.
+Fitting this projected area to the projected area of a sphere gave the droplet diameter. The droplet data analysis
+proceeded on a field (0.0167 second) rather than frame (0.0333 second) basis, to capture the droplet diameter
+behavior with improved temporal resolution. The burning rate constant reported in this article was an average
+over the central region of the droplet diameter history. This central region occurred after ignition and transition to
+reduced gravity effects died, and prior to flame extinction. The flame data was analyzed by using the Tracker
+program developed at the NASA Lewis Research Center [12]. The reported flame diameter is the distance
+between the centers of each glowing region of the SiC fiber. In many of the tests, soot arising due to ignition
+i Corresponding Author, currently with National Center for Microgravity Research, Mail Stop 500-115, 21000 Brookpark
+Rd., Cleveland, OH, 44135 (JolutEaston@ierc.nasa.gov).
+665
+
+--- [Page 2] ---
+' effects obscured the glowing silicon carbide fiber in the early portion of the bum. During these times, no flame
+diameter is reported.
+Results and Discussion
+This research showed a number of cases in which the flame extinguished within the five second
+microgravity time period. In the 14.5% and 15% 02 mole fraction cases, the results point to two regimes of flame
+extinction, determined by droplet diameter. For the 15% 02 eases, one regime exists for 3.04 mm and larger
+initial droplet diameter, the other for 1:73 mm and sanaller initial droplet diameter. The small diameter extinction
+ease in 15% oxygen came from the work of Struk et. al. [13]. For the 14.5% 02 mole fiaction cases, results show
+an extinction regime for 2.92 mm initial droplet diameter and larger, and another for 2.34 mm initial droplet
+diameter and smaller. Between these two regimes were cases that burned for the entire microgravity time
+allowed, separating the two flame extinction regimes. These were the only two ambients that showed two
+extinction regimes. All cases in the 16% 02 mole fraction burned until impact, with the initial droplet diameter
+ranging from 2.00 to 3.37 ram. Two tests in a 13.5 and 14% oxygen mole fraction ambient exhibited flame
+extinction shortly after ignition.
+Figure 1 presents a flammability map as a function of droplet diameter and 02 mole fraction. A filled
+circle and an X connected by a solid line represent the initial and extinction droplet diameter for a single
+experiment. The final droplet diameter corresponds with the last measurement of the flame diameter. An open
+circle and triangle connected by a dashed line represent the initial and final droplet diameters, respectively, for
+bum to impact eases. The final droplet diameter for these burn to impact cases reports the droplet diameter
+immediately prior to impact. The letters "A" and "B" indicate two cases with similar initial droplet diameters, the
+letters used to match the initial and final droplet diameters. The position of a case on this map determined the
+extinction method for the ease, either Damkohler or radiative extinction,
+The small droplet diameter region of the extinction curve (Figure 1) represents data consistent with
+extinction arising due to Damkohler effects [2 - 4]. The extinction droplet diameter increases with decreasing
+oxygen mole fraction in this region. A second flame extinction region exists for the large droplet diameter, 14.5%
+and 15% ox'ygen mole fraction tests. In these ambients the initial and final droplet diameters, for eases showing
+flame extinction, increased with increasing oxygen mole fraction. Tests in a 16% oxygen mole fraction ambient
+support this trend; all droplets in these tests burned to impact, even with initial diameter larger than those for
+which extinction occurred in 15% oxygen mole fraction ambients. The radiative extinction droplet diameter
+increases with increasing oxygen mole fiaction because the higher oxygen concentrations results in an increased
+reaction rate, offsetting the effects of radiative heat loss.
+The region between the Damkohler and radiative extinction regions consists of eases with a flame burning
+for the entire reduced gravity period. For the 14.5% and 15% 02 mole fraction eases, the flame diameter
+exhibited two types of behavior. For the smaller droplets in this region, the flame diameter increased to a
+maximum then decreased. These results indicate that the flame will not extinguish due to radiative effects in this
+droplet diameter range, but would have burned to completion or extinguished due to D_ohler effects with a
+longer experiment lime. The second type of behavior includes eases where the flame diameter grew continuously
+until impact. The eventual outcome of these eases, either radiative or Damkohler extinction, cannot be predicted.
+Combined, these two regimes, Damkohler and radiative extinction, form a flammability boundary for
+single decane droplets in 50 kPa total pressure, with varying oxygen mole fraction ambients. Between these two
+extinction regions lies an area classified as flammable. A quasi - steady flame should exist within this boundary.
+The two branches, Damkohler and radiative extinction, meet at a minimum oxygen mole fraction. Based on
+Figure 1 we estimate this minimum point to be between 14 and 14.5% oxygen mole fraction. Two tests showed
+ignition and flame extinction outside the proposed flammability limit. For these two tests the burning was a result
+of ignition transients.
+Figure 2 shows the flame diameter as a fimetion of time for four test cases in a 15% oxygen mole fraction
+ambient, each with different initial droplet diameters. These eases include a large droplet diameter extinction
+case, two cases with the flame burning until impact and a case with the flame consuming the fuel droplet prior to
+drop rig impact. The flame diameter for the large droplet diameter extinction case (Do=3.35 ram) and the large
+bum to impact case (D0=2.92 mm) increase continuously until extinction, 3.13 seconds after ignition, or impact,
+respectively. The rate of increase in the flame diameter decreases with time, noted by the decrease in the slope of
+the curve. The remaining two eases presented in Figure 2 showed a somewhat different trend The flame
+diameter for the small droplet diameter, bum to impact test (Do=1.95 mm) increases, reaches a maximum, then
+666
+v
+g
+1
+
+--- [Page 3] ---
+"an decreasing prior to impact. The flame diameter trend for the bum to completion case (Do=1.66 mm)
+beg!__,_ _imilar phenomena. The increase then decrease of the flame diameter seen in these two cases indicates
+pres_l_,o
+that the transient flame expansion phase is over and the flame diameter is shrinking in response to the shrinking
+droplet. The burning enters a phase where quasi - steady assumptions may apply, and suggests that these droplets
+w'ill not go to extinction.
+The droplet and flame diameter histories of these tests do not indicate differences between large droplet
+diameter and small droplet diameter extinction phenomena. Figure 2 shows similar trends in flame diameter
+between radiative extinction and a case that burned to impact, as well as similarities between a bum to impact and
+Damkohler extinction case. The droplet diameter histories in both extinction regimes show droplet heating
+effects. Also, the change in the rate of vaporization of the droplet due to flame extinction arose well after the
+flame ex-tinguished in both small and large droplet diameter extinction.
+The results from this research indicate that the burning rate constant decreases with increasing initial
+droplet diameter. Avedisian [4] and Marchese et. al. [7] also show this trend. Both researchers point out that
+radiative heat loss effects may lead to this trend.'---'With increasing initial droplet diameter (and corresponding
+increase in flame diameter), the heat lost through radiation increases. This loss of heat decreases the reaction rate,
+leading to a decrease in the burning rate constant.
+As pointed out by [4, 7], an explanation for the decrease in burning rate with an increase in initial droplet
+diameter may be radiative heat loss. The radiative heat lost to the surroundings reduces the flame temperature, the
+heat feedback and thus the vaporization rate. If the flame temperature is reduced enough the chemical reaction
+rate decreases, leading to flame extinction. The result of this is the radiative flame extinction boundary in Figure
+1.
+Acknowledgements
+The funding for J. Easton came from the NASA Graduate Student Researchers Program, NASA
+Headquarters, Washington, D.C.
+ExtinctionBoundaryforlarge DropletDiameterCases
+Rod_O_g_t Mot= Fmc_t _tCam
+IS 5
+160
+15.5
+i t50
+!,_ 14.5
+14.0
+13.5 I
+13.0 '
+0.5
+,_ ....................... 0
+/
+-- " A.B " .L
+, I i i | i
+1.0 t 5 2.0 2S 30
+DmplM _u_,br (ram)
+3.S
+Figure 1. Extinction boundary with both Damkohler and radiative extinction.
+667
+
+--- [Page 4] ---
+Flame Dil'netm" Vs Ti_e. 15% O 2 Mote Fraction Cases
+Li_e DWne_ Ex_n¢'don. Bum To Impect, tnd Burn To Comptetion Cruses
+J _ .R|di_,,e Ex'l_nCtlon
+I _'_" .,."_'.,,_'_* _".73 •t ...¢'rrT___,E.,.,, \
+i I ;,..- J ."t '_ _")'_'_=
+111- • t._, _ F..e_ v0-_._ _- 1 %.
+J O _ to Im_Kt, O_pt .N mm "¢,..,r--- Bum to
+9[ _. w%,_= r.=,_i= _-_ u .,- J Comp_.o.
+7L _ . a l , n I , ]
+0 1 2 3 4 5
+Tkne (see)
+Figure 2. Flame diameter vs time, four tests in a 15% oxygen mole fraction ambient.
+1 Linan, Amable 'q'he asymptotic structure of counterflow diffusion flames for large activation energies", Acta
+Astronautic,% Vol. 1, pp 1007 - 1039 (1974).
+2 Law, C.K "Asymptotic Theory for Ignition and Extinction in Droplet Burning", Combustion and Flame, Vol.
+24, pp. 89-98 (1975)
+3 Cbung, Suk Ho, and Law, Chung King. "An Experimental Study of Droplet Extinction in the Absence of
+External Convection", Combustion and Flame, Vol. 64, pp 237-241 (1986).
+4 Avedisian, C T., Vang, J.C., and Wang, C.H. "On low-gravity droplet combustion", Proceedings of the Royal
+Society of London, Vol. A 420, pp. 183-200 (1988).
+5 Hara, H. And Kumagai, S. "'Experimental Investigation of Free Droplet Combustion Under Microgravity",
+Twenty-Third Symposium 0ntemational) on Combustion, pp. 1605-1610 (1990).
+6 Chao, B.H., Law, C.K., and T'ien, J.S. "Structure And Extinction Of Diffusion Flames With Flame Radiation",
+Twenty-Third Symposium (International) On Combustion, pp. 523-531 (1990).
+7 Marchese, Anthony J., Dryer, Frederick L., and Nayagam, Vedha. "Numerical Modeling of Isolated n-Alkan¢
+Droplet Flames: Initial Comparisons with Ground and Space-based Microgravity Experiments:,
+submitted to Combustion and .Flame.
+8 Struk, P.M., Dietrich, D.L., T'ien, J.S. "Large Droplet Combustion Experiment Using Porous Spheres
+Conducted in Reduced Gravity Aboard an Aircraft - Extinction and the Effects ofg -jitter", Microgravity
+Science and Technology, Vol. 9, Num 2, pp. 106 - 116 (1996).
+9 Dietrich, D.L., Haggard Jr., J. B., Dryer, F.L., Nayagam, V., Shaw, B.D., and Williams, F.A. "Droplet
+Combustion Experiments In Spacelab", Twenty-Sixth Symposium (international) On Combustion, The
+Combustion Institute, pp. 1201 - 1207 (1996).
+10 Nayagam, V., Haggard, Jr., J.B., Colantonio, R.O., Marchese, A.J., Dryer, F.L., Zhang, B.L., and Williams,
+F.A. '3q-Heptane Droplet Combustion in Oxygen-Helium Mixtures at Atmospheric Pressure", AIAA
+Journal, Vol 36, in press.
+11 Lekan, J., Neumann, E., and Sotos, R "'Capabilities and Constraints of NASA's Ground-based Reduced
+Gravity Facilities", Second International Microgravity Combustion Workshop, NASA CP- 10113(1992).
+12 Klimek, Robert B., Wright, Ted W., Sielken, Robert S. Color image processing and object tracking system.
+NASA Technical Memorandum 107144 (1996).
+13 Struk, P., Dietrich, D., Simms, C., Picot, B., Kitano, K, Honma, S., Ikegami, M., and Ikeda, K. "Droplet
+Interaction Under Conditions of Flame Extinction", submitted to Joint Meeting of the Combustion
+Institute (1998).
+This report is a pre_rint of an article submitted to ajournal for _ _-:_
+publication. Because Of cl_nges that may be made before formal
+publication, this preprint is made available with the understanding
+that it will not be cited Or reproduced without the permission of the
+author.
+668

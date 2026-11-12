@@ -1,0 +1,209 @@
+--- [Page 1] ---
+N96- 15601
+RADIANT EXTINCTION OF GASEOUS DIFFUSION FLAMES
+Arvind Atreya, Sanjay Agrawal, Tariq Shamim & Kent Pickett
+University of Michigan; Ann Arbor, MI 48109
+Kurt R. Sacksteder
+NASA Lewis Research Center; Cleveland, OH 44135
+Howard R. Baum
+NIST, Gaithersburg, MD 20899
+INTRODUCTION
+The absence of buoyancy-induced flows in microgravity significantly alters the fundamentals of
+many combustion processes. Substantial differences between normal-gravity and microgravity flames have
+been reported during droplet combustion[l], flame spread over solids[2,3], candle flames[4] and others.
+These differences are more basic than just in the visible flame shade. Longer residence time and higher
+concentration of combustion products create a thermochemical environment which changes the flame
+chemistry. Processes such as flame radiation, that are often ignored under normal gravity, become very
+important and sometimes even controlling. This is particularly true for conditions at extinction of a/Jg
+diffusion flame.
+Under normal-gravity, the buoyant flow, which may be characterized by the strain rate, assists the
+diffusion process to transport the fuel & oxidizer to the combustion zone and remove the hot combustion
+products from it. These are essential functions for the survival of the flame which needs fuel & oxidizer.
+Thus, as the strain rate is increased, the diffusion flame which is "weak" (reduced burning rate per unit
+flame area) at low strain rates is initially "strengthened" and eventually it may he "blown-out." Most of
+the previous research on diffusion flame extinction has been conducted at the high strain rate "blow-off"
+limit. The literature substantially lacks information on low strain rate, radiation-induced, extinction of
+diffusion flames. At the low strain rates encountered in pg, flame radiation is enhanced due to: (i) build-up
+of combustion products in the flame zone which increases the gas radiation, and (ii) low strain rates
+provide sufficient residence time for substantial amounts of soot to form which further increases the flame
+radiation. It is expected that this radiative heat loss will extinguish the already "weak" diffusion flame
+under certain conditions. Identifying these conditions (ambient atmosphere, fuel flow rate, fuel type, etc.)
+is important for spacecraft fire safety. Thus, the objective of this research is to experimentally and
+theoretically investigate the radiation-induced extinction of diffusion flames in pg and determine the effect
+of flame radiation on the "weak" pg diffusion flame.
+RESEARCH APPROACH
+To investigate radiation-induced extinction, spherical and counterflow geometries are chosen for
+pg & 1-g respectively for the following reasons: Under pg conditions, a spherical burner is used to
+319 FREGEg G p GF. NO'  :tLMF-
+
+--- [Page 2] ---
+produce a spherical diffusion flame. This forces the combustion products (including soot which is formed
+on the fuel side of the diffusion flame) into the high temperature reaction zone and may cause radiativeextinction under suitable conditions. Under normal-gravity conditions, however, the buoyancy-induced
+flow field around the spherical burner is complex and unsuitable for studying flame extinction. Thus, a
+one-dimensional counterflow diffusion flame is chosen for 1-g experiments and modeling. At low strain
+rates, with the diffusion flame on the fuel side of the stagnation plane, conditions similar to the gg case
+are created -- the soot is again forced through the high temperature reaction zone. The 1-g experiments
+are primarily used to determine the rates of formation and oxidation of soot in the thermochemical
+environment present under/_g conditions. These rates are necessary for modeling purposes. Transient
+numerical models for both gg and 1-g cases are being developed to provide a theoretical basis for the
+experiments. These models include soot formation and oxidation and flame radiation and will help
+quantify the low-strain-rate radiation-affected diffusion flame extinction limits.
+RESULTS
+Significant progress has been made on both experimental and theoretical parts of this research. This
+may be summarized as follows:
+1) Expefime,_n_ mud theoretical work on determining the expansion rate of the gg spherical diffusion
+flame. Preliminary results were presented at the AIAA conference (Ref. 5).
+2) Theoretical modeling of zero strain rate transient diffusion flame with radiation (Ref. 6).
+3) Experimental and theoretical work for determining the radiation from the/zg spherical diffusion
+flame. Preliminary results were presented at the AIAA conference (Ref. 7).
+4) Theoretical modeling of finite strain rate transient counterflow diffusion flame with radiation (Ref
+8).
+5) Experimental work on counterflow diffusion flames to determine the soot formation and oxidation
+rates (Ref. 9).
+The above experimental and theoretical work is briefly summarized in the remainder of this section.
+Experimental Work: The Izg experiments were conducted in the 2.2 sec drop tower at the NASA Lewis
+Research Center and the counterflow diffusion flame experiments (not described here) were performed at
+UM. For the gg experiments, a porous spherical burner was used to produce nearly spherical diffusion
+flames. Several experiments, under ambient pressure and oxygen concentration conditions, were performed
+with methane (less sooty), ethylene (sooty), and acetylene (very sooty) for flow rates ranging from 4 to
+28 cm3/s. These fuel flow rates were set by a needle valve and a solenoid valve was used to open and
+close the gas line to the burner upon computer command. Two ignition methods were used for these
+experiments: (i) The burner was ignited in 1-g with the desired fuel flow rate and the package was
+dropped within one second after ignition. (ii) The burner was ignited in 1-g with a very low flow rate of
+H2 and the flow was switched to the desired flow rate of the given fuel in gg just after the commencement
+of the drop. Following measurements were made during the/zg experiments:
+i) The flame radius was measured from photographs taken by a color CCD camera. Image
+processing was used to determine both the flame radius and the relative image intensity. Sample
+photographs are shown in Photos E1 to E3 for ethylene and A1 to A3 for acetylene.
+ii) Theflame radiation was measured by the three photodiodes with different spectral absorptivities.
+The first photodiode essentially measures the blue & green radiation, the second photodiode
+captures the yellow, red & near infra-red radiation, and the third photodiode is for infra-red
+radiation from 0.8 to 1.8 ;an.
+iii) The flame temperature was measured by two S-type thermocouples and the sphere surface
+temperature was measured by a K-type thermocouple. In both cases 0.003" diameter wire was
+used. The measured temperatures were later corrected for time response and radiation.
+320
+
+--- [Page 3] ---
+It is interestingto notethatfor bothethyleneandacetylene(seetheprogressiveflamegrowthin the
+Color Photos)initially the flameis blue (non-sooty)but becomesbright yellow (sooty)underlag
+conditions.Later,as the/_gtime progresses,the flamegrowsin sizeandbecomesorangeand less
+luminousandthesootluminosityseemsto disappear.A possibleexplanationfor thisobservedbehavior
+issuggestedbythetheoreticalcalculationsof Ref.6& 8. Thesootvolumefractionfirst quicklyincreases
+andlaterdecreasesasthelocalconcentrationof combustionproductsincreases.Essentially,furthersoot
+formationis inhibitedby the increasein the localconcentrationof thecombustionproductsandsoot
+oxidationisenhanced[Ref.9,10].Also,thehightemperaturereactionzonemovesawayfrom thealready
+presentsootleavingbehindarelativelycold(non-luminous)sootshell. (A soot-sheUisclearlyvisiblein
+theethylenePhotoE2.) Thus,attheonsetof pgconditions,initially alotof sootisformedin thevicinity
+of theflamefront(theouterfaintblueenvelopein thephotographs)resultingin brightyellowemission.
+Astheflamegrows,severaleventsreducetheflameluminosity:(i) Thehighconcentrationof combustion
+productsleft behindby theflamefrontinhibitstheformationof newsootandpromotessootoxidation.
+(ii) Theprimaryreactionzone,seekingoxygen,movesawayfromthesootregionandthesootis pushed
+towardcoolerregionsby thermophoresis.Boththeseeffectsincreasethedistancebetweenthesootlayer
+and the reactionzone. (iii) The dilution and radiativeheatlossescausedby the increasein the
+concentrationof thecombustionproductsreducestheflametemperaturewhichin turn reduces the soot
+formation rate and the flame luminosity.
+Upon further observation, we note that the ethylene flames become blue toward the end of the/_g time
+while the acetylene flames remain luminous yellow (although the intensity is significantly reduced as seen
+by the photodiode measurements in Figure 2). This is because of the higher sooting tendency of acetylene
+which enables soot formation to persist for a longer time. Thus, acetylene soot remains closer to the high
+temperature reaction zone for a longer time making the average soot temperature higher and the distance
+between the soot and the reaction layers smaller. Eventually, as is evident from Figure 2, even the
+acetylene flames will become blue in gg. From Figure 2 we note that the peak radiation intensity occurs
+at about 2.5 cm flame radius which corresponds to a time of about 0.2 seconds. This is almost the
+location of the first thermocouple whose output is plotted in Figures 3 & 4 as Tgas(1). From the
+temperature measurements presented in Figures 3 & 4, we note that: (i) The flame radiation significantly
+reduces the flame temperature (compare the peaks of the second thermocouple with those of the f'u'st for
+both fuels) by approximately 300K for ethylene and 500K for acetylene. (In fact, the acetylene flame
+seems to be on the threshold of extinction at this instant.) (ii) The temperature of the acetylene flame is
+about 200K lower than the ethylene flame at the fin'st thermocouple location. (iii) The final gas temperature
+is also about 100K lower for the acetylene flame, which is consistent with larger radiative heat loss.
+The data from the photodiodes is further reduced to obtain the total soot mass and the average
+temperature of the soot layer. This is plotted in Figures 5 & 6. These figures show that the average
+acetylene soot layer temperature is higher than the average ethylene soot layer temperature. The total soot
+mass produced by acetylene peaks at 0.2 seconds which corresponds to the peak of the first thermocouple,
+explaining the large drop in temperature. Also, the acetylene soot layer is cooling more slowly than the
+ethylene soot layer which is consistent with the above discussion regarding the photographic observations.
+Thus, for ethylene the reaction layer is moving away faster from the soot layer than in the case of
+acetylene. This is also consistent with the fact that ethylene soot mass becomes nearly constant but the
+acetylene soot mass reduces due to oxidation. Finally, the rate of increase in the total soot mass (i.e. the
+soot production rate) should be related to the sooting tendency of a given fuel. This corresponds to the
+slope of the soot mass curve in Figures 5 & 6. Clearly, the slope for acetylene is higher.
+The flame radius measurements, presented in Figure 1, show a substantial change in the growth rate
+from initially being roughly proportional to tin to eventually (after significant radiative heat loss) being
+321
+//
+/
+/J
+
+--- [Page 4] ---
+proportional to t vS. In Ref. 5, we had developed a
+model for the expansion rate of non-radiating flames
+which is currently being modified to include the
+effects of radiant heat loss.
+Theoretical Work: Due to lack of space, only our
+most recent theoretical work is summarized here. In
+this work, to quantify the low-strain-rate radiationinduced diffusion flame extinction limits, a
+computational model has been developed for an
+unsteady counterflow diffusion flame. So far, only the
+radiative heat loss from combustion products (CO2 and
+1-120) have been considered in the formulation. The
+computations show a significant reduction in the flame
+temperature due to radiation. The adjacent figure
+22OO
+g_o0
+jt_0
+-- mlan. ¢tO & O.g
+-- II_llmm 0.1 & 1.0
+.... Imltn* O.S & S.O
+..... 1_1111_0.75&10,0
+011 02 0.3 0.4 O_ O.I 0.7 0.$ O.g
+Time (_¢)
+Reduction in Maximum Flame Temperature with
+Radiation (T,=295K, YF.--0.125, Y_--0.5)
+shows the time variations of the maximum flame temperature for various values of the strain rates. This
+plot shows that for flames with strain rates less than 1 sl, the effect of gas radiation is sufficient to cause
+extinction. These resu!ts agree with our earlier study [6] at zero strain rate where gas radiation was also
+found to be sufficient to cause extinction. Clearly, additional radiation due to soot will extinguish the
+flames at higher strain rates.
+Acknowledgements: This project is supported by NASA under contract no. NAG3-1460.
+REI_RENC'_
+1. Jackson, G., S., Avedisian, C., T. and Yang, J., C., Int. J. Heat Mass Transfer., Vol.35, No. 8, pp.
+2017-2033, 1992.
+2. T'ien, J. S., Sacksteder, K. R., Ferkul, P. V. and Grayson, G. D. "Combustion of Solid Fuels in very
+Low Speed Oxygen Streams," Second International Microgravity Combustion Workshop," NASA
+Conference Publication, 1992.
+3. Ferkul, P., V., "A Model of Concurrent Flow Flame Spread Over a Thin Solid Fuel," NASA Contractor
+Revort 19111_,1 1993.
+4. Ross, H. D., Sotos, R. G. and T'ien, J. S., Combustion Science and Technology, Vol. 75, pp. 155-160,
+1991.
+5. Atreya, A, Agrawal, S., Sacksteder, K., and Baum, H., "Observations of Methane and Ethylene Diffusion
+Flames Stabilized around a Blowing Porous Sphere under Microgravity Conditions," AIAA paper # 940572, January 1994.
+6. Atreya, A. and Agrawal, S., "Effect of Radiative Heat Loss on Diffusion Flames in Quiescent
+Microgravity Atmosphere," Accepted for publication in Combustion and Flame, 1993.
+7. Pickett, K., Atreya, A., Agrawal, S., and Sacksteder, K., "Radiation from Unsteady Spherical Diffusion
+Flames in Microgravity," AIAA paper # 95-0148, January 1995.
+8. Shamim, T., and Atreya, A. "A Study of the Effects of Radiation on Transient Extinction of Strained
+Diffusion Flames," Central States Combustion Institute Meeting, 1995.
+9. Atreya, A. and Zhang, C., "A Global Model of Soot Formation derived from Experiments on Methane
+Counterflow Diffusion Flames," in preparation for submission to Combustion and Flame.
+10. Zhang, C., Atreya, A. and Lee, K., Twenty-Fourth .(international) Symposium on Combustion, The
+Combustion Institute, pp. 1049-1057, 1992.
+U. Atreya, A., "Formation and Oxidation of Soot in Diffusion Flames," Annual Technical Reoort, GRI91/0196, Gas Research Institute, November, 1991.
+322
+
+--- [Page 5] ---
+323
+
+--- [Page 6] ---
+Photo El. Ethylene flame at 0.067 sec pg time.
+(Flow rate: 20 mllsec)
+Photo Al. Acctylenc flame at 0.067 sec pg time.
+(Flow rate: 20 mllsec)
+(Flow rate: 20 ml/sec)
+Photo E3. Ethylene flame at 1.80 sec pg time.
+(Flow rate: 20 mllsec)
+Photo A2. Acctylcnc flame at 0.50 sec pg time.
+(Flow rate: 20 ml/sec)
+Photo A3. Acetylene flame at 1.90 sec pg time.
+(Flow rate: 20 ml/sec)

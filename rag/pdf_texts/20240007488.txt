@@ -1,0 +1,351 @@
+--- [Page 1] ---
+Preliminary Results from the Saffire VI Experiment
+2024 53rd International Conference on Environmental Systems
+July 21‐25, 2024, Louisville, KY
+
+--- [Page 2] ---
+Authors
+• David L. Urban, Gary A. Ruff, Paul Ferkul, John Easton, Michael Johnston, Jay Owens, Sandra Olson,
+Claire Fortenberry NASA Glenn Research Center, Cleveland, OH, USA
+• John Graf, Oageng George, NASA Johnson Space Center, Houston, TX, USA
+• Balazs Toth, ESTEC, Noordwijk, Netherlands
+• Florian Meyer, Christian Eigenbrod, University of Bremen (ZARM), Bremen, Germany
+• James S. T’ien, Ya-Ting T. Liao, Case Western Reserve University, Cleveland, OH, USA
+• A. Carlos Fernandez-Pello, UC Berkeley, Berkeley, CA, USA
+• Guillaume Legros, CNRS-ICARE, Univ. Orléans, Orléans, France
+• Augustin Guibaud, University College, London, UK
+• Nickolay Smirnov, Moscow State University, Russian Federation
+• Osamu Fujita, Hokkaido University, Sapporo, Japan
+• Ulises Rojas Alva, Grunde Jomaas, Slovenian National Building and Civil Engineering Institute, Ljublijana
+Acknowledgements: NASA Mars Campaign Office
+Space and Research agencies that have supported this work including but not limited to JAXA, ESA, RSA,
+CNES, DLR, the Russian Academy of Sciences and NASA. ]The excellent support by the engineering team
+(NASA and Zin Technologies), Northrup Grumman and the on-orbit crew are gratefully acknowledged.
+2
+
+--- [Page 3] ---
+How rapidly can a fire spread in low-g?
+• This question lies at the heart of the development of a
+spacecraft fire safety strategy
+– Similar to any terrestrial fire safety application
+• Rate of fire growth impacts:
+– Time to detect
+• Early detection reduces impac t of fire, response strategy
+– Size of fire
+• Amount of fire suppression agent required
+– Heat release rate, fire spread to surrounding materials
+• Collateral damage
+– Emission of combustion products
+• Post-fire cleanup strategy and consumables
+NIST Full Scale Fire test
+FAA full scale aircraft test
+ALL terrestrial occupied structure types have been the subject of full scale fire tests
+(planes, ships, cars, trains, buildings, mines etc.)
+3
+
+--- [Page 4] ---
+Background
+4
+Background
+– First conceived in 2003 for a different spacecraft
+– First funded in 2011
+– Saffire I-III flew in 2016 & 2017
+– Examined fire growth on thin fuels and flammability
+limits
+• Saffire IV-VI objectives
+– Consider thick fuels, longer burn times & exploration
+atmospheres,
+– Examine impact on the vehicle and post fire recovery
+– Saffire IV and V flew in 2020 and 2021 and Saffire VI
+flew in December 2023
+Far Field Diagnostics (in Mid Deck Locker)
+Avionics, CO2 scrubber, Smoke Eater, Combustion Products Monitor, particulate monitors
+(DustTrack & Ion Chamber)
+Remote Sensors (6)
+Measure temp & CO2 in standoffs,
+hatch and end cone
+Saffire Flow Unit
+Approx. 53x90x133cm. New features
+include 2 side view cameras, acid gas, O2,
+heat and byproduct release to cabin
+
+--- [Page 5] ---
+Cygnus Spacecraft
+5
+Pressurized
+volume 19 m3
+Typically, on‐orbit
+for  several
+months
+19 successful
+flights since 2013
+
+--- [Page 6] ---
+Saffire InstallaTION
+6
+
+--- [Page 7] ---
+As installed
+7
+
+--- [Page 8] ---
+Spacecraft Interior before return
+8
+
+--- [Page 9] ---
+Configuration in spacecraft
+Dots are remote sensors, RED in standoffs, GREEN in end cone or hatch.
+A: Saffire Flow Unit
+B: Far Field Diagnostics
+9
+
+--- [Page 10] ---
+Overview of Flow System
+
+--- [Page 11] ---
+Test Matrix (as executed)
+11
+Flight/Sample IV ‐1V ‐2V I ‐2V I ‐3V I ‐4
+Material/configuration SIBAL
+Cloth
+Cotton
+Jersey
+SIBAL Cloth Two ‐Sided
+PMMA
+One‐Sided
+PMMA
+Length (cm) 50   50 50 18 18
+Air Flow Rate (cm/s) 20 20 20 20 20
+Flow Direction Concurrent Concurrent Concurrent Concurrent Concurrent
+Ambient Pressure (kPa) 100.0 70.7 54.1 54.6 55.2
+Oxygen Concentration
+(mol %)
+22.0 26.2 31.0 30.3 28.8
+Free volume (m
+3) 17.9 19.0 16.7 16.7 16.7
+
+--- [Page 12] ---
+Sample configuration
+Saffire IV & VI
+12
+SIBAL Fabric
+Test 2
+Air and Normoxic O2
+with forced flow
+Test 1
+Test 4
+2‐sided PMMA (1 cm thick.)
+1‐sided PMMA (0.5 cm thick.)
+Nomex Fabric
+Test 3
+Saffire V
+Duct width 45 cm
+Duct Length 109 cm
+Duct Half Height 15 cm
+Samples 41 cm wide
+
+--- [Page 13] ---
+Saffire VI samples
+13
+Oxidizer flow is from the left at 20 cm/s in all cases.
+SIBAL fabric (test 2) 2‐sided
+PMMA
+(test 3)
+1‐sided
+PMMA
+(test 4)
+
+--- [Page 14] ---
+SIBAL Sample
+14
+
+--- [Page 15] ---
+2-Sided PMMA Sample
+15
+
+--- [Page 16] ---
+Temperature results for Saffire VI-3 (two-sided PMMA).
+16
+‐0.1
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+0 1000 2000 3000
+Igniter Current (A)
+Temperature (degC)
+Time (s)
+SFU Outlet FFD Inlet Forward‐Port Igniter Current
+Ignition at 637 s
+Flow reduced at 1120 s
+Duct flow terminated at
+1420 seconds
+The forward port sensor
+is the nearest to the
+Saffire flow duct outlet.
+
+--- [Page 17] ---
+Heat Release for Saffire VI-3 (two-sided PMMA)
+17
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+0
+1
+2
+3
+4
+5
+6
+7
+8
+500 1000 1500
+Flame Power (W) and
+Radiometer (x10)
+Oxygen mass flow rate (mg/s)
+Time (s)
+Inlet O2
+Outlet O2 Flame power
+Radiometer #4 (x10) 10 per mov. avg.
+Ignition at 637 s
+Flow was changed
+from 20 cm/s to 5
+cm/s at 1120
+seconds
+Flow terminated at
+1420 s.
+
+--- [Page 18] ---
+CO and CO2 concentrations for Saffire VI-3 (two-sided PMMA)
+18
+0
+500
+1000
+1500
+2000
+2500
+0
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+0 500 1000 1500 2000 2500
+CO Concentration (ppm)
+CO2 Concentration (ppm)
+Time (s)
+SFU Outlet CO2 FFD CO2 SFU Outlet CO FFD CO
+Ignition at 637 s
+Flow reduced from
+20 cm/s to 5 cm/s
+at 1120 seconds.
+Flow terminated at
+1420 seconds
+
+--- [Page 19] ---
+Far field ionization smoke detector and particulate matter measurements
+for Saffire VI-3 (two-sided PMMA).
+19
+
+--- [Page 20] ---
+Heat Release Results
+Oxygen
+Consumption
+Calorimetry
+Fuel Consumption
+Calorimetry
+Saffire
+Flight/
+Sample
+Material Burn
+duration
+(s)
+Peak
+Heat
+Release
+(W)
+Total
+Heat
+Release
+(kJ)
+Average
+Heat
+Release
+(W)
+Total
+Heat
+Release
+(kJ)
+Max
+Temp
+at SFU
+outlet
+Max
+Temp at
+FFD or
+nearest
+location
+FFD inlet
+CO
+2
+increase
+(ppm)
+CO2
+partial
+pressure
+increase
+(mmHg)
+FFD inlet CO
+increase
+(ppm)
+IV‐1 SIBAL 130 3,150 409 45 25 1390 1.03 80
+V‐2 Cotton
+Jersey
+200 2,800 560 46 23 2360 1.26 83
+VI‐2 SIBAL 112 3217 580 3,650 409 48 20 2800 1.15 120
+VI‐3 2‐sided
+PMMA
+780 3080 1280 77 21 8539 3.51 308
+VI‐4 1‐sided
+PMMA
+1200 1507 830 57 21 8117 3.37 320
+20
+1-hour limit for CO2 is 3 mmHg, 1 hour limit for CO is 425 ppm, 24 hours is 100 ppm
+
+--- [Page 21] ---
+Conclusions
+21
+• Practical scale fires ranging from 1.5 to 3.2 kW were tested in unmanned spacecraft
+with free air volumes of 17 to 19 cubic meters.
+• The temperature only increased significantly very near to the fire itself.
+• Ambient concentrations of carbon monoxide exceeded the the 24 ‐hour carbon
+monoxide limit. (for PMMA tests)
+• Ambient concentrations of carbon dioxide exceeded the 1 ‐hour carbon dioxide limit
+(for PMMA tests)
+• The smoke was readily detected at 981 seconds (after most of the hazardous gas
+release had occurred)
+• The human hazard from a fire in a spacecraft is very similar to terrestrial fires where
+the heat from the fire is not the principal hazard and rathe the smoke and gaseous
+products are a much greater concern.
