@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: flaming-fire-fall-backend
+    env: python
+    region: oregon
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn shunnoshikha.backend_api:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: SHUNNO_ADAPTER_MODEL
+        value: simanto848/qwen-microgravity-flammability
