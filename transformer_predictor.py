@@ -11,7 +11,9 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from peft import PeftModel
 
 BASE_MODEL_PATH = os.environ.get("SHUNNO_BASE_MODEL", "Qwen/Qwen3-0.6B")
-ADAPTER_PATH = "models/fine_tuned_qwen_flammability"
+HF_REMOTE_ADAPTER = "simanto848/qwen-microgravity-flammability"
+DEFAULT_ADAPTER = "models/fine_tuned_qwen_flammability" if os.path.exists("models/fine_tuned_qwen_flammability") else HF_REMOTE_ADAPTER
+ADAPTER_PATH = os.environ.get("SHUNNO_ADAPTER_MODEL", DEFAULT_ADAPTER)
 
 ID2LABEL = {0: "Sustained Burn", 1: "Radiative Extinction", 2: "Blowoff"}
 
@@ -32,10 +34,14 @@ class FineTunedQwenPredictor:
         )
         base_model.config.pad_token_id = self.tokenizer.pad_token_id
         
-        if os.path.exists(adapter_path):
+        try:
             self.model = PeftModel.from_pretrained(base_model, adapter_path)
-        else:
-            self.model = base_model
+        except Exception:
+            # Fallback to remote Hugging Face Hub if local path fails
+            try:
+                self.model = PeftModel.from_pretrained(base_model, HF_REMOTE_ADAPTER)
+            except Exception:
+                self.model = base_model
             
         self.model.to(self.device)
         self.model.eval()
