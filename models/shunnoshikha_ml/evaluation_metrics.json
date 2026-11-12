@@ -1,0 +1,61 @@
+{
+  "model_name": "XGBoost regime classifier (physics-distilled, SHAP-explainable)",
+  "data_version": 3,
+  "training_rows": 1361,
+  "holdout_rows": 341,
+  "flight_records": 64,
+  "physics_grid_rows": 1638,
+  "test_accuracy": 1.0,
+  "test_macro_f1": 1.0,
+  "confusion_matrix": [
+    [
+      85,
+      0,
+      0
+    ],
+    [
+      0,
+      137,
+      0
+    ],
+    [
+      0,
+      0,
+      119
+    ]
+  ],
+  "classification_report": {
+    "Sustained Burn": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 85.0
+    },
+    "Radiative Extinction": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 137.0
+    },
+    "Blowoff": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 119.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 341.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 341.0
+    }
+  },
+  "label_source": "digital-twin physics (single source of truth)"
+}
